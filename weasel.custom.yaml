@@ -1,9 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun May 17 13:13:08 2020"
+  rime_version: 1.5.3
 patch:
-  "app_options/hl.exe":                   # 为特定程序指定默认输入法为英文，多个程序复制这两行即可
+  "app_options/hl.exe":
     ascii_mode: true
-  "style/color_scheme": aqua              # 主题
-  "style/font_face": "Microsoft YaHei"    # 字体
-  "style/font_point": 13                  # 字号
-  "style/horizontal": true                # 候选词横竖排显示
-  "style/inline_preedit": false           # 內嵌编码
-  "style/display_tray_icon": false        # 显示托盘图标
+  "style/color_scheme": aqua
+  "style/display_tray_icon": false
+  "style/font_face": "Microsoft YaHei"
+  "style/font_point": 13
+  "style/horizontal": true
+  "style/inline_preedit": false
