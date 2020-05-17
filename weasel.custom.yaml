@@ -1,0 +1,9 @@
+patch:
+  "app_options/hl.exe":                   # 为特定程序指定默认输入法为英文，多个程序复制这两行即可
+    ascii_mode: true
+  "style/color_scheme": aqua              # 主题
+  "style/font_face": "Microsoft YaHei"    # 字体
+  "style/font_point": 13                  # 字号
+  "style/horizontal": true                # 候选词横竖排显示
+  "style/inline_preedit": false           # 內嵌编码
+  "style/display_tray_icon": false        # 显示托盘图标

@@ -1,0 +1,14 @@
+patch:
+  schema_list:
+    - {schema: luna_pinyin}
+    - {schema: luna_pinyin_simp}
+  "menu/page_size": 7                     #每页候选词个数
+  "switcher/hotkeys":                     #只能通过ctrl+`来调出方案选项，F4不再有效
+    - "Control+grave"
+
+# 键名一览：https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+  "key_binder/bindings":
+    - { when: paging, accept: bracketleft, send: Page_Up }                     #设置[]上下翻页
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { accept: "Control+Shift+space", toggle: simplification, when: always }  #设置切换简繁快捷键
+    

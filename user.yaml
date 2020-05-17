@@ -1,0 +1,11 @@
+var:
+  last_build_time: 1589684686
+  option:
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    luna_pinyin: 1589608851
+    luna_pinyin_simp: 1589601596
+  states:
+    - "漢字"
+    - "汉字"
