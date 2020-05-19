@@ -2,609 +2,731 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	827
+#@/tick	949
 #@/user_id	myrimedata-windows
-a 	啊	c=7 d=2.83753 t=827
-a a 	啊啊	c=2 d=0.923315 t=827
-a a a 	啊啊啊	c=0 d=0.176479 t=827
-a a a a 	啊啊啊啊	c=0 d=0.435094 t=827
-a a a a a wa a a sa sa dan wei de dao 	啊啊啊啊阿佤啊啊灑灑單位得到	c=1 d=0.286505 t=827
-a a a a da wa wu wu wu wa wa a a a a a a a a a a a a a a a a da wa da da de wa ren a a a a a a a a wa wu wu wu ding ding ding ding da da a wa qi qi ai ai a a a a dui wo shuo sheng sheng shi shi sa dan wei qu qi a da wa wu wu wu wa wa de da sa wa da wu wu wu wu wu wu wu wu wu wu wu wu wei sa wa dang wen 	啊啊啊啊大窪嗚嗚嗚娃娃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大窪大大的蛙人啊啊啊啊啊啊啊阿佤嗚嗚嗚頂頂頂頂大大阿佤期期艾艾啊啊啊啊對我說生生世世撒旦未娶妻啊大窪嗚嗚嗚哇哇地搭撒挖大嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚維薩瓦當文	c=1 d=0.377192 t=827
-a a a a wei 	啊啊啊啊爲	c=1 d=0.459267 t=827
-a a da wa da wa 	啊啊大窪大窪	c=1 d=0.396531 t=827
-a da 	阿達	c=1 d=0.578282 t=827
-a da da de da su da a a ai ren wa 	啊大大的大蘇打啊啊愛人瓦	c=1 d=0.421052 t=827
-a da wu ren dao da an da she wan 	阿達無人島答案大蛇丸	c=1 d=0.444858 t=827
-a di da si 	阿迪達斯	c=0 d=0.0313486 t=827
-a di di da da da da wei da an de sen da ren ai ao wa dang shi wu di de 	啊滴滴答答大大偉大安德森大人艾奧瓦當世無敵的	c=1 d=0.298197 t=827
-a du wu 	阿堵物	c=0 d=0.14111 t=827
-a du wu ding ding ding ding ding ding ding ding ren wei guang wu ran 	阿堵物頂頂頂頂頂頂頂頂認爲光污染	c=1 d=0.324652 t=827
-a sa sa wa ran a da da wei de 	啊灑灑窪然阿達大威德	c=1 d=0.423162 t=827
-a si dun 	阿斯頓	c=3 d=0.294559 t=827
-a wa 	阿佤	c=1 d=0.633101 t=827
-a wa qi qian da duo shu ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu 	阿佤七千大多數頂頂頂頂頂頂頂頂頂頂頂頂低等動物	c=1 d=0.323033 t=827
-a wa qing qi bing 	阿佤輕騎兵	c=1 d=0.429557 t=827
-a wa wu wu wu 	阿佤嗚嗚嗚	c=1 d=0.547983 t=827
-a wa wu wu wu wa an quan da da de wa a a a a qi a wa wa da 	阿佤嗚嗚嗚瓦安全大大的瓦啊啊啊啊其阿佤挖大	c=1 d=0.357007 t=827
-a wa wu wu wu wei qu qi ding ding ding ding da da de di di da da 	阿佤嗚嗚嗚未娶妻頂頂頂頂大大的滴滴答答	c=1 d=0.362402 t=827
-a wa wu wu wu wu wu wu wa da 	阿佤嗚嗚嗚嗚嗚嗚挖大	c=1 d=0.460704 t=827
-ai ao wa 	艾奧瓦	c=0 d=0.0930018 t=827
-ai dao de 	挨刀的	c=0 d=0.165764 t=827
-ai qiang qian wu 	矮牆淺屋	c=0 d=0.0329559 t=827
-ai qiang qian wu qi qi qie qie ai dao de wu wu wu qi qian a si dun wa de dao ding ding ding ding ding ding ding ding diao wa dai wa de dao qi qian wo bing bu 	矮牆淺屋悽悽切切挨刀的嗚嗚嗚七千阿斯頓挖地道頂頂頂頂頂頂頂頂吊襪帶挖地道七千我並不	c=1 d=0.331211 t=827
-ai ren 	愛人	c=0 d=0.0418952 t=827
-ai wo wo 	艾窩窩	c=1 d=0.346456 t=827
-an a ding 	氨吖啶	c=0 d=0.101512 t=827
-an an 	暗暗	c=0 d=0.0298197 t=827
-an an ai dao de da wa a a a a a a a a a a a da wa ding ding ding ding ding ding ding ding ding ding ding ding wa da a wa ding ding ding ding da da da wa a a a a a a a a an a ding wu di dong wa de dao ding ding ding ding ding ding ding ding ding ding ding ding dan da ru dou bu 	暗暗挨刀的大窪啊啊啊啊啊啊啊啊啊啊啊大窪頂頂頂頂頂頂頂頂頂頂頂頂挖大阿佤頂頂頂頂大大大窪啊啊啊啊啊啊啊啊氨吖啶無底洞挖地道頂頂頂頂頂頂頂頂頂頂頂頂膽大如斗不	c=1 d=0.299692 t=827
-an de sen 	安德森	c=0 d=0.029671 t=827
-an de si shan 	安地斯山	c=1 d=0.318224 t=827
-an ding qi 	安定器	c=0 d=0.0318224 t=827
-an quan 	安全	c=0 d=0.0355226 t=827
-an zhuang 	安裝	c=1 d=0.283654 t=827
-ba 	吧	c=5 d=1.57391 t=827
-ba 	把	c=1 d=0.382893 t=827
-ban ben 	版本	c=0 d=0.109864 t=827
-ban tian 	半天	c=2 d=0.971321 t=827
-bei 	被	c=1 d=0.358796 t=827
-bian ma 	編碼	c=1 d=0.18452 t=827
-biao ti 	標題	c=1 d=0.678189 t=827
-bu 	不	c=7 d=2.48449 t=827
-bu cuo 	不錯	c=1 d=0.927743 t=826
-bu neng 	不能	c=1 d=0.970446 t=827
-bu xian shi 	不顯示	c=1 d=0.0420036 t=827
-bu zai 	不再	c=1 d=0.12307 t=827
-bu zhuang 	不裝	c=1 d=0.506617 t=827
-cai jie 	採擷	c=1 d=1 t=826
-chan 	禪	c=1 d=0.0767371 t=827
-chan dao 	產道	c=1 d=0.0539337 t=827
-chan dao 	禪道	c=15 d=5.6488 t=827
-chan dao nao 	禪道鬧	c=1 d=0.239309 t=827
-chan nan dao 	禪難道	c=2 d=0.475079 t=827
-chan pin 	產品	c=1 d=0.143704 t=827
-chan zhi 	蟬知	c=3 d=1.00946 t=827
-chao shi 	超市	c=0 d=0.0120633 t=827
-cheng 	成	c=1 d=0.612626 t=827
-cheng gong 	成功	c=1 d=0.163654 t=827
-cheng xu 	程序	c=3 d=0.200186 t=827
-chong ming dao 	崇明島	c=1 d=0.209088 t=827
-ci 	詞	c=1 d=0.111054 t=827
-cong 	從	c=1 d=0.621885 t=827
-da an 	答案	c=0 d=0.111359 t=827
-da da 	大大	c=0 d=0.307183 t=827
-da da de 	大大的	c=1 d=0.669963 t=827
-da da de da da da wang qiu qi qian a du wu da da de da da de qing wen qin ai 	大大的大大打網球七千阿堵物大大的大大的請問親愛	c=1 d=0.327915 t=827
-da di dang qian 	大敵當前	c=0 d=0.033454 t=827
-da duo shu 	大多數	c=1 d=0.171754 t=827
-da duo shu ren 	大多數人	c=0 d=0.0293758 t=827
-da fei ji 	打飛機	c=0 d=0.00399551 t=827
-da fu du 	大幅度	c=0 d=0.0121846 t=827
-da jia 	大家	c=0 d=0.0348192 t=827
-da ren 	大人	c=0 d=0.0635657 t=827
-da ren a wa 	大人阿佤	c=1 d=0.0468877 t=827
-da sa 	搭撒	c=0 d=0.158692 t=827
-da sa shi shi shang shuo dao di ding ding ding ding ding ding ding ding wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu dong shen qian wang wa da ai dao de ding ding ding ding duo da dian shi wa wa de 	搭撒事實上說到底頂頂頂頂頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚動身前往挖大挨刀的頂頂頂頂多大點事哇哇地	c=1 d=0.307279 t=827
-da she wan 	大蛇丸	c=0 d=0.0442639 t=827
-da shi da fei 	大是大非	c=1 d=0.101266 t=827
-da shi dai 	大時代	c=0 d=0.063166 t=827
-da su da 	大蘇打	c=0 d=0.0418952 t=827
-da wa 	大窪	c=1 d=0.771283 t=827
-da wa 	打瓦	c=0 d=0.0318224 t=827
-da wa an ding qi 	打瓦安定器	c=1 d=0.319819 t=827
-da wang qiu 	打網球	c=1 d=0.421309 t=827
-da wei de 	大威德	c=0 d=0.0421052 t=827
-da wu wei 	大無畏	c=1 d=0.488587 t=827
-da wu wei wa sa dan wa ao a a a a da da de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa da shi dai wa a da wa da 	大無畏瓦撒旦凹凹啊啊啊啊大大的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪大時代瓦阿達挖大	c=1 d=0.339596 t=827
-da xie 	大寫	c=1 d=0.882497 t=827
-dai biao 	代表	c=0 d=0.0444858 t=827
-dai fu kuan 	代付款	c=9 d=1.39361 t=827
-dai fu kuan duan kou 	代付款端口	c=1 d=0.0639279 t=827
-dai fu kuan le 	代付款了	c=1 d=0.189191 t=827
-dai fu kuan shi da fu 	代付款士大夫	c=1 d=0.0393602 t=827
-dan da ru dou 	膽大如斗	c=0 d=0.0298197 t=827
-dan du 	單獨	c=1 d=0.66034 t=827
-dan ni er 	丹尼爾	c=1 d=0.0596059 t=827
-dan wei 	單位	c=0 d=0.115617 t=827
-dan wei ru guo shui rong rong 	單位如果水溶溶	c=1 d=0.287941 t=827
-dang dang wang 	當當網	c=0 d=0.0800356 t=827
-dang dang wang wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wen suo wei wen da da de wa ao a wa wu wu wu wu wu wu wu wu wu wa da da an a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da da wei qu qi 	當當網嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚聞所未聞大大的凹凹阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大答案啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大未娶妻	c=1 d=0.379083 t=827
-dang feng sha 	擋風沙	c=0 d=0.0199888 t=827
-dang feng sha de 	擋風沙的	c=1 d=0.20089 t=827
-dang shi wu di 	當世無敵	c=0 d=0.029671 t=827
-dao 	到	c=1 d=0.634448 t=827
-dao 	道	c=1 d=0.0536647 t=827
-dao qian qi shi 	道歉啓事	c=0 d=0.0327915 t=827
-dao qian qi shi a du wu 	道歉啓事阿堵物	c=1 d=0.329559 t=827
-de 	的	c=30 d=7.72774 t=827
-de da da a a a a a a a a a a a wei dai biao 	的大大啊啊啊啊啊啊啊啊啊啊啊爲代表	c=1 d=0.447088 t=827
-de dao 	得到	c=0 d=0.0285076 t=827
-de kai fa 	的開發	c=9 d=2.63082 t=827
-de kai fa jiang 	的開發將	c=1 d=0.694197 t=826
-de kai fa kuan 	的開發款	c=3 d=0.613044 t=827
-de kai fa kuan shi 	的開發款是	c=1 d=0.205975 t=827
-de kai fa li kai 	的開發離開	c=1 d=0.138069 t=827
-de wa ao a a a a a a a a da shi dai wa da da sa an a ding wei da da an wu wu wu wu wu wu wu wu wu wa wa de wu wu wu wu wu wu wu wu wu wa ao shi da da shan da wang da da da duo shu ren da wa a a a a a a a a shang wang da da wa ao da sa da duo shu ren wei da a a a dan wei ding ding ding ding dan wei wu wu wu wu wu wu wu wu wu wu wu wu 	的凹凹啊啊啊啊啊啊啊啊大時代挖大搭撒氨吖啶偉大答案嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地嗚嗚嗚嗚嗚嗚嗚嗚嗚凹凹溼答答山大王大大大多數人大窪啊啊啊啊啊啊啊啊上網大大凹凹搭撒大多數人偉大啊啊啊單位頂頂頂頂單位嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚	c=1 d=0.29523 t=827
-de wa ran wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da wu wei wu wu wu wu wu wu wu wu wu wa da da da a a a a a a a da da de da wu wei wu wu wu wu wu wu wu wu wu wa wa de ding ding ding ding a 	的窪然嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大大啊啊啊啊啊啊啊大大的大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地頂頂頂頂啊	c=1 d=0.451581 t=827
-di deng dong wu 	低等動物	c=0 d=0.141608 t=827
-di di da da 	滴滴答答	c=0 d=0.229493 t=827
-di fang 	地方	c=19 d=4.55432 t=827
-di fang da fu du 	地方大幅度	c=1 d=0.122456 t=827
-di fang fan de sa 	地方范德薩	c=2 d=0.214073 t=827
-di fang she ding 	地方設定	c=5 d=0.636548 t=827
-di fang shi da fu 	地方士大夫	c=3 d=0.503421 t=827
-di qu 	滌去	c=0 d=0.0745796 t=827
-di qu an a ding da wa da duo shu wa ran an a ding di deng dong wu dang dang wang re ai 	滌去氨吖啶大窪大多數窪然氨吖啶低等動物當當網熱愛	c=1 d=0.425283 t=827
-di qu da da a a a a a a da da de wa da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da da wa ran da da de ding ding ding ding da da de di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a du wu wu wu wu wu wu wu wu wu wu da da de da da a a a a a a a a a a a a a a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu da da a a a a a da da an a a a a da da de wa da san da wa da 	滌去大大啊啊啊啊啊啊大大的挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大大窪然大大的頂頂頂頂大大的滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿堵物嗚嗚嗚嗚嗚嗚嗚嗚嗚大大的大大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大啊啊啊啊阿達答案啊啊啊啊大大的挖大三大挖大	c=1 d=0.436049 t=827
-di qu wei qu de 	滌去未取得	c=1 d=0.313486 t=827
-di san fang 	第三方	c=2 d=0.879415 t=827
-di san fang kao lv 	第三方考慮	c=1 d=0.697676 t=826
-dian dao shi fei 	顛倒是非	c=0 d=0.0173774 t=827
-dian dao shi fei shi da fu 	顛倒是非士大夫	c=1 d=0.174645 t=827
-dian fan guo 	電飯鍋	c=1 d=0.0955409 t=827
-dian fan guo di fang 	電飯鍋地方	c=1 d=0.701173 t=826
-dian feng shan 	電風扇	c=5 d=2.25251 t=827
-dian feng shan kou dai li 	電風扇口袋裏	c=1 d=0.831104 t=827
-dian hua 	電話	c=0 d=0.00658748 t=827
-dian hua ze 	電話則	c=1 d=0.066205 t=827
-dian nao 	電腦	c=1 d=0.951229 t=827
-diao chu 	調出	c=1 d=0.151111 t=827
-diao wa dai 	吊襪帶	c=0 d=0.114694 t=827
-ding ding ding ding 	頂頂頂頂	c=0 d=0.707363 t=827
-ding ding ding ding di deng dong wu wa wa a da wa wa de wa de dao da wa ai dao de ding ding ding ding da wa 	頂頂頂頂低等動物娃娃阿達哇哇地挖地道大窪挨刀的頂頂頂頂大窪	c=1 d=0.308819 t=827
-ding ding ding ding ding ding ding ding da da de wu wu wu wu wu wu si wa a di da si wa wa da wa wa da ding ding ding ding wa wei ruan ai ao wa da wu wei wu wu ran ban ben 	頂頂頂頂頂頂頂頂大大的嗚嗚嗚嗚嗚嗚絲襪阿迪達斯娃娃大窪挖大頂頂頂頂瓦微軟艾奧瓦大無畏無污染版本	c=1 d=0.315058 t=827
-dong hua 	動畫	c=1 d=0.683861 t=827
-dong shen qian wang 	動身前往	c=0 d=0.0305746 t=827
-duan kou 	端口	c=9 d=3.09433 t=827
-dui 	對	c=1 d=0.0471227 t=827
-dui wo shuo 	對我說	c=0 d=0.0375311 t=827
-duo da dian shi 	多大點事	c=1 d=0.431092 t=827
-duo fu duo shou 	多福多壽	c=3 d=0.527899 t=827
-duo ge 	多個	c=1 d=0.0797763 t=827
-duo ge cheng xu 	多個程序	c=1 d=0.0515605 t=827
-fa 	發	c=2 d=1.6461 t=827
-fa di fang 	發地方	c=1 d=0.131336 t=827
-fa xian 	發現	c=2 d=0.0954455 t=827
-fan de sa 	范德薩	c=0 d=0.0901474 t=827
-fan ye 	翻頁	c=1 d=0.19398 t=827
-fang an 	方案	c=0 d=0.0110251 t=827
-fang an xuan xiang 	方案選項	c=1 d=0.110803 t=827
-fang fa 	方法	c=2 d=0.50443 t=827
-fang kong dong 	防空洞	c=1 d=0.208045 t=827
-fang shi 	方式	c=0 d=0.0163654 t=827
-fang wen 	訪問	c=1 d=0.594521 t=827
-fei chang 	非常	c=2 d=0.956356 t=827
-feng ji kou 	風紀扣	c=0 d=0.0218712 t=827
-fu hao 	符號	c=1 d=0.790571 t=827
-fu wu 	服務	c=1 d=0.0385061 t=827
-fu zhi 	複製	c=2 d=0.127215 t=827
-ga ran 	嘎然	c=0 d=0.0319819 t=827
-ga ran rong rong dang dang ding ding ding ding ding ding ding ding wu wu ran da sa ai ao wa sa wa ao ban ben 	嘎然溶溶蕩蕩頂頂頂頂頂頂頂頂無污染搭撒艾奧瓦撒凹凹版本	c=1 d=0.321422 t=827
-gao xing 	高興	c=0 d=0.0121238 t=827
-ge 	個	c=0 d=0.00566989 t=827
-ge ren 	個人	c=1 d=0.970446 t=826
-ge shu 	個數	c=1 d=0.106992 t=827
-gei 	給	c=2 d=1.04456 t=827
-gong si 	公司	c=0 d=0.0122536 t=827
-gu dan dan de 	孤單單的	c=0 d=0.0465334 t=827
-gu ge 	谷歌	c=0 d=0.00824965 t=827
-gu ge shu ru fa 	谷歌輸入法	c=1 d=0.08291 t=827
-gu zi li 	骨子裏	c=1 d=0.499074 t=827
-gua li 	掛曆	c=1 d=0.244143 t=827
-guan li 	管理	c=1 d=0.245367 t=827
-guan li ruan jian 	管理軟件	c=2 d=0.986256 t=827
-guang biao 	光標	c=1 d=0.0513033 t=827
-guang wu ran 	光污染	c=0 d=0.0323033 t=827
-gui fan de 	規範的	c=1 d=0.0992613 t=827
-ha ha ha ha 	哈哈哈哈	c=1 d=0.546074 t=827
-hai lou 	海樓	c=1 d=0.826959 t=827
-hai shi 	還是	c=2 d=0.844868 t=827
-hai you 	還有	c=1 d=0.251579 t=827
-hao de 	好的	c=2 d=0.925139 t=827
-hao yong 	好用	c=1 d=0.0490458 t=827
-hen 	很	c=0 d=0.0103639 t=827
-hen hao yong 	很好用	c=1 d=0.0518189 t=827
-hen jin 	狠勁	c=1 d=0.50409 t=827
-hen zong wen shu ru fa 	很縱紋輸入法	c=1 d=0.0523397 t=827
-heng shu 	橫豎	c=1 d=0.04573 t=827
-heng xiang 	橫向	c=2 d=0.0752575 t=827
-hou xuan 	候選	c=2 d=0.0802306 t=827
-hou xuan ci 	候選詞	c=2 d=0.116138 t=827
-huang hua cai 	黃花菜	c=0 d=0.0120633 t=827
-huo 	或	c=1 d=0.677057 t=827
-ji 	及	c=1 d=0.264477 t=827
-ji fen ka 	計分卡	c=0 d=0.0229925 t=827
-ji ke 	即可	c=2 d=0.128494 t=827
-ji yu 	基於	c=3 d=0.604083 t=827
-jia 	家	c=1 d=0.123692 t=827
-jia kuai di fei jia 	家快遞費家	c=1 d=0.201897 t=827
-jian fan 	簡繁	c=1 d=0.271738 t=827
-jian kao jian 	肩靠肩	c=1 d=0.690734 t=826
-jian ti zi 	簡體字	c=1 d=0.0550232 t=827
-jian zhan 	建站	c=0 d=0.00547488 t=827
-jian zhan xi tong 	建站系統	c=1 d=0.0550232 t=827
-jiang 	將	c=1 d=0.591555 t=827
-jiao cheng 	教程	c=2 d=1.28911 t=827
-jin jin ji jiao 	斤斤計較	c=0 d=0.0348192 t=827
-jin ti gong 	僅提供	c=0 d=0.0121238 t=827
-jin tian 	今天	c=1 d=0.132458 t=827
-jin tian wo men 	今天我們	c=1 d=0.118837 t=827
-jin wei 	僅爲	c=1 d=0.120032 t=827
-jing li 	經歷	c=1 d=0.574072 t=827
-jiu 	就	c=0 d=0.0516851 t=827
-jiu liang wei 	就兩位	c=1 d=0.519442 t=827
-jiu shi 	就是	c=2 d=1.03426 t=827
-jiu yong 	就用	c=1 d=0.0678809 t=827
-ka da 	喀噠	c=7 d=4.38197 t=827
-ka da jian fan 	喀噠簡繁	c=2 d=1.18961 t=827
-ka fei dian 	咖啡店	c=1 d=0.2334 t=827
-kai dang ku 	開襠褲	c=4 d=3.03888 t=827
-kai fa 	開發	c=1 d=0.162743 t=827
-kai juan kao 	開卷考	c=0 d=0.0909373 t=827
-kai juan kao kong jian 	開卷考空間	c=1 d=0.913931 t=827
-kai pian 	開篇	c=1 d=0.66365 t=827
-kai shi 	開始	c=0 d=0.0049787 t=827
-kai shi lao dong fa 	開始勞動法	c=1 d=0.0500366 t=827
-kan dao 	看到	c=1 d=0.0692522 t=827
-kan kan 	看看	c=2 d=0.98651 t=827
-kang shuai lao 	抗衰老	c=0 d=0.0222017 t=827
-kang shuai lao de kai fa 	抗衰老的開發	c=1 d=0.22313 t=827
-kao lv 	考慮	c=0 d=0.0761279 t=827
-ke lu ji 	刻錄機	c=0 d=0.180813 t=827
-ke lu ji fan de sa 	刻錄機范德薩	c=1 d=0.843665 t=826
-ke lu ji wo en 	刻錄機沃恩	c=1 d=0.0531307 t=827
-ke neng 	可能	c=1 d=0.153355 t=827
-ke yi 	可以	c=2 d=0.849803 t=827
-kong jian 	空間	c=1 d=1.05256 t=827
-kong jian kuai jie jian 	空間快捷鍵	c=1 d=0.909373 t=827
-kong jun si ling 	空軍司令	c=0 d=0.0036334 t=827
-kong jun si ling dai fu kuan le 	空軍司令代付款了	c=1 d=0.0365162 t=827
-kong shou dao 	空手道	c=0 d=0.0971035 t=827
-kong shou dao feng ji kou 	空手道風紀扣	c=1 d=0.219808 t=827
-kong shou dao kai dang ku 	空手道開襠褲	c=1 d=0.0480747 t=827
-kou dai 	口袋	c=1 d=0.154124 t=827
-kou dai li 	口袋裏	c=0 d=0.0826959 t=827
-kou dian fen shu 	扣點分數	c=1 d=0.162242 t=827
-kou dian fen shu dai fu kuan 	扣點分數代付款	c=1 d=0.179066 t=827
-ku 	苦	c=1 d=0.15259 t=827
-kuai di fei 	快遞費	c=7 d=3.92917 t=827
-kuai di fei jia 	快遞費家	c=1 d=0.145019 t=827
-kuai di fei lao shi 	快遞費老師	c=1 d=0.228779 t=827
-kuai jie jian 	快捷鍵	c=1 d=0.288383 t=827
-kuan 	款	c=5 d=1.75712 t=827
-kuan dai fu kuan 	款代付款	c=1 d=0.147342 t=827
-lai 	來	c=1 d=0.109701 t=827
-lang hao 	狼嚎	c=11 d=2.5331 t=827
-lao dong fa 	勞動法	c=0 d=0.0100327 t=827
-lao shi 	老師	c=0 d=0.0227638 t=827
-le 	了	c=6 d=1.81387 t=827
-le shi kuai di fei 	了是快遞費	c=1 d=0.162838 t=827
-li 	裏	c=1 d=0.532496 t=827
-li kai 	離開	c=2 d=0.493432 t=827
-li kai she ding 	離開設定	c=1 d=0.763379 t=827
-li kai shi da fu 	離開士大夫	c=1 d=0.733447 t=826
-liang de fen ju 	兩地分居	c=0 d=0.00495388 t=827
-liang hang 	兩行	c=0 d=0.00518189 t=827
-liang wei 	兩位	c=0 d=0.0516851 t=827
-ling dao 	領導	c=0 d=0.0852144 t=826
-liu cheng 	流程	c=2 d=1.2603 t=827
-liu lan qi 	瀏覽器	c=1 d=0.628135 t=827
-long 	龍	c=1 d=0.535261 t=827
-long kou duo shi 	龍口奪食	c=1 d=0.904837 t=827
-lu fang ji 	錄放機	c=0 d=0.0847894 t=826
-lu ka shen ke 	盧卡申科	c=0 d=0.0852144 t=826
-lv she da fa 	律設大法	c=1 d=0.748264 t=827
-mai le 	買了	c=0 d=0.0120633 t=827
-me 	麼	c=1 d=0.0356146 t=827
-mei ye 	每頁	c=1 d=0.105928 t=827
-mei yi bu 	每一步	c=1 d=0.657047 t=827
-men hu 	門戶	c=1 d=0.126651 t=827
-min jie 	敏捷	c=0 d=0.0247833 t=827
-min jie kai fa 	敏捷開發	c=1 d=0.249075 t=827
-ming 	名	c=1 d=0.198891 t=827
-mo ren 	默認	c=4 d=0.989399 t=827
-mu biao 	目標	c=1 d=0.640824 t=827
-mu lu 	目錄	c=1 d=0.985112 t=826
-nan dao 	難道	c=0 d=0.02334 t=827
-nao 	鬧	c=0 d=0.0238115 t=827
-ne 	呢	c=2 d=1.01403 t=827
-nei rong 	內容	c=1 d=0.647265 t=827
-ni 	你	c=1 d=0.565525 t=827
-nia 	孃	c=0 d=0.0117655 t=827
-o 	哦	c=5 d=2.55658 t=827
-pai 	排	c=1 d=0.0702988 t=827
-pei zhi 	配置	c=4 d=0.85088 t=827
-ping fan 	平凡	c=1 d=0.0845849 t=827
-qi 	其	c=2 d=0.781564 t=827
-qi dong 	啓動	c=1 d=0.960789 t=827
-qi qi ai ai 	期期艾艾	c=0 d=0.0375311 t=827
-qi qi qie qie 	悽悽切切	c=0 d=0.0329559 t=827
-qi qian 	七千	c=1 d=0.469799 t=827
-qi ye 	企業	c=1 d=0.126466 t=827
-qi ye men hu 	企業門戶	c=1 d=0.904837 t=826
-qiang da 	強大	c=0 d=0.0770315 t=827
-qiang da da wa ding ding ding ding ding ding ding ding da da de shi shi shang sui shi sui di wa de se 	強大大窪頂頂頂頂頂頂頂頂大大的事實上隨時隨地瓦德瑟	c=1 d=0.355226 t=827
-qiang duo dao 	搶奪到	c=1 d=0.394554 t=827
-qiao qiao da da 	敲敲打打	c=1 d=0.398954 t=827
-qie huan 	切換	c=1 d=0.19593 t=827
-qin ai 	親愛	c=0 d=0.118064 t=827
-qin ai de 	親愛的	c=0 d=0.0416862 t=827
-qin ai wa da da wu wei ding ding ding ding wu wu wu wu wu wu wu wu wu wa wa de 	親愛挖大大無畏頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地	c=1 d=0.45612 t=827
-qing 	請	c=1 d=0.390628 t=827
-qing qi bing 	輕騎兵	c=0 d=0.0833985 t=827
-qing wen 	請問	c=0 d=0.032628 t=827
-qu 	去	c=1 d=0.119433 t=827
-quan bu 	全部	c=0 d=0.0290835 t=827
-ran zhi 	然之	c=1 d=0.115325 t=827
-re ai 	熱愛	c=0 d=0.0423162 t=827
-ren 	人	c=0 d=0.0053397 t=827
-ren da 	人大	c=0 d=0.128271 t=827
-ren wei 	認爲	c=0 d=0.0323033 t=827
-ren wu lan 	任務欄	c=1 d=0.0422141 t=827
-rong rong dang dang 	溶溶蕩蕩	c=0 d=0.0319819 t=827
-ru guo 	如果	c=0 d=0.0286505 t=827
-ru he 	如何	c=2 d=1.0015 t=827
-ru men 	入門	c=0 d=0.022313 t=827
-ru ruo 	如若	c=1 d=0.0788664 t=827
-ruan 	軟	c=0 d=0.0850456 t=827
-ruan jian 	軟件	c=1 d=0.262241 t=827
-sa 	撒	c=0 d=0.0319819 t=827
-sa dan 	撒旦	c=0 d=0.113007 t=827
-sa sa 	灑灑	c=0 d=0.0706129 t=827
-san da 	三大	c=0 d=0.0433874 t=827
-san hao 	三號	c=0 d=0.0895834 t=827
-san hao biao ti 	三號標題	c=1 d=0.900325 t=827
-san wan qi qian 	三萬七千	c=0 d=0.0348192 t=827
-shan da wang 	山大王	c=0 d=0.0700328 t=827
-shan da wang qing qi bing 	山大王輕騎兵	c=1 d=0.408608 t=827
-shan dong sheng 	山東省	c=1 d=0.114098 t=827
-shan dong sheng de 	山東省的	c=1 d=0.826959 t=826
-shang wang 	上網	c=0 d=0.0293758 t=827
-shang xia 	上下	c=1 d=0.193013 t=827
-she ding 	設定	c=2 d=0.308412 t=827
-she fang di 	設防地	c=1 d=0.22091 t=827
-she ji shi 	設計師	c=1 d=0.0627546 t=827
-she ji shi shi 	設計師是	c=1 d=0.0804596 t=827
-she zhi 	設置	c=4 d=1.23083 t=827
-shen me 	什麼	c=1 d=0.579842 t=827
-shen men 	身門	c=0 d=0.0932394 t=827
-sheng dan kuai le 	聖誕快樂	c=0 d=0.00510474 t=827
-sheng dan kuai le fa 	聖誕快樂發	c=2 d=0.841279 t=827
-sheng sheng shi shi 	生生世世	c=0 d=0.0375311 t=827
-shi 	實	c=1 d=0.557106 t=827
-shi 	是	c=8 d=1.89036 t=827
-shi chang 	市場	c=0 d=0.022313 t=827
-shi chang ru men 	市場入門	c=1 d=0.224249 t=827
-shi da da 	溼答答	c=0 d=0.058605 t=827
-shi da fu 	士大夫	c=24 d=5.38767 t=827
-shi da fu di fang 	士大夫地方	c=1 d=0.0963276 t=827
-shi da fu fang shi 	士大夫方式	c=1 d=0.164474 t=827
-shi da fu kai dang ku 	士大夫開襠褲	c=1 d=0.0502874 t=827
-shi da fu kao lv 	士大夫考慮	c=2 d=0.944214 t=827
-shi da fu kao lv shi 	士大夫考慮是	c=1 d=0.83527 t=826
-shi da fu ke lu ji 	士大夫刻錄機	c=1 d=0.946485 t=826
-shi da fu kong jian 	士大夫空間	c=1 d=0.869358 t=826
-shi da fu kuan 	士大夫款	c=4 d=0.998067 t=827
-shi da fu kuan shi lai ke da fei ji 	士大夫款史萊克打飛機	c=1 d=0.0401553 t=827
-shi da fu lu ka shen ke ling dao 	士大夫盧卡申科領導	c=1 d=0.856415 t=826
-shi da fu shi da fu 	士大夫士大夫	c=2 d=0.230681 t=827
-shi da fu shi da fu shi da fu 	士大夫士大夫士大夫	c=2 d=0.837428 t=827
-shi de fen shu 	實得分數	c=1 d=0.23589 t=827
-shi de fen shu duo fu duo shou 	實得分數多福多壽	c=1 d=0.183599 t=827
-shi di di da da a wa da wei de qin ai de qiang da da da a a a ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da wei de ren da da da a a a a a a a da da a a a a ai dao de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding diao wa dai ding ding ding ding ding ding ding ding ding ding ding ding sa dan 	是滴滴答答阿佤大威德親愛的強大大大啊啊啊頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大威德人大大大啊啊啊啊啊啊啊大大啊啊啊啊挨刀的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂吊襪帶頂頂頂頂頂頂頂頂頂頂頂頂撒旦	c=1 d=0.418952 t=827
-shi di fang fan de sa 	是地方范德薩	c=1 d=0.171187 t=827
-shi du wei diao 	適度微調	c=0 d=0.0400517 t=827
-shi du wei diao shi qiu wen du ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa ren da qin ai diao wa dai 	適度微調溼球溫度頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪人大親愛吊襪帶	c=1 d=0.402524 t=827
-shi fa de dian 	事發地點	c=1 d=0.0944202 t=827
-shi ge 	是個	c=1 d=0.882497 t=826
-shi ji yu 	是基於	c=3 d=0.521347 t=827
-shi kuai di fei 	是快遞費	c=3 d=1.05481 t=827
-shi kuai di fei di fang 	是快遞費地方	c=1 d=0.151072 t=827
-shi lai ke 	史萊克	c=0 d=0.00399551 t=827
-shi le 	溼了	c=1 d=0.167932 t=827
-shi le dai fu kuan 	溼了代付款	c=1 d=0.729789 t=826
-shi le ka da ji fen ka 	溼了喀噠計分卡	c=1 d=0.231078 t=827
-shi le kuai di fei 	溼了快遞費	c=2 d=0.383235 t=827
-shi pin 	視頻	c=1 d=0.687289 t=827
-shi qiu wen du 	溼球溫度	c=0 d=0.0400517 t=827
-shi shi 	實施	c=0 d=0.0054204 t=827
-shi shi 	試試	c=20 d=3.08158 t=827
-shi shi shang 	事實上	c=2 d=0.255238 t=827
-shi shi zhe ge 	試試這個	c=1 d=0.0916297 t=827
-shi si 	十四	c=1 d=0.055299 t=827
-shou ce 	手冊	c=1 d=0.690734 t=827
-shu liang 	數量	c=1 d=0.0497871 t=827
-shu rang 	鼠壤	c=1 d=0.054204 t=827
-shu ru 	輸入	c=3 d=1.80817 t=827
-shu ru fa 	輸入法	c=24 d=6.18352 t=827
-shu ru ruan 	輸入軟	c=1 d=0.752014 t=826
-shuang du fu fu 	雙獨夫婦	c=1 d=0.117068 t=827
-shui mian 	睡眠	c=1 d=0.980199 t=827
-shui rong rong 	水溶溶	c=0 d=0.0286505 t=827
-shuo dao di 	說到底	c=1 d=0.204349 t=827
-si da lin 	斯大林	c=0 d=0.00332068 t=827
-si da lin kai fa 	斯大林開發	c=1 d=0.0333733 t=827
-si dong fei dong 	似懂非懂	c=1 d=0.0528657 t=827
-si fa du li 	司法獨立	c=0 d=0.016696 t=827
-si fa du li kan kan 	司法獨立看看	c=1 d=0.167797 t=827
-si kao 	思考	c=1 d=0.75812 t=827
-si kao dai fu kuan 	思考代付款	c=2 d=0.0971352 t=827
-si kao jiu shi 	思考就是	c=1 d=0.0934807 t=827
-si kao lao dong fa 	思考勞動法	c=1 d=0.0561325 t=827
-si kao lao dong fa kao lv 	思考勞動法考慮	c=1 d=0.0536647 t=827
-si kao liang de fen ju 	思考兩地分居	c=1 d=0.049787 t=827
-si ke da 	斯柯達	c=0 d=0.0847894 t=826
-si ke da lu fang ji 	斯柯達錄放機	c=1 d=0.852144 t=826
-si wa 	絲襪	c=0 d=0.0313486 t=827
-si xiang 	思想	c=3 d=0.404288 t=827
-su dan da fo 	蘇丹達佛	c=1 d=0.100259 t=827
-su du 	速度	c=1 d=0.0423036 t=827
-su du kai fa 	速度開發	c=6 d=1.81696 t=827
-su du kai fa kong shou dao 	速度開發空手道	c=1 d=0.798516 t=826
-su du kuai 	速度快	c=2 d=0.987945 t=827
-suan fa 	算法	c=0 d=0.00342181 t=827
-suan fa fu wu 	算法服務	c=1 d=0.0343896 t=827
-sui shi sui di 	隨時隨地	c=0 d=0.0353455 t=827
-ta shuo 	他說	c=1 d=0.83527 t=827
-tai 	太	c=0 d=0.00837432 t=827
-te bie 	特別	c=0 d=0.0121238 t=827
-te ding 	特定	c=2 d=0.119438 t=827
-ti shi 	提示	c=1 d=0.0520787 t=827
-ting bu cuo 	挺不錯	c=0 d=0.0755784 t=826
-tong guo 	通過	c=1 d=0.109154 t=827
-tong nian 	童年	c=1 d=0.571209 t=827
-tou zhe 	透着	c=1 d=0.501576 t=827
-tu biao 	圖標	c=1 d=0.0424257 t=827
-tu wen 	圖文	c=1 d=0.680451 t=827
-tuo pan 	托盤	c=1 d=0.186374 t=827
-wa 	瓦	c=2 d=0.778131 t=827
-wa ao 	凹凹	c=0 d=0.179168 t=827
-wa da 	挖大	c=0 d=0.510628 t=827
-wa da qi qian a da 	挖大七千阿達	c=1 d=0.316637 t=827
-wa dang wen 	瓦當文	c=0 d=0.0840644 t=827
-wa dang wen ren da gu dan dan de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a ban ben 	瓦當文人大孤單單的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊版本	c=1 d=0.467666 t=827
-wa de dao 	挖地道	c=0 d=0.0935038 t=827
-wa de se 	瓦德瑟	c=0 d=0.0353455 t=827
-wa ha ha 	娃哈哈	c=2 d=1.7316 t=826
-wa ha ha ha 	哇哈哈哈	c=1 d=0.0443785 t=827
-wa qian 	挖潛	c=0 d=0.033454 t=827
-wa qian da di dang qian a da 	挖潛大敵當前阿達	c=1 d=0.336216 t=827
-wa ran 	窪然	c=1 d=0.466776 t=827
-wa ren 	蛙人	c=0 d=0.0375311 t=827
-wa wa 	娃娃	c=0 d=0.0996076 t=827
-wa wa de 	哇哇地	c=0 d=0.218527 t=827
-wai di 	外地	c=1 d=0.180866 t=827
-wan 	玩	c=2 d=0.718582 t=827
-wan qiao qiao da da da ren a a a a da sa ding ding ding ding shi da da 	玩敲敲打打大人啊啊啊啊搭撒頂頂頂頂溼答答	c=1 d=0.293758 t=827
-wan shi da 	萬事達	c=1 d=0.582748 t=827
-wan wei wang 	萬維網	c=0 d=0.0463013 t=827
-wan wei wang wa ao 	萬維網凹凹	c=1 d=0.465334 t=827
-wang wen wen qie 	望聞問切	c=0 d=0.0290835 t=827
-wei 	爲	c=8 d=2.48012 t=827
-wei da 	偉大	c=0 d=0.0590468 t=827
-wei qu de 	未取得	c=0 d=0.0311923 t=827
-wei qu qi 	未娶妻	c=1 d=0.463004 t=827
-wei ruan 	微軟	c=0 d=0.0313486 t=827
-wei sa 	維薩	c=0 d=0.0375311 t=827
-wei shen me 	爲什麼	c=1 d=0.941765 t=827
-wei shen men 	爲身門	c=1 d=0.937067 t=827
-wen jian jia 	文件夾	c=1 d=1.00298 t=827
-wen suo wei wen 	聞所未聞	c=0 d=0.0377192 t=827
-wo 	我	c=3 d=0.168558 t=827
-wo bing bu 	我並不	c=0 d=0.0329559 t=827
-wo de 	我的	c=1 d=0.0544757 t=827
-wo en 	沃恩	c=4 d=0.301301 t=827
-wo en gong si 	沃恩公司	c=1 d=0.0614212 t=827
-wo fen 	我分	c=1 d=0.0403566 t=827
-wo jin ti gong te bie gao xing 	我僅提供特別高興	c=1 d=0.121846 t=827
-wo men 	我們	c=14 d=1.31051 t=827
-wo men de 	我們的	c=3 d=0.290165 t=827
-wo men de xi ni nia 	我們的細膩孃	c=1 d=0.118245 t=827
-wo men de xin jia 	我們的新家	c=2 d=0.152285 t=827
-wo men gong si 	我們公司	c=1 d=0.0617291 t=827
-wo men ren 	我們人	c=1 d=0.0536647 t=827
-wo men xin zhu ti 	我們新主題	c=1 d=0.0605068 t=827
-wo qu 	我去	c=0 d=0.0120633 t=827
-wo qu chao shi mai le yi ping huang hua cai 	我去超市買了一瓶黃花菜	c=1 d=0.121238 t=827
-wo shi 	我是	c=2 d=0.484657 t=827
-wo shi shi 	我實施	c=1 d=0.0544757 t=827
-wo wo ao ao 	窩窩凹凹	c=0 d=0.0364219 t=827
-wo wo ao ao da da da wu wei wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wa da da wa ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu wa da 	窩窩凹凹大大大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大窪頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂低等動物挖大	c=1 d=0.366045 t=827
-wo zai 	我再	c=1 d=0.0557715 t=827
-wo zai shi shi 	我再試試	c=2 d=0.0629543 t=827
-wu di dong 	無底洞	c=0 d=0.0298197 t=827
-wu fa 	無法	c=1 d=0.71177 t=826
-wu ren dao 	無人島	c=1 d=0.370544 t=827
-wu wei de qu 	武威地區	c=0 d=0.0290835 t=827
-wu wu ran 	無污染	c=0 d=0.0633306 t=827
-wu wu wu 	嗚嗚嗚	c=0 d=0.507886 t=827
-wu wu wu wu wu wu wei wu wu wu wa da a a a a a a a a a a a a a a a a a a a a wen jian jia wu wu wu wu wu wu wu wu wu wa ran ding ding ding ding ding ding ding ding da da de diao chu 	嗚嗚嗚嗚嗚嗚爲嗚嗚嗚挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊文件夾嗚嗚嗚嗚嗚嗚嗚嗚嗚窪然頂頂頂頂頂頂頂頂大大的調出	c=1 d=0.410656 t=827
-wu wu wu wu wu wu wu wei de qu dan wei wang wen wen qie da da quan bu 	嗚嗚嗚嗚嗚嗚武威地區單位望聞問切大大全部	c=1 d=0.292293 t=827
-wu wu wu wu wu wu wu wu wu san wan qi qian jin jin ji jiao da jia qi qian a a a 	嗚嗚嗚嗚嗚嗚嗚嗚嗚三萬七千斤斤計較大家七千啊啊啊	c=1 d=0.349938 t=827
-wu ya 	烏鴉	c=1 d=0.543351 t=827
-xi lie 	系列	c=1 d=0.615697 t=827
-xi ni 	細膩	c=0 d=0.0117655 t=827
-xi tong 	系統	c=3 d=0.950369 t=827
-xian shi 	顯示	c=3 d=0.302056 t=827
-xian shi chu 	顯示出	c=1 d=0.637628 t=827
-xian zai 	現在	c=1 d=0.111917 t=827
-xiang mu 	項目	c=3 d=1.15641 t=827
-xiang mu ruan li ruan jian 	項目軟裏軟件	c=1 d=0.157237 t=827
-xiao 	小	c=6 d=1.53255 t=827
-xiao lang 	小狼	c=2 d=0.539667 t=827
-xiao lang hao 	小狼毫	c=4 d=2.62609 t=827
-xin 	新	c=0 d=0.0114681 t=827
-xin chan pin 	新產品	c=1 d=0.0623495 t=827
-xin dai 	信貸	c=0 d=0.00862936 t=827
-xin dai zhan zhong 	信貸戰中	c=1 d=0.0867261 t=827
-xin de 	新的	c=1 d=0.744532 t=826
-xin jia 	新家	c=1 d=0.086451 t=827
-xin shu ru fa 	新輸入法	c=1 d=0.0547488 t=827
-xing shi 	形式	c=1 d=0.67368 t=827
-xing zheng cun 	行政村	c=1 d=0.0977834 t=827
-xiu gai 	修改	c=2 d=0.984198 t=827
-xiu mian 	休眠	c=1 d=0.955997 t=827
-xu 	虛	c=1 d=0.548812 t=827
-xuan xiang 	選項	c=0 d=0.0110251 t=827
-xuan xuan 	喧喧	c=2 d=0.232387 t=827
-xue xi 	學習	c=1 d=0.25924 t=827
-yan 	演	c=1 d=0.509156 t=827
-yan jiu 	研究	c=3 d=1.2196 t=827
-yan se 	顏色	c=2 d=0.124426 t=827
-yan tai 	煙臺	c=0 d=0.00566989 t=827
-yan tai ge 	煙臺個	c=1 d=0.0569831 t=827
-yang wo 	仰臥	c=1 d=0.99005 t=826
-ye 	也	c=1 d=0.913931 t=826
-ye mian 	頁面	c=2 d=1.24153 t=827
-yi ge 	一個	c=2 d=1.06484 t=827
-yi ge kuan 	一個款	c=1 d=0.0488012 t=827
-yi kuan 	一款	c=1 d=0.142987 t=827
-yi lan 	一覽	c=1 d=0.199888 t=827
-yi ping 	一瓶	c=0 d=0.0120633 t=827
-yi quan 	一圈	c=1 d=0.102797 t=827
-yin xiang 	印象	c=1 d=0.514274 t=827
-ying wen 	英文	c=3 d=0.939712 t=827
-yong 	用	c=1 d=0.97531 t=827
-yong hu 	用戶	c=2 d=1.64413 t=827
-you xiao 	有效	c=1 d=0.123687 t=827
-yu liu 	預留	c=2 d=0.0675828 t=827
-zai 	在	c=1 d=0.631427 t=827
-zai shi shi 	在試試	c=2 d=0.12979 t=827
-ze 	則	c=2 d=1.11804 t=827
-zen me 	怎麼	c=1 d=0.0566989 t=827
-zen me yang 	怎麼樣	c=2 d=0.117153 t=827
-zhan yong 	佔用	c=1 d=0.0352602 t=827
-zhan zhong 	戰中	c=0 d=0.00862936 t=827
-zhao 	兆	c=1 d=0.532592 t=827
-zhao 	着	c=1 d=0.529935 t=827
-zhe 	這	c=0 d=0.00518189 t=827
-zhe ge 	這個	c=11 d=2.20806 t=827
-zhe ge mo ren zhu 	這個默認住	c=1 d=0.0833256 t=827
-zhe ge tai 	這個太	c=1 d=0.084163 t=827
-zhe ge zhu ti 	這個主題	c=1 d=0.0590129 t=827
-zhe li shi 	這裏是	c=2 d=0.639065 t=827
-zhe liang hang 	這兩行	c=2 d=0.127853 t=827
-zhe me 	這麼	c=1 d=0.486752 t=827
-zhe shi 	這是	c=1 d=0.895834 t=827
-zhe shi yi ge 	這是一個	c=1 d=0.0515604 t=827
-zhe teng 	折騰	c=1 d=0.489192 t=827
-zhen de 	真的	c=0 d=0.0755784 t=826
-zhen de ting bu cuo 	真的挺不錯	c=1 d=0.759572 t=826
-zheng ge 	整個	c=2 d=1.25401 t=827
-zheng li 	整理	c=2 d=1.27655 t=827
-zhi 	之	c=2 d=1.11703 t=827
-zhi ding 	指定	c=3 d=0.168954 t=827
-zhi jie 	直接	c=1 d=0.873716 t=827
-zhi neng 	只能	c=1 d=0.108609 t=827
-zhong 	中	c=1 d=0.0480747 t=827
-zhong wen 	中文	c=3 d=0.784662 t=827
-zhu 	住	c=0 d=0.008291 t=827
-zhu ti 	主題	c=3 d=0.181108 t=827
-zhu ti 	豬蹄	c=1 d=0.0561348 t=827
-zhuang tai 	狀態	c=1 d=0.818731 t=827
-zi hao 	字號	c=2 d=0.122421 t=827
-zi liao 	資料	c=1 d=1 t=827
-zi mu 	字母	c=1 d=0.88692 t=827
-zi ti 	字體	c=2 d=0.121811 t=827
-zong wen 	縱紋	c=0 d=0.00520787 t=827
-zou 	鄒	c=1 d=0.527292 t=827
-zui hao 	最好	c=1 d=0.0407622 t=827
+a 	啊	c=8 d=2.83753 t=949
+a a 	啊啊	c=2 d=0.923315 t=949
+a a a 	啊啊啊	c=0 d=0.176479 t=949
+a a a a 	啊啊啊啊	c=0 d=0.435094 t=949
+a a a a a wa a a sa sa dan wei de dao 	啊啊啊啊阿佤啊啊灑灑單位得到	c=1 d=0.286505 t=949
+a a a a da wa wu wu wu wa wa a a a a a a a a a a a a a a a a da wa da da de wa ren a a a a a a a a wa wu wu wu ding ding ding ding da da a wa qi qi ai ai a a a a dui wo shuo sheng sheng shi shi sa dan wei qu qi a da wa wu wu wu wa wa de da sa wa da wu wu wu wu wu wu wu wu wu wu wu wu wei sa wa dang wen 	啊啊啊啊大窪嗚嗚嗚娃娃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大窪大大的蛙人啊啊啊啊啊啊啊阿佤嗚嗚嗚頂頂頂頂大大阿佤期期艾艾啊啊啊啊對我說生生世世撒旦未娶妻啊大窪嗚嗚嗚哇哇地搭撒挖大嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚維薩瓦當文	c=1 d=0.377192 t=949
+a a a a wei 	啊啊啊啊爲	c=1 d=0.459267 t=949
+a a da wa da wa 	啊啊大窪大窪	c=1 d=0.396531 t=949
+a da 	阿達	c=1 d=0.578282 t=949
+a da da de da su da a a ai ren wa 	啊大大的大蘇打啊啊愛人瓦	c=1 d=0.421052 t=949
+a da wu ren dao da an da she wan 	阿達無人島答案大蛇丸	c=1 d=0.444858 t=949
+a di da si 	阿迪達斯	c=0 d=0.0313486 t=949
+a di di da da da da wei da an de sen da ren ai ao wa dang shi wu di de 	啊滴滴答答大大偉大安德森大人艾奧瓦當世無敵的	c=1 d=0.298197 t=949
+a du wu 	阿堵物	c=0 d=0.14111 t=949
+a du wu ding ding ding ding ding ding ding ding ren wei guang wu ran 	阿堵物頂頂頂頂頂頂頂頂認爲光污染	c=1 d=0.324652 t=949
+a ke su 	阿克蘇	c=0 d=0.0856415 t=949
+a li 	阿里	c=0 d=0.0856415 t=949
+a li shan da 	阿歷山大	c=0 d=0.0856415 t=949
+a sa sa wa ran a da da wei de 	啊灑灑窪然阿達大威德	c=1 d=0.423162 t=949
+a sen song dao 	阿森松島	c=0 d=0.0856415 t=949
+a si dun 	阿斯頓	c=3 d=0.337906 t=949
+a wa 	阿佤	c=1 d=0.633101 t=949
+a wa qi qian da duo shu ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu 	阿佤七千大多數頂頂頂頂頂頂頂頂頂頂頂頂低等動物	c=1 d=0.323033 t=949
+a wa qing qi bing 	阿佤輕騎兵	c=1 d=0.429557 t=949
+a wa wu wu wu 	阿佤嗚嗚嗚	c=1 d=0.547983 t=949
+a wa wu wu wu wa an quan da da de wa a a a a qi a wa wa da 	阿佤嗚嗚嗚瓦安全大大的瓦啊啊啊啊其阿佤挖大	c=1 d=0.357007 t=949
+a wa wu wu wu wei qu qi ding ding ding ding da da de di di da da 	阿佤嗚嗚嗚未娶妻頂頂頂頂大大的滴滴答答	c=1 d=0.362402 t=949
+a wa wu wu wu wu wu wu wa da 	阿佤嗚嗚嗚嗚嗚嗚挖大	c=1 d=0.460704 t=949
+ai ao wa 	艾奧瓦	c=0 d=0.0930018 t=949
+ai dao de 	挨刀的	c=0 d=0.165764 t=949
+ai di 	艾迪	c=0 d=0.0865022 t=949
+ai di sheng 	愛迪生	c=1 d=0.95066 t=949
+ai qiang qian wu 	矮牆淺屋	c=0 d=0.0329559 t=949
+ai qiang qian wu qi qi qie qie ai dao de wu wu wu qi qian a si dun wa de dao ding ding ding ding ding ding ding ding diao wa dai wa de dao qi qian wo bing bu 	矮牆淺屋悽悽切切挨刀的嗚嗚嗚七千阿斯頓挖地道頂頂頂頂頂頂頂頂吊襪帶挖地道七千我並不	c=1 d=0.331211 t=949
+ai ren 	愛人	c=0 d=0.0418952 t=949
+ai si 	愛死	c=0 d=0.0865022 t=949
+ai wo wo 	艾窩窩	c=1 d=0.346456 t=949
+ai ya 	哎呀	c=2 d=1.38493 t=949
+an a ding 	氨吖啶	c=0 d=0.101512 t=949
+an an 	暗暗	c=0 d=0.0298197 t=949
+an an ai dao de da wa a a a a a a a a a a a da wa ding ding ding ding ding ding ding ding ding ding ding ding wa da a wa ding ding ding ding da da da wa a a a a a a a a an a ding wu di dong wa de dao ding ding ding ding ding ding ding ding ding ding ding ding dan da ru dou bu 	暗暗挨刀的大窪啊啊啊啊啊啊啊啊啊啊啊大窪頂頂頂頂頂頂頂頂頂頂頂頂挖大阿佤頂頂頂頂大大大窪啊啊啊啊啊啊啊啊氨吖啶無底洞挖地道頂頂頂頂頂頂頂頂頂頂頂頂膽大如斗不	c=1 d=0.299692 t=949
+an de sen 	安德森	c=0 d=0.029671 t=949
+an de si shan 	安地斯山	c=1 d=0.318224 t=949
+an ding qi 	安定器	c=0 d=0.0318224 t=949
+an quan 	安全	c=0 d=0.0355226 t=949
+an zhuang 	安裝	c=1 d=0.283654 t=949
+ba 	吧	c=5 d=1.57391 t=949
+ba 	把	c=1 d=0.382893 t=949
+ban ben 	版本	c=0 d=0.109864 t=949
+ban tian 	半天	c=2 d=0.971321 t=949
+bei 	被	c=1 d=0.358796 t=949
+bian ma 	編碼	c=1 d=0.18452 t=949
+biao ti 	標題	c=1 d=0.678189 t=949
+bing bao 	冰雹	c=1 d=0.683861 t=949
+bu 	不	c=7 d=2.48449 t=949
+bu cuo 	不錯	c=1 d=0.923116 t=949
+bu guo 	不過	c=1 d=0.878095 t=949
+bu hao 	不好	c=0 d=0.0847894 t=949
+bu neng 	不能	c=1 d=0.970446 t=949
+bu xia 	不下	c=0 d=0.0810584 t=949
+bu xia ni shi 	不下你是	c=1 d=0.814647 t=949
+bu xian shi 	不顯示	c=1 d=0.0420036 t=949
+bu zai 	不再	c=1 d=0.12307 t=949
+bu zhuang 	不裝	c=1 d=0.506617 t=949
+cai jie 	採擷	c=1 d=0.995012 t=949
+ce shi 	測試	c=1 d=0.941765 t=949
+chan 	禪	c=1 d=0.0767371 t=949
+chan dao 	產道	c=1 d=0.0539337 t=949
+chan dao 	禪道	c=15 d=5.6488 t=949
+chan dao nao 	禪道鬧	c=1 d=0.239309 t=949
+chan nan dao 	禪難道	c=2 d=0.475079 t=949
+chan pin 	產品	c=1 d=0.143704 t=949
+chan zhi 	蟬知	c=4 d=1.57285 t=949
+chao shan 	潮汕	c=1 d=0.733447 t=949
+chao shi 	超市	c=0 d=0.0120633 t=949
+cheng 	成	c=1 d=0.612626 t=949
+cheng gong 	成功	c=1 d=0.163654 t=949
+cheng xu 	程序	c=3 d=0.200186 t=949
+cheng xu yuan 	程序員	c=1 d=0.913931 t=949
+cheng yang 	城陽	c=1 d=0.666977 t=949
+chong ming dao 	崇明島	c=1 d=0.209088 t=949
+chong qi 	重啓	c=0 d=0.0878095 t=949
+chong qi xia 	重啓下	c=1 d=0.882497 t=949
+chu shi hua 	初始化	c=1 d=0.980199 t=949
+ci 	詞	c=1 d=0.111054 t=949
+cong 	從	c=1 d=0.621885 t=949
+da an 	答案	c=0 d=0.111359 t=949
+da da 	大大	c=0 d=0.307183 t=949
+da da de 	大大的	c=1 d=0.669963 t=949
+da da de da da da wang qiu qi qian a du wu da da de da da de qing wen qin ai 	大大的大大打網球七千阿堵物大大的大大的請問親愛	c=1 d=0.327915 t=949
+da di dang qian 	大敵當前	c=0 d=0.033454 t=949
+da duo shu 	大多數	c=1 d=0.232734 t=949
+da duo shu ren 	大多數人	c=0 d=0.0293758 t=949
+da fei ji 	打飛機	c=0 d=0.00399551 t=949
+da fu du 	大幅度	c=0 d=0.0121846 t=949
+da ji si 	大祭司	c=0 d=0.172144 t=949
+da jia 	大家	c=0 d=0.0348192 t=949
+da jiu dian 	大酒店	c=0 d=0.0865022 t=949
+da ren 	大人	c=0 d=0.0635657 t=949
+da ren a wa 	大人阿佤	c=1 d=0.0468877 t=949
+da sa 	搭撒	c=0 d=0.222408 t=949
+da sa shi shi shang shuo dao di ding ding ding ding ding ding ding ding wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu dong shen qian wang wa da ai dao de ding ding ding ding duo da dian shi wa wa de 	搭撒事實上說到底頂頂頂頂頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚動身前往挖大挨刀的頂頂頂頂多大點事哇哇地	c=1 d=0.307279 t=949
+da she wan 	大蛇丸	c=0 d=0.0442639 t=949
+da shi da fei 	大是大非	c=1 d=0.101266 t=949
+da shi dai 	大時代	c=0 d=0.063166 t=949
+da su da 	大蘇打	c=0 d=0.0418952 t=949
+da wa 	大窪	c=1 d=0.771283 t=949
+da wa 	打瓦	c=0 d=0.0318224 t=949
+da wa an ding qi 	打瓦安定器	c=1 d=0.319819 t=949
+da wang qiu 	打網球	c=1 d=0.421309 t=949
+da wei de 	大威德	c=0 d=0.0421052 t=949
+da wu wei 	大無畏	c=1 d=0.488587 t=949
+da wu wei wa sa dan wa ao a a a a da da de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa da shi dai wa a da wa da 	大無畏瓦撒旦凹凹啊啊啊啊大大的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪大時代瓦阿達挖大	c=1 d=0.339596 t=949
+da xie 	大寫	c=1 d=0.882497 t=949
+dai biao 	代表	c=0 d=0.0444858 t=949
+dai fu kuan 	代付款	c=9 d=1.39361 t=949
+dai fu kuan duan kou 	代付款端口	c=1 d=0.0639279 t=949
+dai fu kuan le 	代付款了	c=1 d=0.189191 t=949
+dai fu kuan shi da fu 	代付款士大夫	c=1 d=0.0393602 t=949
+dai ji shi jian 	待機時間	c=0 d=0.0856415 t=949
+dai jia 	代價	c=0 d=0.0865022 t=949
+dan da ru dou 	膽大如斗	c=0 d=0.0298197 t=949
+dan du 	單獨	c=1 d=0.66034 t=949
+dan du fa di fang 	單獨發地方	c=1 d=0.763379 t=949
+dan ni er 	丹尼爾	c=1 d=0.0596059 t=949
+dan sheng di 	誕生地	c=0 d=0.0856415 t=949
+dan wei 	單位	c=0 d=0.115617 t=949
+dan wei ru guo shui rong rong 	單位如果水溶溶	c=1 d=0.287941 t=949
+dang dang wang 	當當網	c=0 d=0.0800356 t=949
+dang dang wang wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wen suo wei wen da da de wa ao a wa wu wu wu wu wu wu wu wu wu wa da da an a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da da wei qu qi 	當當網嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚聞所未聞大大的凹凹阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大答案啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大未娶妻	c=1 d=0.379083 t=949
+dang feng sha 	擋風沙	c=0 d=0.0199888 t=949
+dang feng sha de 	擋風沙的	c=1 d=0.20089 t=949
+dang shi wu di 	當世無敵	c=0 d=0.029671 t=949
+dao 	到	c=1 d=0.634448 t=949
+dao 	道	c=1 d=0.0536647 t=949
+dao qian qi shi 	道歉啓事	c=0 d=0.0327915 t=949
+dao qian qi shi a du wu 	道歉啓事阿堵物	c=1 d=0.329559 t=949
+de 	得	c=1 d=0.65377 t=949
+de 	的	c=33 d=7.72774 t=949
+de da da a a a a a a a a a a a wei dai biao 	的大大啊啊啊啊啊啊啊啊啊啊啊爲代表	c=1 d=0.447088 t=949
+de dao 	得到	c=0 d=0.0285076 t=949
+de kai fa 	的開發	c=9 d=2.63082 t=949
+de kai fa jiang 	的開發將	c=1 d=0.690735 t=949
+de kai fa kuan 	的開發款	c=3 d=0.613044 t=949
+de kai fa kuan shi 	的開發款是	c=1 d=0.205975 t=949
+de kai fa li kai 	的開發離開	c=1 d=0.138069 t=949
+de wa ao a a a a a a a a da shi dai wa da da sa an a ding wei da da an wu wu wu wu wu wu wu wu wu wa wa de wu wu wu wu wu wu wu wu wu wa ao shi da da shan da wang da da da duo shu ren da wa a a a a a a a a shang wang da da wa ao da sa da duo shu ren wei da a a a dan wei ding ding ding ding dan wei wu wu wu wu wu wu wu wu wu wu wu wu 	的凹凹啊啊啊啊啊啊啊啊大時代挖大搭撒氨吖啶偉大答案嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地嗚嗚嗚嗚嗚嗚嗚嗚嗚凹凹溼答答山大王大大大多數人大窪啊啊啊啊啊啊啊啊上網大大凹凹搭撒大多數人偉大啊啊啊單位頂頂頂頂單位嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚	c=1 d=0.29523 t=949
+de wa ran wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da wu wei wu wu wu wu wu wu wu wu wu wa da da da a a a a a a a da da de da wu wei wu wu wu wu wu wu wu wu wu wa wa de ding ding ding ding a 	的窪然嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大大啊啊啊啊啊啊啊大大的大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地頂頂頂頂啊	c=1 d=0.451581 t=949
+di deng dong wu 	低等動物	c=0 d=0.141608 t=949
+di di da da 	滴滴答答	c=0 d=0.229493 t=949
+di fang 	地方	c=25 d=7.54585 t=949
+di fang da fu du 	地方大幅度	c=1 d=0.122456 t=949
+di fang fan de sa 	地方范德薩	c=2 d=0.214073 t=949
+di fang she ding 	地方設定	c=5 d=0.636548 t=949
+di fang shi da fu 	地方士大夫	c=3 d=0.503421 t=949
+di ji 	低級	c=0 d=0.172144 t=949
+di qu 	滌去	c=0 d=0.0745796 t=949
+di qu an a ding da wa da duo shu wa ran an a ding di deng dong wu dang dang wang re ai 	滌去氨吖啶大窪大多數窪然氨吖啶低等動物當當網熱愛	c=1 d=0.425283 t=949
+di qu da da a a a a a a da da de wa da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da da wa ran da da de ding ding ding ding da da de di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a du wu wu wu wu wu wu wu wu wu wu da da de da da a a a a a a a a a a a a a a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu da da a a a a a da da an a a a a da da de wa da san da wa da 	滌去大大啊啊啊啊啊啊大大的挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大大窪然大大的頂頂頂頂大大的滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿堵物嗚嗚嗚嗚嗚嗚嗚嗚嗚大大的大大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大啊啊啊啊阿達答案啊啊啊啊大大的挖大三大挖大	c=1 d=0.436049 t=949
+di qu wei qu de 	滌去未取得	c=1 d=0.313486 t=949
+di san fang 	第三方	c=2 d=0.879415 t=949
+di san fang kao lv 	第三方考慮	c=1 d=0.694196 t=949
+di san ji du 	第三季度	c=0 d=0.0856415 t=949
+di si 	第四	c=0 d=0.172144 t=949
+dia 	嗲	c=0 d=0.0856415 t=949
+dian dao shi fei 	顛倒是非	c=0 d=0.0173774 t=949
+dian dao shi fei shi da fu 	顛倒是非士大夫	c=1 d=0.174645 t=949
+dian fan guo 	電飯鍋	c=1 d=0.0955409 t=949
+dian fan guo di fang 	電飯鍋地方	c=1 d=0.697676 t=949
+dian feng shan 	電風扇	c=5 d=2.25251 t=949
+dian feng shan kou dai li 	電風扇口袋裏	c=1 d=0.831104 t=949
+dian hua 	電話	c=0 d=0.00658748 t=949
+dian hua ze 	電話則	c=1 d=0.066205 t=949
+dian nao 	電腦	c=2 d=1.80469 t=949
+diao chu 	調出	c=1 d=0.151111 t=949
+diao wa dai 	吊襪帶	c=0 d=0.114694 t=949
+ding ding ding ding 	頂頂頂頂	c=0 d=0.707363 t=949
+ding ding ding ding di deng dong wu wa wa a da wa wa de wa de dao da wa ai dao de ding ding ding ding da wa 	頂頂頂頂低等動物娃娃阿達哇哇地挖地道大窪挨刀的頂頂頂頂大窪	c=1 d=0.308819 t=949
+ding ding ding ding ding ding ding ding da da de wu wu wu wu wu wu si wa a di da si wa wa da wa wa da ding ding ding ding wa wei ruan ai ao wa da wu wei wu wu ran ban ben 	頂頂頂頂頂頂頂頂大大的嗚嗚嗚嗚嗚嗚絲襪阿迪達斯娃娃大窪挖大頂頂頂頂瓦微軟艾奧瓦大無畏無污染版本	c=1 d=0.315058 t=949
+dong hua 	動畫	c=1 d=0.683861 t=949
+dong shen qian wang 	動身前往	c=0 d=0.0305746 t=949
+dou 	都	c=1 d=0.722527 t=949
+duan kou 	端口	c=9 d=3.09433 t=949
+dui 	對	c=1 d=0.0471227 t=949
+dui wo shuo 	對我說	c=0 d=0.0375311 t=949
+duo da dian shi 	多大點事	c=1 d=0.431092 t=949
+duo fu duo shou 	多福多壽	c=4 d=1.11763 t=949
+duo ge 	多個	c=1 d=0.0797763 t=949
+duo ge cheng xu 	多個程序	c=1 d=0.0515605 t=949
+fa 	發	c=2 d=1.6461 t=949
+fa di fang 	發地方	c=1 d=0.236775 t=949
+fa xian 	發現	c=2 d=0.0954455 t=949
+fan de sa 	范德薩	c=0 d=0.0901474 t=949
+fan er 	反而	c=0 d=0.0839457 t=949
+fan fan fu fu 	反反覆覆	c=0 d=0.0774916 t=949
+fan fan fu fu fan fan fu fu fan fan fu fu fang fa fa di fang 	反反覆覆反反覆覆反反覆覆方法發地方	c=1 d=0.778801 t=949
+fan ye 	翻頁	c=1 d=0.19398 t=949
+fang an 	方案	c=0 d=0.0110251 t=949
+fang an xuan xiang 	方案選項	c=1 d=0.110803 t=949
+fang fa 	方法	c=2 d=0.50443 t=949
+fang kong dong 	防空洞	c=1 d=0.208045 t=949
+fang shi 	方式	c=0 d=0.0163654 t=949
+fang wen 	訪問	c=1 d=0.594521 t=949
+fei chang 	非常	c=2 d=0.956356 t=949
+feng ji kou 	風紀扣	c=0 d=0.0218712 t=949
+fu hao 	符號	c=1 d=0.790571 t=949
+fu wu 	服務	c=1 d=0.0385061 t=949
+fu zhi 	複製	c=2 d=0.127215 t=949
+ga ran 	嘎然	c=0 d=0.0319819 t=949
+ga ran rong rong dang dang ding ding ding ding ding ding ding ding wu wu ran da sa ai ao wa sa wa ao ban ben 	嘎然溶溶蕩蕩頂頂頂頂頂頂頂頂無污染搭撒艾奧瓦撒凹凹版本	c=1 d=0.321422 t=949
+gan jue 	感覺	c=1 d=0.715338 t=949
+gao xing 	高興	c=0 d=0.0121238 t=949
+ge 	個	c=0 d=0.00566989 t=949
+ge ren 	個人	c=1 d=0.965606 t=949
+ge shu 	個數	c=1 d=0.106992 t=949
+gei 	給	c=2 d=1.04456 t=949
+gong si 	公司	c=0 d=0.0122536 t=949
+gong zhong 	公衆	c=0 d=0.0918512 t=949
+gong zhong hao 	公衆號	c=1 d=0.923116 t=949
+gu dan dan de 	孤單單的	c=0 d=0.0465334 t=949
+gu ge 	谷歌	c=0 d=0.00824965 t=949
+gu ge shu ru fa 	谷歌輸入法	c=1 d=0.08291 t=949
+gu zi li 	骨子裏	c=1 d=0.499074 t=949
+gua li 	掛曆	c=1 d=0.244143 t=949
+guan li 	管理	c=1 d=0.245367 t=949
+guan li ruan jian 	管理軟件	c=2 d=0.986256 t=949
+guang biao 	光標	c=1 d=0.0513033 t=949
+guang wu ran 	光污染	c=0 d=0.0323033 t=949
+gui fan de 	規範的	c=1 d=0.0992613 t=949
+ha ha ha ha 	哈哈哈哈	c=1 d=0.546074 t=949
+hai lou 	海樓	c=1 d=0.826959 t=949
+hai shi 	還是	c=2 d=0.844868 t=949
+hai you 	還有	c=1 d=0.251579 t=949
+hao 	號	c=0 d=0.0918512 t=949
+hao de 	好的	c=2 d=0.925139 t=949
+hao shi 	好事	c=0 d=0.0847894 t=949
+hao shi bu hao shi 	好事不好是	c=1 d=0.852144 t=949
+hao yong 	好用	c=1 d=0.0490458 t=949
+hen 	很	c=0 d=0.0103639 t=949
+hen hao yong 	很好用	c=1 d=0.0518189 t=949
+hen jin 	狠勁	c=1 d=0.50409 t=949
+hen zong wen shu ru fa 	很縱紋輸入法	c=1 d=0.0523397 t=949
+heng shu 	橫豎	c=1 d=0.04573 t=949
+heng xiang 	橫向	c=2 d=0.0752575 t=949
+hou xuan 	候選	c=2 d=0.0802306 t=949
+hou xuan ci 	候選詞	c=3 d=0.89652 t=949
+huang hua cai 	黃花菜	c=0 d=0.0120633 t=949
+hui fu 	回覆	c=1 d=0.891366 t=949
+hui fu 	恢復	c=1 d=0.904837 t=949
+huo 	或	c=1 d=0.677057 t=949
+ji 	及	c=1 d=0.313004 t=949
+ji 	機	c=2 d=1.79187 t=949
+ji fen ka 	計分卡	c=0 d=0.0229925 t=949
+ji jin 	基金	c=0 d=0.0856415 t=949
+ji ke 	即可	c=2 d=0.128494 t=949
+ji shi ji di 	即時即地	c=0 d=0.0856415 t=949
+ji shu 	技術	c=0 d=0.172144 t=949
+ji suan ji 	計算機	c=0 d=0.0856415 t=949
+ji yu 	基於	c=3 d=0.604083 t=949
+jia 	家	c=1 d=0.123692 t=949
+jia ji 	甲基	c=0 d=0.0865022 t=949
+jia kuai di fei jia 	家快遞費家	c=1 d=0.201897 t=949
+jian fan 	簡繁	c=1 d=0.271738 t=949
+jian kao jian 	肩靠肩	c=1 d=0.687289 t=949
+jian ti zi 	簡體字	c=1 d=0.0550232 t=949
+jian zhan 	建站	c=0 d=0.00547488 t=949
+jian zhan xi tong 	建站系統	c=1 d=0.0550232 t=949
+jiang 	將	c=1 d=0.591555 t=949
+jiang di 	降低	c=0 d=0.0865022 t=949
+jiao cheng 	教程	c=2 d=1.28911 t=949
+jie shao 	介紹	c=1 d=0.895834 t=949
+jin jin ji jiao 	斤斤計較	c=0 d=0.0348192 t=949
+jin ka 	金卡	c=0 d=0.0856415 t=949
+jin si deng ji 	近似等級	c=0 d=0.0856415 t=949
+jin si jie 	近似解	c=0 d=0.0865022 t=949
+jin ti gong 	僅提供	c=0 d=0.0121238 t=949
+jin tian 	今天	c=1 d=0.132458 t=949
+jin tian wo men 	今天我們	c=1 d=0.118837 t=949
+jin wei 	僅爲	c=1 d=0.120032 t=949
+jin xing 	進行	c=1 d=0.97531 t=949
+jing an si 	靜安寺	c=0 d=0.0856415 t=949
+jing ji ding suan 	羥基丁酸	c=0 d=0.0865022 t=949
+jing li 	經歷	c=1 d=0.574072 t=949
+jing shen dou sou 	精神抖擻	c=0 d=0.0856415 t=949
+jiu 	就	c=0 d=0.0516851 t=949
+jiu liang wei 	就兩位	c=1 d=0.519442 t=949
+jiu shi 	就是	c=2 d=1.03426 t=949
+jiu yong 	就用	c=1 d=0.0678809 t=949
+jue de 	覺得	c=0 d=0.0865022 t=949
+jue de sa ke kai shi ka ju ken de ji kai sa jiang kan kan si da jie kong sa ke si kai dang ku shang kua ke da sa da sa kan kan shang di jiao sa dan sa jiao da sa da jiu dian sa dan jue de sa dan ji sa jiao di ji si a jiang di jin si jie ai di jing ji ding suan dai jia di si ai si da ji si ji shu jia ji 	覺得薩克開始卡具肯德基凱撒醬看看四大皆空薩克斯開襠褲上夸克搭撒搭撒看看上帝教撒旦撒嬌搭撒大酒店撒旦覺得撒旦及撒嬌低級死啊降低近似解艾迪羥基丁酸代價第四愛死大祭司技術甲基	c=1 d=0.869358 t=949
+ka da 	喀噠	c=7 d=4.38197 t=949
+ka da jian fan 	喀噠簡繁	c=2 d=1.18961 t=949
+ka fei dian 	咖啡店	c=1 d=0.2334 t=949
+ka ju 	卡具	c=0 d=0.0865022 t=949
+ka ka 	卡卡	c=0 d=0.0856415 t=949
+kai dang ku 	開襠褲	c=4 d=3.03888 t=949
+kai fa 	開發	c=1 d=0.162743 t=949
+kai juan kao 	開卷考	c=0 d=0.0909373 t=949
+kai juan kao kong jian 	開卷考空間	c=1 d=0.913931 t=949
+kai pian 	開篇	c=1 d=0.66365 t=949
+kai sa jiang 	凱撒醬	c=0 d=0.0865022 t=949
+kai shi 	開始	c=1 d=0.754694 t=949
+kai shi ka da jin ka su du kuai liao jie a ke su da duo shu ka ka san da a sen song dao jing an si sheng sheng shi shi sheng sheng shi shi dan sheng di ai di sheng le dia jiu shi di ji ji suan ji da ji si dai ji shi jian di san ji du jin si deng ji si dang dong ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding shan dong sheng de da duo shu dan sheng di jing shen dou sou dan du jin si deng ji shang di jiao a li shan da ji jin a si dun ji shu di san ji du ji shi ji di shi di song di si da ji si a li lai kan la sa lu kuan 	開始喀噠金卡速度快瞭解阿克蘇大多數卡卡三大阿森松島靜安寺生生世世生生世世誕生地愛迪生了嗲就是低級計算機大祭司待機時間第三季度近似等級斯當東頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂山東省的大多數誕生地精神抖擻單獨近似等級上帝教阿歷山大基金阿斯頓技術第三季度即時即地溼地松第四大祭司阿里來看拉撒路款	c=1 d=0.860708 t=949
+kai shi lao dong fa 	開始勞動法	c=1 d=0.0500366 t=949
+kan dao 	看到	c=1 d=0.0692522 t=949
+kan kan 	看看	c=3 d=1.33766 t=949
+kang shuai lao 	抗衰老	c=0 d=0.0222017 t=949
+kang shuai lao de kai fa 	抗衰老的開發	c=1 d=0.22313 t=949
+kao lv 	考慮	c=0 d=0.0761279 t=949
+ke lu ji 	刻錄機	c=0 d=0.180813 t=949
+ke lu ji fan de sa 	刻錄機范德薩	c=1 d=0.839457 t=949
+ke lu ji wo en 	刻錄機沃恩	c=1 d=0.0531307 t=949
+ke neng 	可能	c=1 d=0.153355 t=949
+ke yi 	可以	c=2 d=0.849803 t=949
+ken de ji 	肯德基	c=0 d=0.0865022 t=949
+kong jian 	空間	c=1 d=1.05256 t=949
+kong jian kuai jie jian 	空間快捷鍵	c=1 d=0.909373 t=949
+kong jun si ling 	空軍司令	c=0 d=0.0036334 t=949
+kong jun si ling dai fu kuan le 	空軍司令代付款了	c=1 d=0.0365162 t=949
+kong shou dao 	空手道	c=0 d=0.0971035 t=949
+kong shou dao feng ji kou 	空手道風紀扣	c=1 d=0.219808 t=949
+kong shou dao kai dang ku 	空手道開襠褲	c=1 d=0.0480747 t=949
+kou dai 	口袋	c=1 d=0.154124 t=949
+kou dai li 	口袋裏	c=0 d=0.0826959 t=949
+kou dian fen shu 	扣點分數	c=1 d=0.162242 t=949
+kou dian fen shu dai fu kuan 	扣點分數代付款	c=1 d=0.179066 t=949
+ku 	苦	c=1 d=0.15259 t=949
+kuai di fei 	快遞費	c=7 d=3.92917 t=949
+kuai di fei jia 	快遞費家	c=1 d=0.145019 t=949
+kuai di fei lao shi 	快遞費老師	c=1 d=0.228779 t=949
+kuai jie jian 	快捷鍵	c=1 d=0.288383 t=949
+kuan 	款	c=5 d=1.75712 t=949
+kuan dai fu kuan 	款代付款	c=1 d=0.147342 t=949
+kuang 	框	c=1 d=0.826959 t=949
+la sa lu 	拉撒路	c=0 d=0.0856415 t=949
+lai 	來	c=1 d=0.109701 t=949
+lai kan 	來看	c=0 d=0.0856415 t=949
+lang hao 	狼嚎	c=11 d=2.5331 t=949
+lao dong fa 	勞動法	c=0 d=0.0100327 t=949
+lao shi 	老師	c=0 d=0.0227638 t=949
+le 	了	c=10 d=4.47285 t=949
+le shi kuai di fei 	了是快遞費	c=1 d=0.162838 t=949
+li 	裏	c=2 d=1.30344 t=949
+li kai 	離開	c=2 d=0.493432 t=949
+li kai she ding 	離開設定	c=1 d=0.763379 t=949
+li kai shi da fu 	離開士大夫	c=1 d=0.729789 t=949
+liang de fen ju 	兩地分居	c=0 d=0.00495388 t=949
+liang hang 	兩行	c=0 d=0.00518189 t=949
+liang wei 	兩位	c=0 d=0.0516851 t=949
+liao jie 	瞭解	c=0 d=0.0856415 t=949
+ling dao 	領導	c=0 d=0.0847894 t=949
+liu cheng 	流程	c=2 d=1.2603 t=949
+liu lan qi 	瀏覽器	c=1 d=0.628135 t=949
+long 	龍	c=1 d=0.535261 t=949
+long kou duo shi 	龍口奪食	c=1 d=0.904837 t=949
+lu fang ji 	錄放機	c=0 d=0.0843665 t=949
+lu ka shen ke 	盧卡申科	c=0 d=0.0847894 t=949
+lv she da fa 	律設大法	c=1 d=0.748264 t=949
+mai le 	買了	c=0 d=0.0120633 t=949
+me 	麼	c=1 d=0.0356146 t=949
+mei shi 	美食	c=1 d=0.718924 t=949
+mei ye 	每頁	c=1 d=0.105928 t=949
+mei yi bu 	每一步	c=1 d=0.657047 t=949
+men hu 	門戶	c=1 d=0.126651 t=949
+min jie 	敏捷	c=0 d=0.0247833 t=949
+min jie kai fa 	敏捷開發	c=1 d=0.249075 t=949
+ming 	名	c=1 d=0.198891 t=949
+ming cheng 	名稱	c=1 d=0.99005 t=949
+mo ren 	默認	c=4 d=0.989399 t=949
+mou zhong 	某種	c=0 d=0.0946485 t=949
+mou zhong yuan yin 	某種原因	c=1 d=0.951229 t=949
+mu biao 	目標	c=1 d=0.640824 t=949
+mu lu 	目錄	c=1 d=0.980199 t=949
+na bian 	那邊	c=1 d=0.67032 t=949
+nan dao 	難道	c=0 d=0.02334 t=949
+nao 	鬧	c=0 d=0.0238115 t=949
+ne 	呢	c=2 d=1.01403 t=949
+nei rong 	內容	c=1 d=0.647265 t=949
+ni 	你	c=2 d=0.999622 t=949
+ni shi 	你是	c=0 d=0.0810584 t=949
+nia 	孃	c=0 d=0.0117655 t=949
+o 	哦	c=5 d=2.55658 t=949
+pai 	排	c=1 d=0.0702988 t=949
+pei zhi 	配置	c=4 d=0.85088 t=949
+ping fan 	平凡	c=1 d=0.0845849 t=949
+po jie 	破解	c=1 d=0.904837 t=949
+qi 	其	c=2 d=0.781564 t=949
+qi dong 	啓動	c=1 d=0.960789 t=949
+qi qi ai ai 	期期艾艾	c=0 d=0.0375311 t=949
+qi qi qie qie 	悽悽切切	c=0 d=0.0329559 t=949
+qi qian 	七千	c=1 d=0.469799 t=949
+qi ye 	企業	c=1 d=0.126466 t=949
+qi ye men hu 	企業門戶	c=1 d=0.900324 t=949
+qiang da 	強大	c=0 d=0.0770315 t=949
+qiang da da wa ding ding ding ding ding ding ding ding da da de shi shi shang sui shi sui di wa de se 	強大大窪頂頂頂頂頂頂頂頂大大的事實上隨時隨地瓦德瑟	c=1 d=0.355226 t=949
+qiang duo dao 	搶奪到	c=1 d=0.394554 t=949
+qiao qiao da da 	敲敲打打	c=1 d=0.398954 t=949
+qie huan 	切換	c=1 d=0.19593 t=949
+qin ai 	親愛	c=0 d=0.118064 t=949
+qin ai de 	親愛的	c=0 d=0.0416862 t=949
+qin ai wa da da wu wei ding ding ding ding wu wu wu wu wu wu wu wu wu wa wa de 	親愛挖大大無畏頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地	c=1 d=0.45612 t=949
+qing 	請	c=1 d=0.390628 t=949
+qing qi bing 	輕騎兵	c=0 d=0.0833985 t=949
+qing qiu 	請求	c=1 d=0.937067 t=949
+qing wen 	請問	c=0 d=0.032628 t=949
+qu 	去	c=2 d=0.780463 t=949
+quan bu 	全部	c=0 d=0.0290835 t=949
+ran zhi 	然之	c=1 d=0.115325 t=949
+re ai 	熱愛	c=0 d=0.0423162 t=949
+ren 	人	c=0 d=0.0053397 t=949
+ren da 	人大	c=0 d=0.128271 t=949
+ren wei 	認爲	c=0 d=0.0323033 t=949
+ren wu lan 	任務欄	c=1 d=0.0422141 t=949
+ri 	日	c=1 d=0.88692 t=949
+rong rong dang dang 	溶溶蕩蕩	c=0 d=0.0319819 t=949
+ru guo 	如果	c=0 d=0.0286505 t=949
+ru he 	如何	c=2 d=1.0015 t=949
+ru men 	入門	c=0 d=0.022313 t=949
+ru ruo 	如若	c=1 d=0.0788664 t=949
+ruan 	軟	c=0 d=0.0850456 t=949
+ruan jian 	軟件	c=3 d=2.01628 t=949
+sa 	撒	c=0 d=0.0319819 t=949
+sa dan 	撒旦	c=0 d=0.183284 t=949
+sa jiao 	撒嬌	c=0 d=0.0865022 t=949
+sa ke 	薩克	c=0 d=0.0865022 t=949
+sa ke si 	薩克斯	c=0 d=0.0865022 t=949
+sa sa 	灑灑	c=0 d=0.0706129 t=949
+san da 	三大	c=0 d=0.122799 t=949
+san hao 	三號	c=0 d=0.0895834 t=949
+san hao biao ti 	三號標題	c=1 d=0.900325 t=949
+san wan qi qian 	三萬七千	c=0 d=0.0348192 t=949
+shan da wang 	山大王	c=0 d=0.0700328 t=949
+shan da wang qing qi bing 	山大王輕騎兵	c=1 d=0.408608 t=949
+shan dong sheng 	山東省	c=1 d=0.114098 t=949
+shan dong sheng de 	山東省的	c=1 d=0.877269 t=949
+shan dong sheng de shan dong sheng de she ding 	山東省的山東省的設定	c=1 d=0.873716 t=949
+shan tou 	汕頭	c=3 d=2.17513 t=949
+shang di jiao 	上帝教	c=0 d=0.172144 t=949
+shang kua ke 	上夸克	c=0 d=0.0865022 t=949
+shang wang 	上網	c=0 d=0.0293758 t=949
+shang xia 	上下	c=1 d=0.193013 t=949
+shao bu liao 	少不了	c=1 d=0.726149 t=949
+she ding 	設定	c=2 d=0.351064 t=949
+she fang di 	設防地	c=1 d=0.22091 t=949
+she ji shi 	設計師	c=1 d=0.0627546 t=949
+she ji shi shi 	設計師是	c=1 d=0.0804596 t=949
+she xiang tou 	攝像頭	c=2 d=1.98012 t=949
+she zhi 	設置	c=4 d=1.23083 t=949
+shen me 	什麼	c=1 d=0.579842 t=949
+shen men 	身門	c=0 d=0.0932394 t=949
+sheng dan kuai le 	聖誕快樂	c=0 d=0.00510474 t=949
+sheng dan kuai le fa 	聖誕快樂發	c=2 d=0.841279 t=949
+sheng sheng shi shi 	生生世世	c=0 d=0.117784 t=949
+shi 	實	c=1 d=0.557106 t=949
+shi 	是	c=8 d=1.89036 t=949
+shi chang 	市場	c=0 d=0.022313 t=949
+shi chang ru men 	市場入門	c=1 d=0.224249 t=949
+shi da da 	溼答答	c=0 d=0.058605 t=949
+shi da fu 	士大夫	c=26 d=5.38767 t=949
+shi da fu di fang 	士大夫地方	c=1 d=0.0963276 t=949
+shi da fu fang shi 	士大夫方式	c=1 d=0.164474 t=949
+shi da fu kai dang ku 	士大夫開襠褲	c=1 d=0.0502874 t=949
+shi da fu kao lv 	士大夫考慮	c=2 d=0.944214 t=949
+shi da fu kao lv shi 	士大夫考慮是	c=1 d=0.831104 t=949
+shi da fu ke lu ji 	士大夫刻錄機	c=1 d=0.941764 t=949
+shi da fu kong jian 	士大夫空間	c=1 d=0.865022 t=949
+shi da fu kuan 	士大夫款	c=4 d=0.998067 t=949
+shi da fu kuan shi lai ke da fei ji 	士大夫款史萊克打飛機	c=1 d=0.0401553 t=949
+shi da fu lu ka shen ke ling dao 	士大夫盧卡申科領導	c=1 d=0.852144 t=949
+shi da fu shi da fu 	士大夫士大夫	c=2 d=0.230681 t=949
+shi da fu shi da fu shi da fu 	士大夫士大夫士大夫	c=2 d=0.837428 t=949
+shi de fen shu 	實得分數	c=1 d=0.23589 t=949
+shi de fen shu duo fu duo shou 	實得分數多福多壽	c=1 d=0.183599 t=949
+shi di di da da a wa da wei de qin ai de qiang da da da a a a ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da wei de ren da da da a a a a a a a da da a a a a ai dao de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding diao wa dai ding ding ding ding ding ding ding ding ding ding ding ding sa dan 	是滴滴答答阿佤大威德親愛的強大大大啊啊啊頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大威德人大大大啊啊啊啊啊啊啊大大啊啊啊啊挨刀的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂吊襪帶頂頂頂頂頂頂頂頂頂頂頂頂撒旦	c=1 d=0.418952 t=949
+shi di fang fan de sa 	是地方范德薩	c=1 d=0.171187 t=949
+shi di song 	溼地松	c=0 d=0.0856415 t=949
+shi du wei diao 	適度微調	c=0 d=0.0400517 t=949
+shi du wei diao shi qiu wen du ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa ren da qin ai diao wa dai 	適度微調溼球溫度頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪人大親愛吊襪帶	c=1 d=0.402524 t=949
+shi fa de dian 	事發地點	c=1 d=0.0944202 t=949
+shi ge 	是個	c=1 d=0.878096 t=949
+shi ji yu 	是基於	c=3 d=0.521347 t=949
+shi kuai di fei 	是快遞費	c=3 d=1.05481 t=949
+shi kuai di fei di fang 	是快遞費地方	c=1 d=0.151072 t=949
+shi lai ke 	史萊克	c=0 d=0.00399551 t=949
+shi le 	溼了	c=1 d=0.167932 t=949
+shi le dai fu kuan 	溼了代付款	c=1 d=0.726149 t=949
+shi le ka da ji fen ka 	溼了喀噠計分卡	c=1 d=0.231078 t=949
+shi le kuai di fei 	溼了快遞費	c=2 d=0.383235 t=949
+shi pin 	視頻	c=1 d=0.687289 t=949
+shi qiu wen du 	溼球溫度	c=0 d=0.0400517 t=949
+shi shi 	實施	c=0 d=0.0054204 t=949
+shi shi 	試試	c=22 d=3.62983 t=949
+shi shi shang 	事實上	c=2 d=0.255238 t=949
+shi shi zhe ge 	試試這個	c=1 d=0.0916297 t=949
+shi si 	十四	c=1 d=0.055299 t=949
+shi yong 	使用	c=1 d=0.66034 t=949
+shou ce 	手冊	c=1 d=0.690734 t=949
+shu liang 	數量	c=1 d=0.0497871 t=949
+shu rang 	鼠壤	c=1 d=0.054204 t=949
+shu ru 	輸入	c=4 d=2.46248 t=949
+shu ru fa 	輸入法	c=25 d=6.18352 t=949
+shu ru ruan 	輸入軟	c=1 d=0.748263 t=949
+shuang du fu fu 	雙獨夫婦	c=1 d=0.117068 t=949
+shui mian 	睡眠	c=1 d=0.980199 t=949
+shui rong rong 	水溶溶	c=0 d=0.0286505 t=949
+shuo dao di 	說到底	c=1 d=0.204349 t=949
+si 	死	c=0 d=0.0865022 t=949
+si da jie kong 	四大皆空	c=0 d=0.0865022 t=949
+si da lin 	斯大林	c=0 d=0.00332068 t=949
+si da lin kai fa 	斯大林開發	c=1 d=0.0333733 t=949
+si dang dong 	斯當東	c=0 d=0.0856415 t=949
+si dong fei dong 	似懂非懂	c=1 d=0.0528657 t=949
+si fa du li 	司法獨立	c=0 d=0.016696 t=949
+si fa du li kan kan 	司法獨立看看	c=1 d=0.167797 t=949
+si kao 	思考	c=1 d=0.75812 t=949
+si kao dai fu kuan 	思考代付款	c=2 d=0.0971352 t=949
+si kao jiu shi 	思考就是	c=1 d=0.0934807 t=949
+si kao lao dong fa 	思考勞動法	c=1 d=0.0561325 t=949
+si kao lao dong fa kao lv 	思考勞動法考慮	c=1 d=0.0536647 t=949
+si kao liang de fen ju 	思考兩地分居	c=1 d=0.049787 t=949
+si ke da 	斯柯達	c=0 d=0.0843665 t=949
+si ke da lu fang ji 	斯柯達錄放機	c=1 d=0.847894 t=949
+si wa 	絲襪	c=0 d=0.0313486 t=949
+si xiang 	思想	c=3 d=0.404288 t=949
+su dan da fo 	蘇丹達佛	c=1 d=0.100259 t=949
+su du 	速度	c=1 d=0.0423036 t=949
+su du kai fa 	速度開發	c=6 d=1.81696 t=949
+su du kai fa kong shou dao 	速度開發空手道	c=1 d=0.794533 t=949
+su du kuai 	速度快	c=2 d=0.987945 t=949
+suan fa 	算法	c=0 d=0.00342181 t=949
+suan fa fu wu 	算法服務	c=1 d=0.0343896 t=949
+sui shi sui di 	隨時隨地	c=0 d=0.0353455 t=949
+ta shuo 	他說	c=1 d=0.83527 t=949
+tai 	太	c=1 d=0.655824 t=949
+tai chou 	太醜	c=1 d=0.657047 t=949
+te bie 	特別	c=0 d=0.0121238 t=949
+te ding 	特定	c=2 d=0.119438 t=949
+ti shi 	提示	c=2 d=0.967721 t=949
+ting bu cuo 	挺不錯	c=0 d=0.0752015 t=949
+ting shuo 	聽說	c=1 d=0.66365 t=949
+tong guo 	通過	c=1 d=0.109154 t=949
+tong nian 	童年	c=1 d=0.571209 t=949
+tou zhe 	透着	c=1 d=0.501576 t=949
+tu biao 	圖標	c=1 d=0.0424257 t=949
+tu wen 	圖文	c=1 d=0.680451 t=949
+tui jian 	推薦	c=1 d=1 t=949
+tuo pan 	托盤	c=1 d=0.186374 t=949
+wa 	瓦	c=3 d=1.62719 t=949
+wa ao 	凹凹	c=0 d=0.179168 t=949
+wa da 	挖大	c=0 d=0.510628 t=949
+wa da qi qian a da 	挖大七千阿達	c=1 d=0.316637 t=949
+wa dang wen 	瓦當文	c=0 d=0.0840644 t=949
+wa dang wen ren da gu dan dan de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a ban ben 	瓦當文人大孤單單的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊版本	c=1 d=0.467666 t=949
+wa de dao 	挖地道	c=0 d=0.0935038 t=949
+wa de se 	瓦德瑟	c=0 d=0.0353455 t=949
+wa ha ha 	娃哈哈	c=2 d=1.72296 t=949
+wa ha ha ha 	哇哈哈哈	c=1 d=0.0443785 t=949
+wa qian 	挖潛	c=0 d=0.033454 t=949
+wa qian da di dang qian a da 	挖潛大敵當前阿達	c=1 d=0.336216 t=949
+wa ran 	窪然	c=1 d=0.466776 t=949
+wa ren 	蛙人	c=0 d=0.0375311 t=949
+wa wa 	娃娃	c=0 d=0.0996076 t=949
+wa wa de 	哇哇地	c=0 d=0.218527 t=949
+wai di 	外地	c=1 d=0.180866 t=949
+wan 	玩	c=2 d=0.718582 t=949
+wan cheng 	完成	c=1 d=0.932394 t=949
+wan qiao qiao da da da ren a a a a da sa ding ding ding ding shi da da 	玩敲敲打打大人啊啊啊啊搭撒頂頂頂頂溼答答	c=1 d=0.293758 t=949
+wan shi da 	萬事達	c=1 d=0.582748 t=949
+wan wei wang 	萬維網	c=0 d=0.0463013 t=949
+wan wei wang wa ao 	萬維網凹凹	c=1 d=0.465334 t=949
+wang wen wen qie 	望聞問切	c=0 d=0.0290835 t=949
+wang zhan 	網站	c=1 d=0.927743 t=949
+wei 	爲	c=8 d=2.48012 t=949
+wei da 	偉大	c=0 d=0.0590468 t=949
+wei qu de 	未取得	c=0 d=0.0311923 t=949
+wei qu qi 	未娶妻	c=1 d=0.463004 t=949
+wei ruan 	微軟	c=0 d=0.0313486 t=949
+wei sa 	維薩	c=0 d=0.0375311 t=949
+wei shen me 	爲什麼	c=1 d=0.941765 t=949
+wei shen men 	爲身門	c=1 d=0.937067 t=949
+wei zhi 	位置	c=1 d=0.995012 t=949
+wen ben 	文本	c=1 d=0.965605 t=949
+wen jian 	文件	c=1 d=0.985112 t=949
+wen jian jia 	文件夾	c=1 d=1.00298 t=949
+wen suo wei wen 	聞所未聞	c=0 d=0.0377192 t=949
+wen zi 	文字	c=1 d=0.918512 t=949
+wo 	我	c=3 d=0.168558 t=949
+wo bing bu 	我並不	c=0 d=0.0329559 t=949
+wo de 	我的	c=1 d=0.0544757 t=949
+wo en 	沃恩	c=4 d=0.301301 t=949
+wo en gong si 	沃恩公司	c=1 d=0.0614212 t=949
+wo fen 	我分	c=1 d=0.0403566 t=949
+wo jin ti gong te bie gao xing 	我僅提供特別高興	c=1 d=0.121846 t=949
+wo men 	我們	c=14 d=1.31051 t=949
+wo men de 	我們的	c=3 d=0.290165 t=949
+wo men de xi ni nia 	我們的細膩孃	c=1 d=0.118245 t=949
+wo men de xin jia 	我們的新家	c=2 d=0.152285 t=949
+wo men gong si 	我們公司	c=1 d=0.0617291 t=949
+wo men ren 	我們人	c=1 d=0.0536647 t=949
+wo men xin zhu ti 	我們新主題	c=1 d=0.0605068 t=949
+wo qu 	我去	c=0 d=0.0120633 t=949
+wo qu chao shi mai le yi ping huang hua cai 	我去超市買了一瓶黃花菜	c=1 d=0.121238 t=949
+wo shi 	我是	c=2 d=0.484657 t=949
+wo shi shi 	我實施	c=1 d=0.0544757 t=949
+wo wo ao ao 	窩窩凹凹	c=0 d=0.0364219 t=949
+wo wo ao ao da da da wu wei wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wa da da wa ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu wa da 	窩窩凹凹大大大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大窪頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂低等動物挖大	c=1 d=0.366045 t=949
+wo ye 	我也	c=1 d=0.865022 t=949
+wo zai 	我再	c=1 d=0.0557715 t=949
+wo zai shi shi 	我再試試	c=2 d=0.0629543 t=949
+wu di dong 	無底洞	c=0 d=0.0298197 t=949
+wu fa 	無法	c=2 d=1.53427 t=949
+wu ren dao 	無人島	c=1 d=0.370544 t=949
+wu wei de qu 	武威地區	c=0 d=0.0290835 t=949
+wu wu ran 	無污染	c=0 d=0.0633306 t=949
+wu wu wu 	嗚嗚嗚	c=0 d=0.507886 t=949
+wu wu wu wu wu wu wei wu wu wu wa da a a a a a a a a a a a a a a a a a a a a wen jian jia wu wu wu wu wu wu wu wu wu wa ran ding ding ding ding ding ding ding ding da da de diao chu 	嗚嗚嗚嗚嗚嗚爲嗚嗚嗚挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊文件夾嗚嗚嗚嗚嗚嗚嗚嗚嗚窪然頂頂頂頂頂頂頂頂大大的調出	c=1 d=0.410656 t=949
+wu wu wu wu wu wu wu wei de qu dan wei wang wen wen qie da da quan bu 	嗚嗚嗚嗚嗚嗚武威地區單位望聞問切大大全部	c=1 d=0.292293 t=949
+wu wu wu wu wu wu wu wu wu san wan qi qian jin jin ji jiao da jia qi qian a a a 	嗚嗚嗚嗚嗚嗚嗚嗚嗚三萬七千斤斤計較大家七千啊啊啊	c=1 d=0.349938 t=949
+wu ya 	烏鴉	c=1 d=0.543351 t=949
+xi lie 	系列	c=1 d=0.615697 t=949
+xi ni 	細膩	c=0 d=0.0117655 t=949
+xi tong 	系統	c=4 d=1.56375 t=949
+xia 	下	c=1 d=0.76826 t=949
+xian shi 	顯示	c=4 d=1.01037 t=949
+xian shi chu 	顯示出	c=1 d=0.637628 t=949
+xian zai 	現在	c=1 d=0.111917 t=949
+xiang mu 	項目	c=3 d=1.15641 t=949
+xiang mu ruan li ruan jian 	項目軟裏軟件	c=1 d=0.157237 t=949
+xiao 	小	c=6 d=1.53255 t=949
+xiao lang 	小狼	c=2 d=0.539667 t=949
+xiao lang hao 	小狼毫	c=7 d=3.85828 t=949
+xin 	新	c=0 d=0.0114681 t=949
+xin chan pin 	新產品	c=1 d=0.0623495 t=949
+xin dai 	信貸	c=0 d=0.00862936 t=949
+xin dai zhan zhong 	信貸戰中	c=1 d=0.0867261 t=949
+xin de 	新的	c=1 d=0.740819 t=949
+xin jia 	新家	c=1 d=0.086451 t=949
+xin shu ru fa 	新輸入法	c=1 d=0.0547488 t=949
+xing shi 	形式	c=1 d=0.67368 t=949
+xing zheng cun 	行政村	c=1 d=0.0977834 t=949
+xiu gai 	修改	c=2 d=0.984198 t=949
+xiu mian 	休眠	c=1 d=0.955997 t=949
+xu 	虛	c=1 d=0.548812 t=949
+xuan xiang 	選項	c=0 d=0.0110251 t=949
+xuan xuan 	喧喧	c=3 d=1.08451 t=949
+xue xi 	學習	c=1 d=0.25924 t=949
+ya ya 	呀呀	c=1 d=0.697676 t=949
+yan 	演	c=1 d=0.509156 t=949
+yan jiu 	研究	c=3 d=1.2196 t=949
+yan se 	顏色	c=2 d=0.124426 t=949
+yan tai 	煙臺	c=0 d=0.00566989 t=949
+yan tai ge 	煙臺個	c=1 d=0.0569831 t=949
+yang wo 	仰臥	c=1 d=0.985112 t=949
+ye 	也	c=1 d=0.909373 t=949
+ye mian 	頁面	c=2 d=1.24153 t=949
+yi ge 	一個	c=2 d=1.06484 t=949
+yi ge kuan 	一個款	c=1 d=0.0488012 t=949
+yi jing 	已經	c=1 d=0.67368 t=949
+yi kuan 	一款	c=1 d=0.142987 t=949
+yi lan 	一覽	c=1 d=0.199888 t=949
+yi ping 	一瓶	c=0 d=0.0120633 t=949
+yi quan 	一圈	c=1 d=0.102797 t=949
+yin qing 	引擎	c=1 d=0.970446 t=949
+yin wei 	因爲	c=1 d=0.946485 t=949
+yin xiang 	印象	c=1 d=0.514274 t=949
+ying wen 	英文	c=3 d=0.939712 t=949
+yong 	用	c=1 d=0.97531 t=949
+yong hu 	用戶	c=2 d=1.64413 t=949
+you 	又	c=1 d=0.88692 t=949
+you xiao 	有效	c=1 d=0.123687 t=949
+yu dao 	遇到	c=1 d=0.869358 t=949
+yu liu 	預留	c=2 d=0.0675828 t=949
+yuan yin 	原因	c=0 d=0.0946485 t=949
+yun xing 	運行	c=6 d=5.76592 t=949
+zai 	在	c=3 d=1.96294 t=949
+zai shi shi 	在試試	c=2 d=0.12979 t=949
+ze 	則	c=2 d=1.11804 t=949
+zen me 	怎麼	c=1 d=0.0566989 t=949
+zen me hui 	怎麼會	c=1 d=0.774916 t=949
+zen me hui shi 	怎麼回事	c=1 d=0.790571 t=949
+zen me yang 	怎麼樣	c=2 d=0.117153 t=949
+zhan dian 	站點	c=2 d=1.6539 t=949
+zhan yong 	佔用	c=1 d=0.0352602 t=949
+zhan zhong 	戰中	c=0 d=0.00862936 t=949
+zhang 	長	c=1 d=0.644036 t=949
+zhao 	兆	c=1 d=0.532592 t=949
+zhao 	着	c=1 d=0.529935 t=949
+zhao ji hui 	找機會	c=1 d=0.701173 t=949
+zhe 	這	c=0 d=0.00518189 t=949
+zhe ge 	這個	c=11 d=2.20806 t=949
+zhe ge fan er 	這個反而	c=1 d=0.843665 t=949
+zhe ge mo ren zhu 	這個默認住	c=1 d=0.0833256 t=949
+zhe ge tai 	這個太	c=1 d=0.084163 t=949
+zhe ge zhu ti 	這個主題	c=1 d=0.0590129 t=949
+zhe li shi 	這裏是	c=2 d=0.639065 t=949
+zhe liang hang 	這兩行	c=2 d=0.127853 t=949
+zhe me 	這麼	c=1 d=0.486752 t=949
+zhe shi 	這是	c=1 d=0.895834 t=949
+zhe shi yi ge 	這是一個	c=1 d=0.0515604 t=949
+zhe teng 	折騰	c=1 d=0.489192 t=949
+zhen de 	真的	c=0 d=0.0752015 t=949
+zhen de ting bu cuo 	真的挺不錯	c=1 d=0.755784 t=949
+zheng chang 	正常	c=1 d=0.895834 t=949
+zheng ge 	整個	c=2 d=1.25401 t=949
+zheng li 	整理	c=2 d=1.27655 t=949
+zhi 	之	c=2 d=1.11703 t=949
+zhi ding 	指定	c=3 d=0.168954 t=949
+zhi jie 	直接	c=1 d=0.873716 t=949
+zhi neng 	只能	c=1 d=0.108609 t=949
+zhi xing 	執行	c=1 d=0.980199 t=949
+zhong 	中	c=2 d=0.841087 t=949
+zhong wen 	中文	c=3 d=0.784662 t=949
+zhu 	住	c=0 d=0.008291 t=949
+zhu ce ji 	註冊機	c=1 d=0.878095 t=949
+zhu ti 	主題	c=3 d=0.181108 t=949
+zhu ti 	豬蹄	c=1 d=0.0561348 t=949
+zhuan qu 	專區	c=1 d=0.918512 t=949
+zhuang tai 	狀態	c=1 d=0.818731 t=949
+zi hao 	字號	c=2 d=0.122421 t=949
+zi liao 	資料	c=1 d=1 t=949
+zi mu 	字母	c=1 d=0.88692 t=949
+zi ti 	字體	c=2 d=0.121811 t=949
+zong wen 	縱紋	c=0 d=0.00520787 t=949
+zou 	鄒	c=1 d=0.527292 t=949
+zu zhi 	阻止	c=1 d=0.955997 t=949
+zui hao 	最好	c=1 d=0.0407622 t=949
