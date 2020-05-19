@@ -8,7 +8,7 @@ patch:
 
 # 键名一览：https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
   "key_binder/bindings":
-    - { when: paging, accept: bracketleft, send: Page_Up }                     #设置[]上下翻页
-    - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { when: paging, accept: minus, send: Page_Up }                     #设置候选词上下翻页
+    - { when: has_menu, accept: equal, send: Page_Down }
     - { accept: "Control+Shift+space", toggle: simplification, when: always }  #设置切换简繁快捷键
     
