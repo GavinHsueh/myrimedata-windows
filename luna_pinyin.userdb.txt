@@ -366,7 +366,7 @@ hai shi 	還是	c=4 d=0.844868 t=1721
 hai you 	還有	c=2 d=0.275347 t=1721
 hao 	好	c=1 d=0.845241 t=1721
 hao 	號	c=2 d=0.966441 t=1721
-hao a 	好啊	c=0 d=0.1 t=1715
+hao a 	好啊	c=0 d=0.0970446 t=1721
 hao de 	好的	c=4 d=0.925139 t=1721
 hao de 	郝的	c=1 d=1 t=1721
 hao hao 	好好	c=2 d=0.675334 t=1721
@@ -1137,7 +1137,7 @@ zhe zhong 	這種	c=1 d=0.546074 t=1721
 zhen 	真	c=1 d=0.679793 t=1721
 zhen de 	真的	c=0 d=0.0752015 t=1721
 zhen de ting bu cuo 	真的挺不錯	c=1 d=0.755784 t=1721
-zhen hao a 	真好啊	c=1 d=1 t=1716
+zhen hao a 	真好啊	c=1 d=0.97531 t=1721
 zheng chang 	正常	c=1 d=0.873716 t=1721
 zheng de 	整得	c=1 d=0.131994 t=1721
 zheng ge 	整個	c=2 d=1.25401 t=1721
@@ -1176,7 +1176,7 @@ zong wen 	縱紋	c=0 d=0.00520787 t=1721
 zou 	鄒	c=1 d=0.527292 t=1721
 zou le 	走了	c=2 d=1.66223 t=1721
 zu guo 	祖國	c=2 d=1.74537 t=1721
-zu wo 	組我	c=1 d=1 t=1712
+zu wo 	組我	c=1 d=0.955997 t=1721
 zu zhi 	阻止	c=1 d=0.932393 t=1721
 zui hao 	最好	c=1 d=0.0407622 t=1721
 zuo 	做	c=1 d=0.0352602 t=1721
