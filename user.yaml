@@ -1,17 +1,9 @@
 var:
-<<<<<<< HEAD
-  last_build_time: 1590150112
-=======
-  last_build_time: 1590141742
->>>>>>> faca110a06e8f9611d347b64133259f9cf8cdeae
+  last_build_time: 1590161010
   option:
     simplification: true
   previously_selected_schema: luna_pinyin
   schema_access_time:
-<<<<<<< HEAD
-    luna_pinyin: 1589976130
-=======
-    GH_pinyin: 1590139932
-    hello: 1590139611
-    luna_pinyin: 1590139939
->>>>>>> faca110a06e8f9611d347b64133259f9cf8cdeae
+    GH_pinyin: 1590160646
+    luna_pinyin: 1590160928
+    luna_pinyin_simp: 1590160566
