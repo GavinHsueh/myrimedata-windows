@@ -1,3 +1,4 @@
+# luna_pinyin.custom.yaml
 punctuator:
   import_preset: default
 patch:
