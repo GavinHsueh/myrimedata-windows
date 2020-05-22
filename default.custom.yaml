@@ -2,6 +2,7 @@ patch:
   schema_list:
     - {schema: luna_pinyin}
     - {schema: luna_pinyin_simp}
+    - {schema: GH_pinyin}
   "menu/page_size": 7                     #每页候选词个数
   "switcher/hotkeys":                     #只能通过ctrl+`来调出方案选项，F4不再有效
     - "Control+grave"
