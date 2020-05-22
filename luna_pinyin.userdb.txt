@@ -2,6 +2,7 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
+<<<<<<< HEAD
 #@/tick	2138
 #@/user_id	myrimedata-windows
 a 	啊	c=12 d=3.91031 t=2138
@@ -2563,3 +2564,2971 @@ zuo wan 	昨晚	c=1 d=0.254107 t=2138
 鼠壤 	shu rang 	c=0 d=0 t=2138
 龍 	long 	c=0 d=0 t=2138
 龍口奪食 	long kou duo shi 	c=0 d=0 t=2138
+=======
+#@/tick	3869
+#@/user_id	myrimedata-windows
+a 	啊	c=11 d=3.91031 t=3869
+a a 	啊啊	c=2 d=0.923315 t=3869
+a a a 	啊啊啊	c=0 d=0.176479 t=3869
+a a a a 	啊啊啊啊	c=0 d=0.435094 t=3869
+a a a a a wa a a sa sa dan wei de dao 	啊啊啊啊阿佤啊啊灑灑單位得到	c=1 d=0.286505 t=3869
+a a a a da wa wu wu wu wa wa a a a a a a a a a a a a a a a a da wa da da de wa ren a a a a a a a a wa wu wu wu ding ding ding ding da da a wa qi qi ai ai a a a a dui wo shuo sheng sheng shi shi sa dan wei qu qi a da wa wu wu wu wa wa de da sa wa da wu wu wu wu wu wu wu wu wu wu wu wu wei sa wa dang wen 	啊啊啊啊大窪嗚嗚嗚娃娃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大窪大大的蛙人啊啊啊啊啊啊啊阿佤嗚嗚嗚頂頂頂頂大大阿佤期期艾艾啊啊啊啊對我說生生世世撒旦未娶妻啊大窪嗚嗚嗚哇哇地搭撒挖大嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚維薩瓦當文	c=1 d=0.377192 t=3869
+a a a a wei 	啊啊啊啊爲	c=1 d=0.459267 t=3869
+a a da wa da wa 	啊啊大窪大窪	c=1 d=0.396531 t=3869
+a da 	阿達	c=1 d=0.661535 t=3869
+a da da de da su da a a ai ren wa 	啊大大的大蘇打啊啊愛人瓦	c=1 d=0.421052 t=3869
+a da min lo gei 	阿達民咯給	c=1 d=0.04573 t=3869
+a da wu ren dao da an da she wan 	阿達無人島答案大蛇丸	c=1 d=0.444858 t=3869
+a di da si 	阿迪達斯	c=0 d=0.0313486 t=3869
+a di di da da da da wei da an de sen da ren ai ao wa dang shi wu di de 	啊滴滴答答大大偉大安德森大人艾奧瓦當世無敵的	c=1 d=0.298197 t=3869
+a du wu 	阿堵物	c=0 d=0.14111 t=3869
+a du wu ding ding ding ding ding ding ding ding ren wei guang wu ran 	阿堵物頂頂頂頂頂頂頂頂認爲光污染	c=1 d=0.324652 t=3869
+a ke su 	阿克蘇	c=0 d=0.083527 t=3869
+a li 	阿里	c=0 d=0.083527 t=3869
+a li shan da 	阿歷山大	c=0 d=0.083527 t=3869
+a sa sa wa ran a da da wei de 	啊灑灑窪然阿達大威德	c=1 d=0.423162 t=3869
+a sen song dao 	阿森松島	c=0 d=0.083527 t=3869
+a si dun 	阿斯頓	c=3 d=0.329563 t=3869
+a wa 	阿佤	c=1 d=0.633101 t=3869
+a wa qi qian da duo shu ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu 	阿佤七千大多數頂頂頂頂頂頂頂頂頂頂頂頂低等動物	c=1 d=0.323033 t=3869
+a wa qing qi bing 	阿佤輕騎兵	c=1 d=0.429557 t=3869
+a wa wu wu wu 	阿佤嗚嗚嗚	c=1 d=0.547983 t=3869
+a wa wu wu wu wa an quan da da de wa a a a a qi a wa wa da 	阿佤嗚嗚嗚瓦安全大大的瓦啊啊啊啊其阿佤挖大	c=1 d=0.357007 t=3869
+a wa wu wu wu wei qu qi ding ding ding ding da da de di di da da 	阿佤嗚嗚嗚未娶妻頂頂頂頂大大的滴滴答答	c=1 d=0.362402 t=3869
+a wa wu wu wu wu wu wu wa da 	阿佤嗚嗚嗚嗚嗚嗚挖大	c=1 d=0.460704 t=3869
+ai ao wa 	艾奧瓦	c=0 d=0.0930018 t=3869
+ai dao de 	挨刀的	c=0 d=0.165764 t=3869
+ai di 	艾迪	c=0 d=0.0843665 t=3869
+ai di sheng 	愛迪生	c=1 d=0.927188 t=3869
+ai qiang qian wu 	矮牆淺屋	c=0 d=0.0329559 t=3869
+ai qiang qian wu qi qi qie qie ai dao de wu wu wu qi qian a si dun wa de dao ding ding ding ding ding ding ding ding diao wa dai wa de dao qi qian wo bing bu 	矮牆淺屋悽悽切切挨刀的嗚嗚嗚七千阿斯頓挖地道頂頂頂頂頂頂頂頂吊襪帶挖地道七千我並不	c=1 d=0.331211 t=3869
+ai ren 	愛人	c=0 d=0.0418952 t=3869
+ai si 	愛死	c=0 d=0.0843665 t=3869
+ai wo wo 	艾窩窩	c=1 d=0.346456 t=3869
+ai ya 	哎呀	c=2 d=1.35074 t=3869
+an 	按	c=2 d=0.987979 t=3869
+an a ding 	氨吖啶	c=0 d=0.114814 t=3869
+an an 	暗暗	c=0 d=0.0298197 t=3869
+an an ai dao de da wa a a a a a a a a a a a da wa ding ding ding ding ding ding ding ding ding ding ding ding wa da a wa ding ding ding ding da da da wa a a a a a a a a an a ding wu di dong wa de dao ding ding ding ding ding ding ding ding ding ding ding ding dan da ru dou bu 	暗暗挨刀的大窪啊啊啊啊啊啊啊啊啊啊啊大窪頂頂頂頂頂頂頂頂頂頂頂頂挖大阿佤頂頂頂頂大大大窪啊啊啊啊啊啊啊啊氨吖啶無底洞挖地道頂頂頂頂頂頂頂頂頂頂頂頂膽大如斗不	c=1 d=0.299692 t=3869
+an de sen 	安德森	c=0 d=0.029671 t=3869
+an de si shan 	安地斯山	c=1 d=0.318224 t=3869
+an ding qi 	安定器	c=0 d=0.0318224 t=3869
+an li 	案例	c=2 d=1.17735 t=3869
+an niu 	按鈕	c=3 d=0.571227 t=3869
+an pai 	安排	c=7 d=0.603506 t=3869
+an quan 	安全	c=1 d=0.395524 t=3869
+an zhao 	按照	c=2 d=0.344116 t=3869
+an zhuang 	安裝	c=1 d=0.283654 t=3869
+an zhuang hao 	安裝好	c=1 d=0.114178 t=3869
+ao 	奧	c=0 d=7.31802e-05 t=3869
+ba 	吧	c=26 d=4.2097 t=3869
+ba 	把	c=9 d=1.90692 t=3869
+bai du 	百度	c=2 d=0.701135 t=3869
+ban ben 	版本	c=11 d=1.68883 t=3869
+ban tian 	半天	c=2 d=0.971321 t=3869
+bang mang 	幫忙	c=7 d=0.968746 t=3869
+bang nin 	幫您	c=1 d=0.822835 t=3869
+bang zhu 	幫助	c=4 d=0.291246 t=3869
+bao 	包	c=3 d=1.17375 t=3869
+bao guang 	暴光	c=0 d=0.0254107 t=3869
+bao guang qu dao 	暴光渠道	c=1 d=0.255381 t=3869
+bao kuo 	包括	c=1 d=0.778801 t=3869
+bei 	被	c=3 d=1.04874 t=3869
+bei fen 	備份	c=4 d=1.29418 t=3869
+ben 	本	c=1 d=0.110251 t=3869
+ben qun 	本羣	c=2 d=0.367968 t=3869
+bi jiao 	比較	c=1 d=0.287941 t=3869
+bi mian 	避免	c=3 d=0.715338 t=3869
+bi ru 	比如	c=2 d=0.237738 t=3869
+bi tou 	筆頭	c=1 d=0.00223168 t=3869
+bi xu 	必須	c=1 d=0.600496 t=3869
+bian 	邊	c=1 d=0.283654 t=3869
+bian ji qi 	編輯器	c=2 d=0.24958 t=3869
+bian ma 	編碼	c=1 d=0.18452 t=3869
+bian xie 	邊寫	c=1 d=0.280832 t=3869
+biao 	表	c=2 d=0.314043 t=3869
+biao ge 	表格	c=2 d=0.090494 t=3869
+biao ji 	標記	c=1 d=0.755784 t=3869
+biao shi 	標識	c=1 d=0.438235 t=3869
+biao ti 	標題	c=3 d=0.988866 t=3869
+bie 	別	c=3 d=1.865 t=3869
+bing 	並	c=5 d=0.426188 t=3869
+bing bao 	冰雹	c=1 d=0.666976 t=3869
+bu 	不	c=11 d=2.48449 t=3869
+bu bao kuo 	不包括	c=1 d=0.0720785 t=3869
+bu cuo 	不錯	c=1 d=0.923116 t=3869
+bu fang 	不妨	c=1 d=0.0374406 t=3869
+bu fen 	部分	c=1 d=0.0605068 t=3869
+bu gou 	不夠	c=1 d=0.177284 t=3869
+bu guo 	不過	c=1 d=0.856415 t=3869
+bu hao 	不好	c=0 d=0.0826959 t=3869
+bu neng 	不能	c=3 d=0.970446 t=3869
+bu quan 	不全	c=1 d=0.0315873 t=3869
+bu rong yi 	不容易	c=1 d=0.00100036 t=3869
+bu ru 	不如	c=1 d=0.00220948 t=3869
+bu shi 	不是	c=1 d=0.182684 t=3869
+bu shu 	部署	c=1 d=0.0361528 t=3869
+bu tai 	不太	c=1 d=0.278037 t=3869
+bu tan tao 	不探討	c=1 d=0.351692 t=3869
+bu xi huan 	不喜歡	c=1 d=0.108609 t=3869
+bu xia 	不下	c=0 d=0.0790571 t=3869
+bu xia ni shi 	不下你是	c=1 d=0.794533 t=3869
+bu xian shi 	不顯示	c=2 d=0.0425261 t=3869
+bu xu yao 	不需要	c=2 d=0.309446 t=3869
+bu yao 	不要	c=3 d=0.0491086 t=3869
+bu ying gai 	不應該	c=2 d=0.522046 t=3869
+bu yong 	不用	c=1 d=0.869358 t=3869
+bu zai 	不再	c=1 d=0.12307 t=3869
+bu zai me 	不再麼	c=1 d=0.273898 t=3869
+bu zhao 	不招	c=1 d=0.0403566 t=3869
+bu zheng chang 	不正常	c=1 d=0.0500366 t=3869
+bu zhi dao 	不知道	c=3 d=0.0845849 t=3869
+bu zhou 	步驟	c=1 d=0.0873716 t=3869
+bu zhou tu 	步驟圖	c=1 d=0.878095 t=3869
+bu zhuang 	不裝	c=1 d=0.506617 t=3869
+cai 	才	c=1 d=0.0275983 t=3869
+cai gou 	採購	c=2 d=1.41822 t=3869
+cai jie 	採擷	c=1 d=0.995012 t=3869
+cai ni 	彩泥	c=1 d=0.226502 t=3869
+can jia 	參加	c=1 d=0.637628 t=3869
+can kao 	參考	c=3 d=0.956908 t=3869
+can zhao 	參照	c=2 d=0.543351 t=3869
+cao zuo 	操作	c=3 d=0.637698 t=3869
+ce 	側	c=1 d=0.110251 t=3869
+ce lan 	測爛	c=1 d=0.0483156 t=3869
+ce shi 	測試	c=11 d=1.59364 t=3869
+cha bu duo 	差不多	c=1 d=0.241714 t=3869
+cha jian 	插件	c=2 d=1.22537 t=3869
+cha ru 	插入	c=1 d=0.941765 t=3869
+cha shou 	查收	c=1 d=0.143704 t=3869
+chan 	禪	c=2 d=0.553343 t=3869
+chan dao 	產道	c=1 d=0.0539337 t=3869
+chan dao 	禪道	c=81 d=14.4746 t=3869
+chan dao nao 	禪道鬧	c=1 d=0.239309 t=3869
+chan nan dao 	禪難道	c=2 d=0.475079 t=3869
+chan pin 	產品	c=10 d=1.94811 t=3869
+chan sheng 	產生	c=1 d=0.00198925 t=3869
+chan zhi 	蟬知	c=10 d=2.45657 t=3869
+chang ci yi wang 	長此以往	c=1 d=0.0244775 t=3869
+chang gui 	常規	c=1 d=0.763379 t=3869
+chang jian 	常見	c=1 d=0.29523 t=3869
+chang jing 	場景	c=1 d=1 t=3869
+chang shi 	嘗試	c=1 d=0.000867409 t=3869
+chang wen 	長文	c=1 d=0.0753961 t=3869
+chao 	抄	c=1 d=0.0605068 t=3869
+chao shan 	潮汕	c=1 d=0.715338 t=3869
+chao shi 	超市	c=0 d=0.0120633 t=3869
+che 	撤	c=1 d=0.0413782 t=3869
+che 	車	c=1 d=0.784022 t=3869
+cheng 	成	c=3 d=0.934943 t=3869
+cheng gong 	成功	c=1 d=0.163654 t=3869
+cheng guo 	成果	c=1 d=0.0174224 t=3869
+cheng xu 	程序	c=3 d=0.200186 t=3869
+cheng xu yuan 	程序員	c=2 d=0.891366 t=3869
+cheng yang 	城陽	c=1 d=0.650509 t=3869
+cheng zhang 	成長	c=2 d=0.0279352 t=3869
+chi 	吃	c=2 d=1.75654 t=3869
+chi xu 	持續	c=1 d=0.597501 t=3869
+chong 	蟲	c=3 d=1.76592 t=3869
+chong da le 	充大了	c=1 d=0.276651 t=3869
+chong dong 	衝動	c=1 d=0.12938 t=3869
+chong fu 	重複	c=1 d=0.726149 t=3869
+chong ming dao 	崇明島	c=1 d=0.209088 t=3869
+chong qi 	重啓	c=0 d=0.0856415 t=3869
+chong qi xia 	重啓下	c=1 d=0.860708 t=3869
+chu 	處	c=2 d=0.802519 t=3869
+chu li 	處理	c=6 d=2.14146 t=3869
+chu shi hua 	初始化	c=1 d=0.955998 t=3869
+chuan 	傳	c=1 d=0.351692 t=3869
+chuan le 	傳了	c=1 d=0.362402 t=3869
+chuang ye 	創業	c=1 d=0.0293049 t=3869
+ci 	詞	c=1 d=0.111054 t=3869
+ci shi 	此時	c=3 d=0.022077 t=3869
+cong 	從	c=1 d=0.621885 t=3869
+cuo wu 	錯誤	c=2 d=0.00152884 t=3869
+da 	大	c=1 d=0.810584 t=3869
+da an 	答案	c=0 d=0.111359 t=3869
+da da 	大大	c=0 d=0.307183 t=3869
+da da de 	大大的	c=1 d=0.669963 t=3869
+da da de da da da wang qiu qi qian a du wu da da de da da de qing wen qin ai 	大大的大大打網球七千阿堵物大大的大大的請問親愛	c=1 d=0.327915 t=3869
+da di dang qian 	大敵當前	c=0 d=0.033454 t=3869
+da duo shu 	大多數	c=1 d=0.226988 t=3869
+da duo shu ren 	大多數人	c=0 d=0.0293758 t=3869
+da fei ji 	打飛機	c=0 d=0.00399551 t=3869
+da fu du 	大幅度	c=1 d=1.01206 t=3869
+da ji si 	大祭司	c=0 d=0.167894 t=3869
+da jia 	大家	c=2 d=0.0501832 t=3869
+da jian 	搭建	c=0 d=0.0113042 t=3869
+da jian wang zhan 	搭建網站	c=1 d=0.113608 t=3869
+da jiu dian 	大酒店	c=0 d=0.0843665 t=3869
+da pian 	大片	c=1 d=0.242926 t=3869
+da ren 	大人	c=0 d=0.0635657 t=3869
+da ren a wa 	大人阿佤	c=1 d=0.0468877 t=3869
+da sa 	搭撒	c=0 d=0.216917 t=3869
+da sa shi shi shang shuo dao di ding ding ding ding ding ding ding ding wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu dong shen qian wang wa da ai dao de ding ding ding ding duo da dian shi wa wa de 	搭撒事實上說到底頂頂頂頂頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚動身前往挖大挨刀的頂頂頂頂多大點事哇哇地	c=1 d=0.307279 t=3869
+da she wan 	大蛇丸	c=0 d=0.0442639 t=3869
+da shi da fei 	大是大非	c=1 d=0.101266 t=3869
+da shi dai 	大時代	c=0 d=0.063166 t=3869
+da su da 	大蘇打	c=0 d=0.0418952 t=3869
+da tong 	打通	c=1 d=0.603506 t=3869
+da tui 	大腿	c=1 d=0.120633 t=3869
+da wa 	大窪	c=1 d=0.771283 t=3869
+da wa 	打瓦	c=0 d=0.0318224 t=3869
+da wa an ding qi 	打瓦安定器	c=1 d=0.319819 t=3869
+da wang qiu 	打網球	c=1 d=0.421309 t=3869
+da wei de 	大威德	c=0 d=0.0421052 t=3869
+da wu wei 	大無畏	c=1 d=0.488587 t=3869
+da wu wei wa sa dan wa ao a a a a da da de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa da shi dai wa a da wa da 	大無畏瓦撒旦凹凹啊啊啊啊大大的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪大時代瓦阿達挖大	c=1 d=0.339596 t=3869
+da xie 	大寫	c=4 d=0.882497 t=3869
+dai biao 	代表	c=0 d=0.0444858 t=3869
+dai fu 	大夫	c=0 d=0.00461896 t=3869
+dai fu de 	大夫的	c=1 d=0.0464212 t=3869
+dai fu kuan 	代付款	c=11 d=2.31404 t=3869
+dai fu kuan duan kou 	代付款端口	c=1 d=0.0639279 t=3869
+dai fu kuan le 	代付款了	c=1 d=0.189191 t=3869
+dai fu kuan le shi kuai di fei 	代付款了是快遞費	c=1 d=0.621885 t=3869
+dai fu kuan ling ling luo luo ling ling luo luo ling ling luo luo 	代付款零零落落零零落落零零落落	c=1 d=0.66365 t=3869
+dai fu kuan she ding 	代付款設定	c=1 d=0.537944 t=3869
+dai fu kuan shi da fu 	代付款士大夫	c=1 d=0.0393602 t=3869
+dai ji shi jian 	待機時間	c=0 d=0.083527 t=3869
+dai jia 	代價	c=0 d=0.0843665 t=3869
+dai li shang 	代理商	c=0 d=0.0704688 t=3869
+dai li shang kuai di fei jia 	代理商快遞費家	c=1 d=0.70822 t=3869
+dai ma 	代碼	c=2 d=1.36619 t=3869
+dai you 	帶有	c=2 d=0.456427 t=3869
+dan 	但	c=7 d=0.906963 t=3869
+dan da ru dou 	膽大如斗	c=0 d=0.0298197 t=3869
+dan du 	單獨	c=2 d=1.11064 t=3869
+dan du fa di fang 	單獨發地方	c=1 d=0.744531 t=3869
+dan ge 	單個	c=1 d=0.00108628 t=3869
+dan ni er 	丹尼爾	c=1 d=0.0596059 t=3869
+dan ren 	單人	c=3 d=0.00272676 t=3869
+dan sheng di 	誕生地	c=0 d=0.083527 t=3869
+dan shi 	但是	c=1 d=0.65377 t=3869
+dan wei 	單位	c=0 d=0.115617 t=3869
+dan wei ru guo shui rong rong 	單位如果水溶溶	c=1 d=0.287941 t=3869
+dan ye 	但也	c=1 d=0.701173 t=3869
+dan ye 	單頁	c=6 d=2.58459 t=3869
+dang dang wang 	當當網	c=0 d=0.0800356 t=3869
+dang dang wang wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wen suo wei wen da da de wa ao a wa wu wu wu wu wu wu wu wu wu wa da da an a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da da wei qu qi 	當當網嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚聞所未聞大大的凹凹阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大答案啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大未娶妻	c=1 d=0.379083 t=3869
+dang feng sha 	擋風沙	c=0 d=0.0199888 t=3869
+dang feng sha de 	擋風沙的	c=1 d=0.20089 t=3869
+dang shi wu di 	當世無敵	c=0 d=0.029671 t=3869
+dao 	到	c=3 d=0.634448 t=3869
+dao 	道	c=1 d=0.0536647 t=3869
+dao hang 	導航	c=2 d=0.705019 t=3869
+dao jia 	道家	c=1 d=0.66365 t=3869
+dao qian qi shi 	道歉啓事	c=0 d=0.0327915 t=3869
+dao qian qi shi a du wu 	道歉啓事阿堵物	c=1 d=0.329559 t=3869
+dao ru 	導入	c=1 d=0.794534 t=3869
+dao shi 	倒是	c=1 d=0.0953692 t=3869
+de 	得	c=1 d=0.637628 t=3869
+de 	的	c=153 d=11.1193 t=3869
+de da da a a a a a a a a a a a wei dai biao 	的大大啊啊啊啊啊啊啊啊啊啊啊爲代表	c=1 d=0.447088 t=3869
+de dao 	得到	c=0 d=0.0285076 t=3869
+de kai fa 	的開發	c=11 d=2.89272 t=3869
+de kai fa jiang 	的開發將	c=3 d=1.08405 t=3869
+de kai fa kuan 	的開發款	c=4 d=0.851723 t=3869
+de kai fa kuan shi 	的開發款是	c=1 d=0.205975 t=3869
+de kai fa li kai 	的開發離開	c=1 d=0.138069 t=3869
+de kai fa lian suo dian 	的開發連鎖店	c=1 d=0.852144 t=3869
+de kai fa shi le kuai di fei 	的開發溼了快遞費	c=1 d=0.774916 t=3869
+de le shi kuai di fei 	的了是快遞費	c=1 d=0.704688 t=3869
+de wa ao a a a a a a a a da shi dai wa da da sa an a ding wei da da an wu wu wu wu wu wu wu wu wu wa wa de wu wu wu wu wu wu wu wu wu wa ao shi da da shan da wang da da da duo shu ren da wa a a a a a a a a shang wang da da wa ao da sa da duo shu ren wei da a a a dan wei ding ding ding ding dan wei wu wu wu wu wu wu wu wu wu wu wu wu 	的凹凹啊啊啊啊啊啊啊啊大時代挖大搭撒氨吖啶偉大答案嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地嗚嗚嗚嗚嗚嗚嗚嗚嗚凹凹溼答答山大王大大大多數人大窪啊啊啊啊啊啊啊啊上網大大凹凹搭撒大多數人偉大啊啊啊單位頂頂頂頂單位嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚	c=1 d=0.29523 t=3869
+de wa ran wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da wu wei wu wu wu wu wu wu wu wu wu wa da da da a a a a a a a da da de da wu wei wu wu wu wu wu wu wu wu wu wa wa de ding ding ding ding a 	的窪然嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大大啊啊啊啊啊啊啊大大的大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地頂頂頂頂啊	c=1 d=0.451581 t=3869
+deng 	等	c=10 d=1.63471 t=3869
+deng dai 	等待	c=1 d=0.571209 t=3869
+deng lu 	登錄	c=1 d=0.32628 t=3869
+deng shang 	登上	c=1 d=0.341298 t=3869
+di 	低	c=1 d=0.408608 t=3869
+di 	地	c=4 d=0.696623 t=3869
+di 	第	c=2 d=0.162933 t=3869
+di bu 	底部	c=1 d=0.701173 t=3869
+di deng dong wu 	低等動物	c=0 d=0.141608 t=3869
+di di da da 	滴滴答答	c=0 d=0.229493 t=3869
+di fang 	地方	c=29 d=8.34466 t=3869
+di fang da fu du 	地方大幅度	c=1 d=0.122456 t=3869
+di fang fan de sa 	地方范德薩	c=2 d=0.214073 t=3869
+di fang kong jian 	地方空間	c=1 d=0.1764 t=3869
+di fang she ding 	地方設定	c=6 d=0.636548 t=3869
+di fang shi da fu 	地方士大夫	c=4 d=1.43727 t=3869
+di fang shi da fu shi da fu 	地方士大夫士大夫	c=1 d=0.946485 t=3869
+di ji 	低級	c=0 d=0.167894 t=3869
+di pan 	地盤	c=3 d=1.82239 t=3869
+di qu 	滌去	c=0 d=0.0745796 t=3869
+di qu an a ding da wa da duo shu wa ran an a ding di deng dong wu dang dang wang re ai 	滌去氨吖啶大窪大多數窪然氨吖啶低等動物當當網熱愛	c=1 d=0.425283 t=3869
+di qu da da a a a a a a da da de wa da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da da wa ran da da de ding ding ding ding da da de di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a du wu wu wu wu wu wu wu wu wu wu da da de da da a a a a a a a a a a a a a a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu da da a a a a a da da an a a a a da da de wa da san da wa da 	滌去大大啊啊啊啊啊啊大大的挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大大窪然大大的頂頂頂頂大大的滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿堵物嗚嗚嗚嗚嗚嗚嗚嗚嗚大大的大大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大啊啊啊啊阿達答案啊啊啊啊大大的挖大三大挖大	c=1 d=0.436049 t=3869
+di qu wei qu de 	滌去未取得	c=1 d=0.313486 t=3869
+di san fang 	第三方	c=2 d=0.879415 t=3869
+di san fang kao lv 	第三方考慮	c=1 d=0.694196 t=3869
+di san fang kuan shi da fu 	第三方款士大夫	c=1 d=0.847894 t=3869
+di san ji du 	第三季度	c=0 d=0.083527 t=3869
+di si 	第四	c=0 d=0.167894 t=3869
+di yi jian shi 	第一件事	c=1 d=0.116484 t=3869
+di zhi 	地址	c=8 d=0.782976 t=3869
+dia 	嗲	c=0 d=0.083527 t=3869
+dian 	點	c=7 d=3.07413 t=3869
+dian dao shi fei 	顛倒是非	c=0 d=0.0173774 t=3869
+dian dao shi fei shi da fu 	顛倒是非士大夫	c=1 d=0.174645 t=3869
+dian fan guo 	電飯鍋	c=1 d=0.0955409 t=3869
+dian fan guo di fang 	電飯鍋地方	c=1 d=0.697676 t=3869
+dian feng shan 	電風扇	c=6 d=2.25251 t=3869
+dian feng shan duan kou 	電風扇端口	c=1 d=0.557106 t=3869
+dian feng shan kou dai li 	電風扇口袋裏	c=1 d=0.831104 t=3869
+dian feng shan le 	電風扇了	c=1 d=0.644036 t=3869
+dian hua 	電話	c=0 d=0.00658748 t=3869
+dian hua ze 	電話則	c=1 d=0.066205 t=3869
+dian nao 	電腦	c=2 d=1.76013 t=3869
+dian shi ka 	電視卡	c=1 d=0.640193 t=3869
+dian shi ka lu fang ji 	電視卡錄放機	c=1 d=0.606531 t=3869
+dian shi li 	電視裏	c=0 d=0.0965605 t=3869
+dian shi li kai fa 	電視裏開發	c=1 d=0.970446 t=3869
+diao 	掉	c=1 d=0.0415857 t=3869
+diao chu 	調出	c=1 d=0.151111 t=3869
+diao jie fa 	調節閥	c=1 d=0.625002 t=3869
+diao wa dai 	吊襪帶	c=0 d=0.114694 t=3869
+die dai 	迭代	c=11 d=0.109082 t=3869
+ding ding ding ding 	頂頂頂頂	c=0 d=0.707363 t=3869
+ding ding ding ding di deng dong wu wa wa a da wa wa de wa de dao da wa ai dao de ding ding ding ding da wa 	頂頂頂頂低等動物娃娃阿達哇哇地挖地道大窪挨刀的頂頂頂頂大窪	c=1 d=0.308819 t=3869
+ding ding ding ding ding ding ding ding da da de wu wu wu wu wu wu si wa a di da si wa wa da wa wa da ding ding ding ding wa wei ruan ai ao wa da wu wei wu wu ran ban ben 	頂頂頂頂頂頂頂頂大大的嗚嗚嗚嗚嗚嗚絲襪阿迪達斯娃娃大窪挖大頂頂頂頂瓦微軟艾奧瓦大無畏無污染版本	c=1 d=0.315058 t=3869
+ding kua ke 	頂夸克	c=1 d=0.965605 t=3869
+ding yi 	定義	c=2 d=0.374794 t=3869
+ding zhi 	定製	c=1 d=0.0359725 t=3869
+dong fang 	東方	c=0 d=0.0565525 t=3869
+dong fang li kai 	東方離開	c=1 d=0.56836 t=3869
+dong hua 	動畫	c=1 d=0.683861 t=3869
+dong shen qian wang 	動身前往	c=0 d=0.0305746 t=3869
+dong tai 	動態	c=1 d=0.722527 t=3869
+dou 	都	c=3 d=0.704688 t=3869
+dou 	鬥	c=1 d=0.680451 t=3869
+dou bu shi 	都不是	c=1 d=0.0212797 t=3869
+dou shi 	都是	c=1 d=0.00474557 t=3869
+dou you 	都有	c=1 d=0.379083 t=3869
+duan 	段	c=0 d=0.00934807 t=3869
+duan 	端	c=3 d=0.300726 t=3869
+duan kou 	端口	c=10 d=3.87997 t=3869
+duan kou dai fu kuan 	端口代付款	c=1 d=0.522046 t=3869
+duan kou shen kao jia 	端口參考價	c=1 d=0.763379 t=3869
+dui 	對	c=9 d=1.05564 t=3869
+dui ba 	對吧	c=1 d=0.25284 t=3869
+dui bi 	對比	c=1 d=0.0347353 t=3869
+dui le 	對了	c=1 d=0.0611149 t=3869
+dui ni 	對你	c=1 d=0.000997758 t=3869
+dui wo shuo 	對我說	c=0 d=0.0375311 t=3869
+dui ying 	對應	c=6 d=0.931714 t=3869
+duo 	多	c=5 d=0.189994 t=3869
+duo da dian shi 	多大點事	c=1 d=0.431092 t=3869
+duo fu duo shou 	多福多壽	c=4 d=1.09004 t=3869
+duo ge 	多個	c=1 d=0.0797763 t=3869
+duo ge cheng xu 	多個程序	c=1 d=0.0515605 t=3869
+duo shao 	多少	c=3 d=0.0672055 t=3869
+e mo 	惡魔	c=1 d=0.486752 t=3869
+en 	恩	c=5 d=1.4735 t=3869
+en en 	嗯嗯	c=1 d=0.0753961 t=3869
+er 	二	c=1 d=0.0593087 t=3869
+er bu shi 	而不是	c=1 d=0.00412784 t=3869
+er ci 	二次	c=1 d=0.0356146 t=3869
+er kai 	而開	c=1 d=0.0590129 t=3869
+er qie 	而且	c=1 d=0.236928 t=3869
+er zi 	兒子	c=1 d=0.218712 t=3869
+fa 	發	c=7 d=4.63584 t=3869
+fa biao 	發表	c=1 d=0.0405589 t=3869
+fa bu 	發佈	c=6 d=1.33475 t=3869
+fa di fang 	發地方	c=2 d=1.08031 t=3869
+fa tie 	發帖	c=1 d=0.0401553 t=3869
+fa wo 	發我	c=1 d=0.000837575 t=3869
+fa xian 	發現	c=3 d=0.0954455 t=3869
+fan de sa 	范德薩	c=0 d=0.0901474 t=3869
+fan er 	反而	c=0 d=0.0818731 t=3869
+fan fan fu fu 	反反覆覆	c=0 d=0.0755783 t=3869
+fan fan fu fu fan fan fu fu fan fan fu fu fang fa fa di fang 	反反覆覆反反覆覆反反覆覆方法發地方	c=1 d=0.759572 t=3869
+fan kui 	反饋	c=2 d=0.00283484 t=3869
+fan she 	反射	c=4 d=0.124153 t=3869
+fan ye 	翻頁	c=1 d=0.19398 t=3869
+fang 	放	c=1 d=0.0376283 t=3869
+fang an 	方案	c=1 d=0.869367 t=3869
+fang an xuan xiang 	方案選項	c=1 d=0.110803 t=3869
+fang bian 	方便	c=2 d=0.78509 t=3869
+fang cuo 	放錯	c=1 d=0.421052 t=3869
+fang dao 	放到	c=2 d=0.722527 t=3869
+fang fa 	方法	c=2 d=0.50443 t=3869
+fang kai lai 	放開來	c=0 d=0.0644036 t=3869
+fang kai lai kong jian 	放開來空間	c=1 d=0.647265 t=3869
+fang kong dong 	防空洞	c=1 d=0.208045 t=3869
+fang le 	放了	c=1 d=0.427415 t=3869
+fang na 	放那	c=1 d=0.247833 t=3869
+fang shi 	方式	c=1 d=0.130688 t=3869
+fang te 	方特	c=2 d=0.471516 t=3869
+fang wen 	訪問	c=5 d=1.02955 t=3869
+fang zai 	放在	c=2 d=0.414302 t=3869
+fei chang 	非常	c=2 d=0.956356 t=3869
+fei de lie ke 	菲德烈克	c=0 d=0.0733447 t=3869
+fen 	分	c=2 d=0.0776922 t=3869
+fen 	粉	c=0 d=0.0895834 t=3869
+fen dian 	分店	c=2 d=0.0653513 t=3869
+fen jie 	分解	c=2 d=0.0130629 t=3869
+fen lei 	分類	c=1 d=0.349938 t=3869
+fen qi 	分期	c=1 d=0.0645703 t=3869
+fen xiang 	分享	c=3 d=0.0348632 t=3869
+feng ge 	風格	c=1 d=0.000399619 t=3869
+feng ji kou 	風紀扣	c=0 d=0.0218712 t=3869
+feng kuang 	瘋狂	c=0 d=0.0615697 t=3869
+feng kuang shi le dai fu kuan ji 	瘋狂溼了代付款機	c=1 d=0.618783 t=3869
+fu chi 	扶持	c=1 d=0.0294518 t=3869
+fu dao ke 	輔導課	c=1 d=0.726149 t=3869
+fu hao 	符號	c=1 d=0.790571 t=3869
+fu wa 	福娃	c=1 d=0.690734 t=3869
+fu wu 	服務	c=2 d=0.777613 t=3869
+fu zhi 	複製	c=2 d=0.127215 t=3869
+ga ran 	嘎然	c=0 d=0.0319819 t=3869
+ga ran rong rong dang dang ding ding ding ding ding ding ding ding wu wu ran da sa ai ao wa sa wa ao ban ben 	嘎然溶溶蕩蕩頂頂頂頂頂頂頂頂無污染搭撒艾奧瓦撒凹凹版本	c=1 d=0.321422 t=3869
+gai 	改	c=3 d=0.551851 t=3869
+gai 	該	c=2 d=0.57695 t=3869
+gai ba 	改吧	c=1 d=0.124307 t=3869
+gai ban 	改版	c=1 d=0.0347353 t=3869
+gai jin 	改進	c=1 d=0.421052 t=3869
+gai nian 	概念	c=2 d=1.75181 t=3869
+gai wei 	改爲	c=3 d=0.853469 t=3869
+gai wen 	蓋文	c=1 d=0.970446 t=3869
+gai xia 	改下	c=2 d=0.577613 t=3869
+gai yong 	改用	c=1 d=0.0365162 t=3869
+gan 	幹	c=0 d=0.00133665 t=3869
+gan de 	乾的	c=1 d=0.115903 t=3869
+gan jue 	感覺	c=3 d=0.697676 t=3869
+gan sha 	幹啥	c=1 d=0.000584356 t=3869
+gan xie 	感謝	c=2 d=0.965605 t=3869
+gan xing qu 	感興趣	c=1 d=0.621885 t=3869
+gan yan fa 	幹研發	c=1 d=0.0134335 t=3869
+gang 	剛	c=1 d=0.256661 t=3869
+gao 	搞	c=3 d=0.036698 t=3869
+gao di 	高低	c=1 d=0.0963276 t=3869
+gao xing 	高興	c=0 d=0.0121238 t=3869
+ge 	個	c=6 d=0.643547 t=3869
+ge 	哥	c=2 d=0.847894 t=3869
+ge di 	各地	c=2 d=0.0641943 t=3869
+ge ge 	各個	c=1 d=0.540641 t=3869
+ge ren 	個人	c=9 d=0.965606 t=3869
+ge shi 	格式	c=1 d=0.548812 t=3869
+ge shu 	個數	c=1 d=0.106992 t=3869
+ge ti 	個體	c=1 d=0.121238 t=3869
+ge wei 	各位	c=2 d=1.42722 t=3869
+gei 	給	c=6 d=1.1163 t=3869
+gei wo 	給我	c=1 d=0.321422 t=3869
+gen 	跟	c=5 d=1.11123 t=3869
+gen ju 	根據	c=1 d=0.778801 t=3869
+gen ni 	跟你	c=1 d=0.852144 t=3869
+gen wo 	跟我	c=1 d=0.625002 t=3869
+gen zi ji 	跟自己	c=1 d=0.00244185 t=3869
+gen zong 	跟蹤	c=1 d=0.000777055 t=3869
+geng 	更	c=3 d=0.924528 t=3869
+geng bu rong yi 	更不容易	c=1 d=0.000934966 t=3869
+geng shi 	更是	c=1 d=0.0104099 t=3869
+geng xin 	更新	c=5 d=1.56034 t=3869
+gong ju 	工具	c=3 d=0.0247411 t=3869
+gong kai ke 	公開課	c=5 d=0.935405 t=3869
+gong neng 	功能	c=14 d=1.59226 t=3869
+gong shang 	工商	c=1 d=0.0581343 t=3869
+gong shi 	工時	c=2 d=0.0211025 t=3869
+gong si 	公司	c=2 d=0.955997 t=3869
+gong xian 	貢獻	c=1 d=0.024234 t=3869
+gong zhong 	公衆	c=0 d=0.0895834 t=3869
+gong zhong hao 	公衆號	c=2 d=0.900324 t=3869
+gong zuo 	工作	c=2 d=0.00420576 t=3869
+gong zuo liu 	工作流	c=2 d=0.415598 t=3869
+gou le 	夠了	c=1 d=0.0675424 t=3869
+gu 	股	c=3 d=0.209974 t=3869
+gu dan dan de 	孤單單的	c=0 d=0.0465334 t=3869
+gu ge 	谷歌	c=0 d=0.00824965 t=3869
+gu ge shu ru fa 	谷歌輸入法	c=1 d=0.08291 t=3869
+gu ji 	估計	c=1 d=0.224249 t=3869
+gu li 	鼓勵	c=1 d=0.0234005 t=3869
+gu zi li 	骨子裏	c=1 d=0.499074 t=3869
+gua 	掛	c=1 d=0.100259 t=3869
+gua li 	掛曆	c=1 d=0.244143 t=3869
+guan fang 	官方	c=3 d=1.16718 t=3869
+guan jian ci 	關鍵詞	c=1 d=0.346456 t=3869
+guan li 	管理	c=9 d=0.245367 t=3869
+guan li ruan jian 	管理軟件	c=2 d=0.986256 t=3869
+guan lian 	關聯	c=1 d=0.00561868 t=3869
+guan lian dao 	關聯到	c=1 d=0.00554422 t=3869
+guan wang 	官網	c=13 d=2.25829 t=3869
+guan wang 	觀望	c=1 d=0.0291588 t=3869
+guan xi 	關係	c=3 d=0.398966 t=3869
+guan zhu 	關注	c=2 d=0.0610939 t=3869
+guang biao 	光標	c=1 d=0.0513033 t=3869
+guang wu ran 	光污染	c=0 d=0.0323033 t=3869
+gui fan de 	規範的	c=1 d=0.0992613 t=3869
+gui gong si 	貴公司	c=1 d=0.722527 t=3869
+gui hua hao 	規劃好	c=1 d=0.00960953 t=3869
+gui ze 	規則	c=1 d=0.843665 t=3869
+guo 	過	c=1 d=0.0880368 t=3869
+guo ji 	國際	c=12 d=4.79566 t=3869
+ha ha 	哈哈	c=1 d=0.0182779 t=3869
+ha ha ha 	哈哈哈	c=0 d=0.0103312 t=3869
+ha ha ha ha 	哈哈哈哈	c=1 d=0.546074 t=3869
+ha ha ha ha ha 	哈哈哈哈哈	c=1 d=0.10383 t=3869
+hai 	還	c=12 d=2.21179 t=3869
+hai lou 	海樓	c=1 d=0.826959 t=3869
+hai neng 	還能	c=1 d=0.00201931 t=3869
+hai shi 	還是	c=8 d=0.848775 t=3869
+hai you 	還有	c=2 d=0.275347 t=3869
+hai zi 	孩子	c=1 d=0.00995182 t=3869
+hao 	好	c=4 d=0.845241 t=3869
+hao 	號	c=4 d=0.966441 t=3869
+hao a 	好啊	c=0 d=0.0970446 t=3869
+hao de 	好的	c=8 d=1.63964 t=3869
+hao de 	郝的	c=1 d=1 t=3869
+hao hao 	好好	c=2 d=0.675334 t=3869
+hao le 	好了	c=1 d=0.216536 t=3869
+hao lou 	號樓	c=1 d=0.22091 t=3869
+hao shi 	好事	c=0 d=0.0826959 t=3869
+hao shi bu hao shi 	好事不好是	c=1 d=0.831104 t=3869
+hao xiang 	好像	c=1 d=0.615697 t=3869
+hao yong 	好用	c=1 d=0.0490458 t=3869
+hao you 	好友	c=1 d=0.0520787 t=3869
+he 	和	c=6 d=2.0354 t=3869
+he kuang 	何況	c=1 d=0.00421123 t=3869
+he zuo 	合作	c=1 d=0.382893 t=3869
+hen 	很	c=0 d=0.0103639 t=3869
+hen hao yong 	很好用	c=1 d=0.0518189 t=3869
+hen jin 	狠勁	c=1 d=0.50409 t=3869
+hen shao 	很少	c=1 d=0.0739031 t=3869
+hen you 	很有	c=1 d=0.0968105 t=3869
+hen zong wen shu ru fa 	很縱紋輸入法	c=1 d=0.0523397 t=3869
+heng shu 	橫豎	c=1 d=0.04573 t=3869
+heng xiang 	橫向	c=2 d=0.0752575 t=3869
+hou 	後	c=5 d=0.259894 t=3869
+hou ji 	後記	c=1 d=0.0194482 t=3869
+hou lai 	後來	c=1 d=0.0812682 t=3869
+hou mian 	後面	c=4 d=0.529935 t=3869
+hou qi 	後期	c=4 d=0.769983 t=3869
+hou tai 	後臺	c=5 d=0.954275 t=3869
+hou xuan 	候選	c=2 d=0.0802306 t=3869
+hou xuan ci 	候選詞	c=3 d=0.988284 t=3869
+hu huan 	互換	c=1 d=0.0833256 t=3869
+hua 	畫	c=2 d=0.0308615 t=3869
+hua 	話	c=3 d=0.0519431 t=3869
+hua ti 	話題	c=1 d=0.00052611 t=3869
+hua zai 	花在	c=1 d=0.0117959 t=3869
+hua zhong dian 	畫重點	c=2 d=0.0163633 t=3869
+huan cun 	緩存	c=0 d=0.0496585 t=3869
+huan cun qu 	緩存區	c=1 d=0.499074 t=3869
+huan ge 	換個	c=1 d=0.0788664 t=3869
+huan hang 	換行	c=1 d=0.930393 t=3869
+huan le 	換了	c=1 d=0.118837 t=3869
+huan ying 	歡迎	c=2 d=1.62134 t=3869
+huan you 	還有	c=1 d=0.618783 t=3869
+huang hua cai 	黃花菜	c=0 d=0.0120633 t=3869
+hui 	回	c=1 d=0.167797 t=3869
+hui 	會	c=2 d=0.0254813 t=3869
+hui cong 	慧聰	c=1 d=0.995012 t=3869
+hui fu 	回覆	c=5 d=0.869358 t=3869
+hui fu 	恢復	c=1 d=0.882496 t=3869
+hui gu 	回顧	c=2 d=0.0199415 t=3869
+hui qu 	回去	c=1 d=0.856415 t=3869
+hui yi 	會議	c=3 d=0.0166301 t=3869
+huo 	或	c=6 d=1.42561 t=3869
+huo dong 	活動	c=2 d=0.0303883 t=3869
+huo zhe 	或者	c=2 d=0.61389 t=3869
+ji 	即	c=2 d=1.0063 t=3869
+ji 	及	c=3 d=0.733587 t=3869
+ji 	機	c=3 d=1.85354 t=3869
+ji ben 	基本	c=3 d=0.965605 t=3869
+ji cheng 	集成	c=1 d=0.600496 t=3869
+ji chu 	擠出	c=1 d=0.0105145 t=3869
+ji ci 	幾次	c=1 d=0.0780817 t=3869
+ji de 	記得	c=1 d=0.0776922 t=3869
+ji fen ka 	計分卡	c=0 d=0.0729693 t=3869
+ji ge 	幾個	c=1 d=0.357007 t=3869
+ji he 	集合	c=1 d=0.358796 t=3869
+ji hu 	幾乎	c=1 d=0.0765355 t=3869
+ji hua 	計劃	c=11 d=1.00757 t=3869
+ji ji 	積極	c=1 d=0.634448 t=3869
+ji jin 	基金	c=0 d=0.083527 t=3869
+ji ke 	即可	c=3 d=0.128494 t=3869
+ji lu 	記錄	c=2 d=0.755015 t=3869
+ji qun 	集羣	c=1 d=0.774916 t=3869
+ji shi da fu 	機士大夫	c=1 d=0.657047 t=3869
+ji shi ji di 	即時即地	c=0 d=0.083527 t=3869
+ji shu 	技術	c=7 d=1.02003 t=3869
+ji shu zhi chi 	技術支持	c=2 d=0.530087 t=3869
+ji suan ji 	計算機	c=0 d=0.083527 t=3869
+ji tuan 	集團	c=1 d=0.392586 t=3869
+ji xiang wu 	吉祥物	c=1 d=0.701173 t=3869
+ji xie 	機械	c=2 d=0.186031 t=3869
+ji xing 	記性	c=1 d=0.00219846 t=3869
+ji yu 	基於	c=3 d=0.604083 t=3869
+ji zhi 	機制	c=0 d=0.0782705 t=3869
+ji zhu 	記住	c=1 d=0.00214418 t=3869
+jia 	加	c=8 d=3.11085 t=3869
+jia 	家	c=2 d=0.982651 t=3869
+jia ge 	價格	c=1 d=0.0450492 t=3869
+jia ji 	甲基	c=0 d=0.0843665 t=3869
+jia kuai di fei jia 	家快遞費家	c=1 d=0.201897 t=3869
+jia li 	家裏	c=2 d=0.927743 t=3869
+jia nin 	加您	c=1 d=0.585669 t=3869
+jia qiang 	加強	c=1 d=0.26054 t=3869
+jia ru 	加入	c=1 d=0.71177 t=3869
+jia shang qu 	加上去	c=1 d=0.299692 t=3869
+jia wo 	加我	c=3 d=1.05445 t=3869
+jia you 	加油	c=1 d=0.000939653 t=3869
+jian 	建	c=1 d=0.00481991 t=3869
+jian 	鍵	c=2 d=1.8509 t=3869
+jian ce 	檢測	c=1 d=0.451581 t=3869
+jian cha 	檢查	c=6 d=1.79627 t=3869
+jian chi 	堅持	c=1 d=0.0273237 t=3869
+jian dan 	簡單	c=1 d=0.00132016 t=3869
+jian fan 	簡繁	c=1 d=0.271738 t=3869
+jian hua 	簡化	c=1 d=0.0987662 t=3869
+jian kao jian 	肩靠肩	c=1 d=0.687289 t=3869
+jian kong fang 	檢控方	c=0 d=0.0588605 t=3869
+jian mao 	鍵帽	c=1 d=0.0958472 t=3869
+jian pan 	鍵盤	c=2 d=0.190634 t=3869
+jian she 	建設	c=1 d=0.985112 t=3869
+jian ti zi 	簡體字	c=1 d=0.0550232 t=3869
+jian yan 	檢驗	c=4 d=0.0467128 t=3869
+jian yi 	建議	c=5 d=1.33981 t=3869
+jian yi fan kui 	建議反饋	c=1 d=0.00189223 t=3869
+jian zhan 	建站	c=2 d=0.0844604 t=3869
+jian zhan xi tong 	建站系統	c=1 d=0.0550232 t=3869
+jiang 	將	c=9 d=0.962962 t=3869
+jiang di 	降低	c=0 d=0.0843665 t=3869
+jiang jie 	講解	c=2 d=0.896488 t=3869
+jiang wang zhan 	將網站	c=1 d=0.447088 t=3869
+jiang yu 	將於	c=1 d=0.615697 t=3869
+jiao cheng 	教程	c=4 d=1.28911 t=3869
+jiao fu 	交付	c=1 d=0.0155297 t=3869
+jiao liu 	交流	c=7 d=1.60454 t=3869
+jie da 	解答	c=8 d=1.76923 t=3869
+jie ge 	借個	c=1 d=0.286508 t=3869
+jie ge tu 	借個圖	c=1 d=0.0884781 t=3869
+jie he 	結合	c=1 d=0.287941 t=3869
+jie jue 	解決	c=1 d=0.571209 t=3869
+jie kou 	接口	c=2 d=0.0843508 t=3869
+jie mian 	界面	c=4 d=0.815893 t=3869
+jie mian nei rong 	界面內容	c=1 d=0.251579 t=3869
+jie shao 	介紹	c=2 d=0.873716 t=3869
+jie tu 	截圖	c=7 d=1.93667 t=3869
+jie xi 	解析	c=2 d=1.04414 t=3869
+jin 	進	c=7 d=1.59119 t=3869
+jin cuo qun 	進錯羣	c=1 d=0.740818 t=3869
+jin gong 	僅供	c=1 d=0.0652193 t=3869
+jin jin ji jiao 	斤斤計較	c=0 d=0.0348192 t=3869
+jin ka 	金卡	c=0 d=0.083527 t=3869
+jin ke neng 	儘可能	c=1 d=0.00326335 t=3869
+jin kou liang 	進口量	c=0 d=0.0524663 t=3869
+jin kou liang kong jian 	進口量空間	c=1 d=0.527292 t=3869
+jin nian 	今年	c=1 d=0.0642483 t=3869
+jin qun 	進羣	c=1 d=0.57695 t=3869
+jin ru 	進入	c=1 d=0.970446 t=3869
+jin si deng ji 	近似等級	c=0 d=0.083527 t=3869
+jin si jie 	近似解	c=0 d=0.0843665 t=3869
+jin ti gong 	僅提供	c=0 d=0.0121238 t=3869
+jin tian 	今天	c=2 d=0.616247 t=3869
+jin tian wo men 	今天我們	c=1 d=0.118837 t=3869
+jin wan 	今晚	c=2 d=0.921587 t=3869
+jin wei 	僅爲	c=1 d=0.120032 t=3869
+jin xing 	進行	c=8 d=2.43384 t=3869
+jin zhi 	禁止	c=1 d=0.677057 t=3869
+jing an si 	靜安寺	c=0 d=0.083527 t=3869
+jing dong fang 	京東方	c=1 d=0.703898 t=3869
+jing ji ding suan 	羥基丁酸	c=0 d=0.0843665 t=3869
+jing li 	經歷	c=3 d=0.574072 t=3869
+jing li 	經理	c=2 d=0.00768088 t=3869
+jing pin 	競品	c=1 d=0.00196945 t=3869
+jing shen dou sou 	精神抖擻	c=0 d=0.083527 t=3869
+jing yan 	經驗	c=1 d=0.000978001 t=3869
+jiu 	就	c=4 d=0.09072 t=3869
+jiu hao 	就好	c=1 d=0.0639279 t=3869
+jiu liang wei 	就兩位	c=1 d=0.519442 t=3869
+jiu shi 	就是	c=7 d=1.03426 t=3869
+jiu shi fei de lie ke 	就是菲德烈克	c=1 d=0.737123 t=3869
+jiu xing 	就行	c=1 d=0.409471 t=3869
+jiu xing shi 	就行是	c=1 d=0.247833 t=3869
+jiu yong 	就用	c=1 d=0.0678809 t=3869
+ju jue 	拒絕	c=1 d=0.57695 t=3869
+ju ti 	具體	c=8 d=0.6643 t=3869
+jue de 	覺得	c=0 d=0.0843665 t=3869
+jue de sa ke kai shi ka ju ken de ji kai sa jiang kan kan si da jie kong sa ke si kai dang ku shang kua ke da sa da sa kan kan shang di jiao sa dan sa jiao da sa da jiu dian sa dan jue de sa dan ji sa jiao di ji si a jiang di jin si jie ai di jing ji ding suan dai jia di si ai si da ji si ji shu jia ji 	覺得薩克開始卡具肯德基凱撒醬看看四大皆空薩克斯開襠褲上夸克搭撒搭撒看看上帝教撒旦撒嬌搭撒大酒店撒旦覺得撒旦及撒嬌低級死啊降低近似解艾迪羥基丁酸代價第四愛死大祭司技術甲基	c=1 d=0.847893 t=3869
+ka 	卡	c=0 d=0.0532592 t=3869
+ka da 	喀噠	c=11 d=4.72333 t=3869
+ka da jian fan 	喀噠簡繁	c=3 d=1.28873 t=3869
+ka da lang fei 	喀噠浪費	c=1 d=0.697676 t=3869
+ka fei dian 	咖啡店	c=1 d=0.2334 t=3869
+ka ju 	卡具	c=0 d=0.0843665 t=3869
+ka ka 	卡卡	c=0 d=0.083527 t=3869
+ka pian 	卡片	c=1 d=0.031273 t=3869
+ka sang de la 	卡桑德拉	c=0 d=0.0246597 t=3869
+kai 	開	c=5 d=0.176736 t=3869
+kai bo 	開播	c=1 d=0.612626 t=3869
+kai dang ku 	開襠褲	c=4 d=3.03888 t=3869
+kai fa 	開發	c=7 d=0.66717 t=3869
+kai fa piao 	開發票	c=1 d=0.0611149 t=3869
+kai fang 	開放	c=2 d=0.966657 t=3869
+kai juan kao 	開卷考	c=0 d=0.0909373 t=3869
+kai juan kao kong jian 	開卷考空間	c=1 d=0.913931 t=3869
+kai pian 	開篇	c=1 d=0.66365 t=3869
+kai sa jiang 	凱撒醬	c=1 d=0.765482 t=3869
+kai shi 	開始	c=1 d=0.736061 t=3869
+kai shi de kai fa jiang 	開始的開發將	c=1 d=0.537944 t=3869
+kai shi ka da jin ka su du kuai liao jie a ke su da duo shu ka ka san da a sen song dao jing an si sheng sheng shi shi sheng sheng shi shi dan sheng di ai di sheng le dia jiu shi di ji ji suan ji da ji si dai ji shi jian di san ji du jin si deng ji si dang dong ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding shan dong sheng de da duo shu dan sheng di jing shen dou sou dan du jin si deng ji shang di jiao a li shan da ji jin a si dun ji shu di san ji du ji shi ji di shi di song di si da ji si a li lai kan la sa lu kuan 	開始喀噠金卡速度快瞭解阿克蘇大多數卡卡三大阿森松島靜安寺生生世世生生世世誕生地愛迪生了嗲就是低級計算機大祭司待機時間第三季度近似等級斯當東頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂山東省的大多數誕生地精神抖擻單獨近似等級上帝教阿歷山大基金阿斯頓技術第三季度即時即地溼地松第四大祭司阿里來看拉撒路款	c=1 d=0.839457 t=3869
+kai shi lao dong fa 	開始勞動法	c=1 d=0.0500366 t=3869
+kai yuan 	開源	c=11 d=4.0183 t=3869
+kan 	看	c=5 d=0.99005 t=3869
+kan dao 	看到	c=2 d=0.179176 t=3869
+kan dong 	看懂	c=1 d=0.506617 t=3869
+kan kan 	看看	c=3 d=1.30463 t=3869
+kan kan kuan kan kan 	看看款看看	c=1 d=0.66034 t=3869
+kan kan lv she da fa 	看看律設大法	c=1 d=0.687289 t=3869
+kan shu 	看書	c=1 d=0.219808 t=3869
+kan xia 	看下	c=1 d=0.689572 t=3869
+kan zhe 	看着	c=1 d=0.980199 t=3869
+kang shuai lao 	抗衰老	c=0 d=0.0222017 t=3869
+kang shuai lao de kai fa 	抗衰老的開發	c=1 d=0.22313 t=3869
+kao guo qu 	考過去	c=1 d=0.650509 t=3869
+kao lv 	考慮	c=1 d=0.633871 t=3869
+kao lv shi da fu kuan 	考慮士大夫款	c=1 d=0.955997 t=3869
+ke 	可	c=0 d=0.00678809 t=3869
+ke fu 	客服	c=1 d=0.0483156 t=3869
+ke hu 	客戶	c=2 d=0.577717 t=3869
+ke hu duan 	客戶端	c=2 d=1.01126 t=3869
+ke kao lv 	可考慮	c=1 d=0.0682212 t=3869
+ke li fu 	克里夫	c=0 d=0.0631284 t=3869
+ke li si 	克里斯	c=0 d=0.0606531 t=3869
+ke li si ka da jian fan 	克里斯喀噠簡繁	c=1 d=0.609571 t=3869
+ke lu ji 	刻錄機	c=2 d=1.54509 t=3869
+ke lu ji fan de sa 	刻錄機范德薩	c=1 d=0.839457 t=3869
+ke lu ji wo en 	刻錄機沃恩	c=1 d=0.0531307 t=3869
+ke neng 	可能	c=4 d=0.153355 t=3869
+ke qi 	客氣	c=1 d=0.000804733 t=3869
+ke shuo 	可說	c=1 d=0.00740944 t=3869
+ke xue 	科學	c=1 d=0.353455 t=3869
+ke yi 	可以	c=30 d=2.60473 t=3869
+ken de ji 	肯德基	c=0 d=0.0843665 t=3869
+ken ding 	肯定	c=1 d=0.00168667 t=3869
+kong bai 	空白	c=1 d=0.245367 t=3869
+kong jian 	空間	c=3 d=1.25083 t=3869
+kong jian kuai jie jian 	空間快捷鍵	c=1 d=0.909373 t=3869
+kong jun si ling 	空軍司令	c=0 d=0.0036334 t=3869
+kong jun si ling dai fu kuan le 	空軍司令代付款了	c=1 d=0.0365162 t=3869
+kong shou dao 	空手道	c=0 d=0.120974 t=3869
+kong shou dao feng ji kou 	空手道風紀扣	c=1 d=0.219808 t=3869
+kong shou dao kai dang ku 	空手道開襠褲	c=1 d=0.0480747 t=3869
+kong shou dao lu fang ji 	空手道錄放機	c=1 d=0.718924 t=3869
+kou dai 	口袋	c=1 d=0.154124 t=3869
+kou dai li 	口袋裏	c=0 d=0.0826959 t=3869
+kou dian fen shu 	扣點分數	c=1 d=0.162242 t=3869
+kou dian fen shu dai fu kuan 	扣點分數代付款	c=1 d=0.179066 t=3869
+ku 	庫	c=1 d=0.102797 t=3869
+ku 	苦	c=1 d=0.15259 t=3869
+kuai 	塊	c=1 d=0.704688 t=3869
+kuai di 	快遞	c=2 d=0.49295 t=3869
+kuai di fei 	快遞費	c=11 d=3.92917 t=3869
+kuai di fei jia 	快遞費家	c=1 d=0.145019 t=3869
+kuai di fei lao shi 	快遞費老師	c=1 d=0.228779 t=3869
+kuai jie jian 	快捷鍵	c=2 d=0.288383 t=3869
+kuai jin lai 	快進來	c=0 d=0.070822 t=3869
+kuai kuai le le 	快快樂樂	c=1 d=0.640824 t=3869
+kuai qian 	塊錢	c=1 d=0.0652193 t=3869
+kuai su 	快速	c=2 d=0.620805 t=3869
+kuan 	款	c=6 d=1.79196 t=3869
+kuan dai fu kuan 	款代付款	c=1 d=0.147342 t=3869
+kuan dai fu kuan ka sang de la 	款代付款卡桑德拉	c=1 d=0.247833 t=3869
+kuan shi da fu 	款士大夫	c=1 d=0.965605 t=3869
+kuang 	框	c=1 d=0.806541 t=3869
+kuang jia 	框架	c=1 d=0.0528657 t=3869
+kuo zhan 	擴展	c=1 d=0.872803 t=3869
+kuo zhan ji zhi 	擴展機制	c=2 d=1.73786 t=3869
+la ji 	垃圾	c=1 d=0.565525 t=3869
+la sa lu 	拉撒路	c=0 d=0.083527 t=3869
+lai 	來	c=6 d=0.646712 t=3869
+lai gong si 	來公司	c=1 d=0.12493 t=3869
+lai kan 	來看	c=0 d=0.083527 t=3869
+lai yuan 	來源	c=1 d=0.00179097 t=3869
+lai yuan yu 	來源於	c=1 d=0.00165327 t=3869
+lai zhe 	來着	c=1 d=0.0788664 t=3869
+lan 	爛	c=1 d=0.00222055 t=3869
+lang fei 	浪費	c=0 d=0.12513 t=3869
+lang hao 	狼嚎	c=11 d=2.5331 t=3869
+lao dong fa 	勞動法	c=0 d=0.0100327 t=3869
+lao shi 	老師	c=0 d=0.0645838 t=3869
+lao shi de kai fa li kai 	老師的開發離開	c=1 d=0.532592 t=3869
+le 	了	c=43 d=8.55423 t=3869
+le guan 	樂觀	c=1 d=0.0121552 t=3869
+le kuai di fei 	了快遞費	c=1 d=0.694197 t=3869
+le shi kuai di fei 	了是快遞費	c=2 d=0.81841 t=3869
+lei mu 	類目	c=2 d=0.410602 t=3869
+lei si 	類似	c=1 d=0.484325 t=3869
+li 	李	c=3 d=0.255227 t=3869
+li 	裏	c=15 d=2.39937 t=3869
+li kai 	離開	c=2 d=0.493432 t=3869
+li kai she ding 	離開設定	c=1 d=0.763379 t=3869
+li kai she ding jian fan 	離開設定簡繁	c=1 d=0.628135 t=3869
+li kai shi da fu 	離開士大夫	c=1 d=0.729789 t=3869
+li kai shi da fu shi da fu kuan 	離開士大夫士大夫款	c=1 d=0.913931 t=3869
+li mian 	裏面	c=1 d=0.425283 t=3869
+li pin 	禮品	c=1 d=0.141564 t=3869
+li qing 	理清	c=1 d=0.19593 t=3869
+li ru 	例如	c=2 d=0.443792 t=3869
+lian jie 	鏈接	c=2 d=0.506729 t=3869
+lian suo dian 	連鎖店	c=0 d=0.0847894 t=3869
+lian xi 	聯繫	c=3 d=0.554806 t=3869
+lian xiang 	聯想	c=1 d=0.0997588 t=3869
+liang 	亮	c=1 d=0.0837432 t=3869
+liang bu 	兩步	c=1 d=0.018968 t=3869
+liang de fen ju 	兩地分居	c=0 d=0.00495388 t=3869
+liang hang 	兩行	c=0 d=0.00518189 t=3869
+liang ju 	兩句	c=0 d=8.08767e-05 t=3869
+liang wei 	兩位	c=0 d=0.0516851 t=3869
+liao jie 	瞭解	c=3 d=0.292264 t=3869
+liao tian 	聊天	c=1 d=0.0432828 t=3869
+lie biao 	列表	c=7 d=3.13466 t=3869
+ling 	嶺	c=4 d=0.574726 t=3869
+ling 	領	c=2 d=1.89319 t=3869
+ling dao 	領導	c=0 d=0.0847894 t=3869
+ling gan 	靈感	c=1 d=0.00200924 t=3869
+ling ling luo luo 	零零落落	c=1 d=1.05609 t=3869
+ling yi 	另一	c=0 d=0.000822975 t=3869
+ling yi dian 	另一點	c=1 d=0.008271 t=3869
+liu 	柳	c=5 d=0.230445 t=3869
+liu 	留	c=2 d=0.145225 t=3869
+liu cheng 	流程	c=7 d=1.2603 t=3869
+liu chu 	流出	c=1 d=0.0152985 t=3869
+liu ge 	六個	c=1 d=0.128093 t=3869
+liu kou shui 	流口水	c=0 d=0.0937067 t=3869
+liu lan qi 	瀏覽器	c=1 d=0.628135 t=3869
+liu yan 	留言	c=7 d=0.84031 t=3869
+lo 	咯	c=0 d=0.0045502 t=3869
+long 	龍	c=1 d=0.535261 t=3869
+long kou duo shi 	龍口奪食	c=1 d=0.904837 t=3869
+lou 	樓	c=1 d=0.267135 t=3869
+lu de 	錄的	c=1 d=0.257947 t=3869
+lu fang ji 	錄放機	c=0 d=0.17484 t=3869
+lu ka shen ke 	盧卡申科	c=0 d=0.0847894 t=3869
+lu ru 	錄入	c=1 d=0.99005 t=3869
+lun tai 	輪胎	c=1 d=0.0702988 t=3869
+lun tan 	論壇	c=3 d=0.74087 t=3869
+lv she da fa 	律設大法	c=1 d=0.748264 t=3869
+lv she da fa jian kong fang 	律設大法檢控方	c=1 d=0.591555 t=3869
+mai 	買	c=3 d=0.656528 t=3869
+mai 	賣	c=3 d=0.21235 t=3869
+mai dian 	買點	c=1 d=0.0544757 t=3869
+mai le 	買了	c=0 d=0.0120633 t=3869
+man man 	慢慢	c=1 d=0.024972 t=3869
+mao 	懋	c=1 d=0.282239 t=3869
+mao 	茂	c=0 d=0.0239309 t=3869
+mao chu lai 	冒出來	c=1 d=0.00210172 t=3869
+me 	麼	c=18 d=2.04947 t=3869
+mei 	每	c=1 d=0.00130051 t=3869
+mei 	沒	c=6 d=1.11599 t=3869
+mei ge 	每個	c=3 d=0.0093914 t=3869
+mei ge ren 	每個人	c=1 d=0.0241131 t=3869
+mei qi 	每期	c=1 d=0.0144798 t=3869
+mei qi zuo yong 	沒起作用	c=1 d=0.744532 t=3869
+mei sha 	沒啥	c=2 d=0.101793 t=3869
+mei sheng xiao 	沒生效	c=1 d=0.657047 t=3869
+mei shi 	美食	c=1 d=0.701174 t=3869
+mei ye 	每頁	c=1 d=0.105928 t=3869
+mei yi bu 	每一步	c=1 d=0.657047 t=3869
+mei yi ge 	每一個	c=1 d=0.00162053 t=3869
+mei yong guo 	沒用過	c=1 d=0.0137049 t=3869
+mei you 	沒有	c=4 d=0.893319 t=3869
+mei yue 	每月	c=1 d=0.060205 t=3869
+men 	們	c=4 d=2.26933 t=3869
+men de 	們的	c=0 d=0.0946485 t=3869
+men hu 	門戶	c=1 d=0.126651 t=3869
+mi ma 	密碼	c=1 d=0.301194 t=3869
+mian fei 	免費	c=2 d=0.763379 t=3869
+miao shu 	描述	c=1 d=0.000731802 t=3869
+min 	民	c=0 d=0.0045502 t=3869
+min jie 	敏捷	c=1 d=0.0281677 t=3869
+min jie kai fa 	敏捷開發	c=3 d=0.249075 t=3869
+min tai 	閩臺	c=1 d=0.111917 t=3869
+ming 	名	c=2 d=0.198891 t=3869
+ming 	明	c=2 d=0.611866 t=3869
+ming cheng 	名稱	c=3 d=0.965606 t=3869
+ming nian 	明年	c=1 d=0.242926 t=3869
+ming que 	明確	c=1 d=0.178173 t=3869
+ming xian 	明顯	c=2 d=0.899379 t=3869
+mo kuai 	模塊	c=3 d=0.815939 t=3869
+mo ren 	默認	c=4 d=0.989399 t=3869
+mo shi 	模式	c=1 d=1.06949 t=3869
+mo shi xia 	模式下	c=1 d=0.946485 t=3869
+mou ge 	某個	c=1 d=0.509156 t=3869
+mou zhong 	某種	c=0 d=0.0923116 t=3869
+mou zhong yuan yin 	某種原因	c=1 d=0.927743 t=3869
+mu 	木	c=1 d=0.0816756 t=3869
+mu biao 	目標	c=4 d=0.640824 t=3869
+mu lu 	目錄	c=2 d=0.980199 t=3869
+mu qian 	目前	c=1 d=0.353455 t=3869
+mu you 	木有	c=2 d=0.69763 t=3869
+na 	哪	c=3 d=0.229925 t=3869
+na 	拿	c=1 d=0.231078 t=3869
+na 	那	c=4 d=0.352586 t=3869
+na bian 	那邊	c=2 d=0.65377 t=3869
+na ge 	哪個	c=3 d=0.33454 t=3869
+na ge 	那個	c=2 d=0.901037 t=3869
+na jiu 	那就	c=1 d=0.913931 t=3869
+na li 	哪裏	c=2 d=0.316962 t=3869
+na pa 	哪怕	c=1 d=0.0239928 t=3869
+na qu 	拿去	c=1 d=0.232236 t=3869
+na tian 	哪天	c=2 d=0.00411003 t=3869
+na tiao 	哪條	c=1 d=0.189191 t=3869
+na yang 	那樣	c=1 d=0.767206 t=3869
+na you 	哪有	c=1 d=0.155673 t=3869
+na zhong 	那種	c=1 d=0.290835 t=3869
+nai nai 	奶奶	c=1 d=0.272532 t=3869
+nan dao 	難道	c=0 d=0.02334 t=3869
+nan yi 	難以	c=2 d=0.19605 t=3869
+nao 	鬧	c=0 d=0.0238115 t=3869
+nao hai li 	腦海裏	c=1 d=0.00242967 t=3869
+ne 	呢	c=5 d=1.01403 t=3869
+nei rong 	內容	c=5 d=0.743844 t=3869
+neng 	能	c=7 d=0.697047 t=3869
+ni 	你	c=19 d=3.41735 t=3869
+ni men 	你們	c=1 d=0.839457 t=3869
+ni shi 	你是	c=1 d=0.814688 t=3869
+ni tian 	逆天	c=2 d=0.0659226 t=3869
+nia 	孃	c=0 d=0.0117655 t=3869
+nian shen 	年審	c=1 d=0.2334 t=3869
+nin 	您	c=25 d=6.26204 t=3869
+nin hao 	您好	c=13 d=0.903309 t=3869
+nin shi 	您是	c=1 d=0.186374 t=3869
+nin shi yao 	您是要	c=1 d=0.324652 t=3869
+ning ke 	寧可	c=1 d=0.0122773 t=3869
+o 	哦	c=7 d=2.55658 t=3869
+o o 	哦哦	c=1 d=0.0713613 t=3869
+ou er 	偶爾	c=1 d=0.00465413 t=3869
+pai 	排	c=1 d=0.0702988 t=3869
+pai nao dai 	拍腦袋	c=1 d=0.00419023 t=3869
+pao mian 	泡麪	c=2 d=1.74752 t=3869
+pei se 	配色	c=2 d=0.162969 t=3869
+pei xun 	培訓	c=3 d=0.706675 t=3869
+pei zhi 	配置	c=4 d=0.85088 t=3869
+peng 	碰	c=1 d=0.090718 t=3869
+pi liang 	批量	c=2 d=1.54736 t=3869
+pin 	品	c=1 d=0.0112769 t=3869
+pin yin 	拼音	c=1 d=0.965605 t=3869
+ping fan 	平凡	c=1 d=0.0845849 t=3869
+ping shen 	評審	c=1 d=0.88692 t=3869
+ping shi 	平時	c=2 d=0.0488012 t=3869
+ping tai 	平臺	c=2 d=0.0207214 t=3869
+po jie 	破解	c=1 d=0.882496 t=3869
+pu ke pai 	撲克牌	c=1 d=0.138761 t=3869
+qi 	企	c=1 d=0.0695994 t=3869
+qi 	其	c=2 d=0.781564 t=3869
+qi 	期	c=4 d=0.186438 t=3869
+qi dong 	啓動	c=1 d=0.960789 t=3869
+qi qi ai ai 	期期艾艾	c=0 d=0.0375311 t=3869
+qi qi qie qie 	悽悽切切	c=0 d=0.0329559 t=3869
+qi qian 	七千	c=1 d=0.469799 t=3869
+qi shi 	其實	c=5 d=0.923402 t=3869
+qi ta 	其他	c=3 d=0.471104 t=3869
+qi ye 	企業	c=3 d=0.126466 t=3869
+qi ye ban 	企業版	c=1 d=0.38868 t=3869
+qi ye men hu 	企業門戶	c=1 d=0.900324 t=3869
+qi zuo yong 	起作用	c=0 d=0.0740818 t=3869
+qian 	前	c=1 d=0.0149208 t=3869
+qian mian 	前面	c=2 d=0.430048 t=3869
+qian tao 	嵌套	c=1 d=0.209088 t=3869
+qiang da 	強大	c=0 d=0.0770315 t=3869
+qiang da da wa ding ding ding ding ding ding ding ding da da de shi shi shang sui shi sui di wa de se 	強大大窪頂頂頂頂頂頂頂頂大大的事實上隨時隨地瓦德瑟	c=1 d=0.355226 t=3869
+qiang duo dao 	搶奪到	c=1 d=0.394554 t=3869
+qiao 	喬	c=1 d=0.00292342 t=3869
+qiao ke li 	巧克力	c=1 d=0.100761 t=3869
+qiao qiao da da 	敲敲打打	c=1 d=0.398954 t=3869
+qie 	且	c=1 d=0.65377 t=3869
+qie huan 	切換	c=2 d=0.247068 t=3869
+qin ai 	親愛	c=0 d=0.118064 t=3869
+qin ai de 	親愛的	c=0 d=0.0416862 t=3869
+qin ai wa da da wu wei ding ding ding ding wu wu wu wu wu wu wu wu wu wa wa de 	親愛挖大大無畏頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地	c=1 d=0.45612 t=3869
+qing 	請	c=2 d=0.390628 t=3869
+qing chu 	清楚	c=1 d=0.0113334 t=3869
+qing jian 	請見	c=1 d=0.574072 t=3869
+qing kuang 	情況	c=2 d=0.195751 t=3869
+qing qi bing 	輕騎兵	c=0 d=0.0833985 t=3869
+qing qiu 	請求	c=1 d=0.913931 t=3869
+qing wen 	請問	c=0 d=0.032628 t=3869
+qing xi 	清晰	c=1 d=0.207008 t=3869
+qiu qiu 	球球	c=1 d=0.000611253 t=3869
+qu 	區	c=0 d=0.0496585 t=3869
+qu 	去	c=4 d=0.761193 t=3869
+qu 	取	c=1 d=0.239309 t=3869
+qu bie 	區別	c=1 d=0.0948935 t=3869
+qu chu 	去除	c=3 d=0.680451 t=3869
+qu chu 	取出	c=1 d=0.650509 t=3869
+qu dao 	渠道	c=0 d=0.0254107 t=3869
+qu dong 	驅動	c=1 d=0.0898153 t=3869
+qu fen 	區分	c=1 d=0.481909 t=3869
+qu shou quan 	去授權	c=1 d=0.0547488 t=3869
+qu xiao 	取消	c=1 d=0.496585 t=3869
+qu yu 	區域	c=1 d=0.246597 t=3869
+quan bu 	全部	c=1 d=0.0290835 t=3869
+quan mian 	全面	c=1 d=0.657047 t=3869
+quan xian 	權限	c=1 d=0.000706632 t=3869
+quan zhi 	全職	c=1 d=0.00843808 t=3869
+que ren 	確認	c=2 d=0.111917 t=3869
+qun 	羣	c=8 d=1.81048 t=3869
+qun li 	羣裏	c=10 d=1.3101 t=3869
+ran hou 	然後	c=1 d=0.018043 t=3869
+ran zhi 	然之	c=4 d=1.58382 t=3869
+rang 	讓	c=3 d=0.521223 t=3869
+rang ta 	讓他	c=1 d=0.0902655 t=3869
+re ai 	熱愛	c=0 d=0.0423162 t=3869
+ren 	人	c=1 d=0.0053397 t=3869
+ren da 	人大	c=0 d=0.128271 t=3869
+ren wei 	認爲	c=0 d=0.0323033 t=3869
+ren wu 	任務	c=5 d=1.02469 t=3869
+ren wu lan 	任務欄	c=1 d=0.0422141 t=3869
+ren wu lie biao 	任務列表	c=1 d=0.191092 t=3869
+ren zheng 	認證	c=1 d=0.0309618 t=3869
+ri 	日	c=2 d=0.981741 t=3869
+rong rong dang dang 	溶溶蕩蕩	c=0 d=0.0319819 t=3869
+ru 	如	c=2 d=0.815741 t=3869
+ru guo 	如果	c=2 d=0.282917 t=3869
+ru he 	如何	c=2 d=1.0015 t=3869
+ru men 	入門	c=0 d=0.022313 t=3869
+ru ruo 	如若	c=1 d=0.0788664 t=3869
+ru you 	如有	c=1 d=0.798516 t=3869
+ruan 	軟	c=1 d=0.16035 t=3869
+ruan jian 	軟件	c=5 d=1.9665 t=3869
+ruan jian ce shi 	軟件測試	c=1 d=0.000520875 t=3869
+sa 	撒	c=0 d=0.0319819 t=3869
+sa dan 	撒旦	c=0 d=0.178759 t=3869
+sa jiao 	撒嬌	c=0 d=0.0843665 t=3869
+sa ke 	薩克	c=0 d=0.0843665 t=3869
+sa ke si 	薩克斯	c=0 d=0.0843665 t=3869
+sa sa 	灑灑	c=0 d=0.0706129 t=3869
+san da 	三大	c=0 d=0.119767 t=3869
+san hao 	三號	c=0 d=0.0895834 t=3869
+san hao biao ti 	三號標題	c=1 d=0.900325 t=3869
+san wan qi qian 	三萬七千	c=0 d=0.0348192 t=3869
+sao 	騷	c=1 d=0.276651 t=3869
+sha 	啥	c=5 d=0.395219 t=3869
+sha yi si 	啥意思	c=1 d=0.169483 t=3869
+sha zhu 	剎住	c=1 d=0.780474 t=3869
+sha zhu che 	剎住車	c=1 d=0.726149 t=3869
+shan chu 	刪除	c=6 d=2.86808 t=3869
+shan da wang 	山大王	c=0 d=0.0700328 t=3869
+shan da wang qing qi bing 	山大王輕騎兵	c=1 d=0.408608 t=3869
+shan dong sheng 	山東省	c=1 d=0.114098 t=3869
+shan dong sheng de 	山東省的	c=1 d=0.855609 t=3869
+shan dong sheng de shan dong sheng de she ding 	山東省的山東省的設定	c=1 d=0.852144 t=3869
+shan kuai 	苫塊	c=0 d=0.0543351 t=3869
+shan kuai di fang kai shi 	苫塊地方開始	c=1 d=0.546074 t=3869
+shan tou 	汕頭	c=3 d=2.12143 t=3869
+shang 	上	c=8 d=0.841221 t=3869
+shang ci 	上次	c=3 d=0.134532 t=3869
+shang di jiao 	上帝教	c=0 d=0.167894 t=3869
+shang kua ke 	上夸克	c=0 d=0.0843665 t=3869
+shang lan de fen 	上籃得分	c=0 d=0.0532592 t=3869
+shang lan de fen ka 	上籃得分卡	c=1 d=0.535261 t=3869
+shang mian 	上面	c=1 d=0.0293049 t=3869
+shang ping 	上屏	c=1 d=1 t=3869
+shang wang 	上網	c=0 d=0.0293758 t=3869
+shang wu 	商務	c=5 d=2.77176 t=3869
+shang xia 	上下	c=1 d=0.193013 t=3869
+shang xian 	上線	c=0 d=0.0045502 t=3869
+shang xian hou 	上線後	c=1 d=0.04573 t=3869
+shao 	少	c=1 d=0.0898153 t=3869
+shao bu liao 	少不了	c=1 d=0.70822 t=3869
+she chi 	奢侈	c=1 d=0.0109436 t=3869
+she ding 	設定	c=4 d=2.14183 t=3869
+she fang di 	設防地	c=1 d=0.22091 t=3869
+she ji 	設計	c=9 d=1.53701 t=3869
+she ji shi 	設計師	c=1 d=0.0627546 t=3869
+she ji shi shi 	設計師是	c=1 d=0.0804596 t=3869
+she qu 	社區	c=1 d=0.0203434 t=3869
+she xiang tou 	攝像頭	c=2 d=1.93123 t=3869
+she zhi 	設置	c=6 d=1.23083 t=3869
+shei 	誰	c=1 d=0.0135686 t=3869
+shen 	神	c=1 d=0.677057 t=3869
+shen du 	深度	c=1 d=0.329559 t=3869
+shen kao jia 	參考價	c=0 d=0.0759572 t=3869
+shen me 	什麼	c=8 d=1.79824 t=3869
+shen men 	身門	c=0 d=0.0932394 t=3869
+shen qing 	申請	c=2 d=0.0359725 t=3869
+sheng 	省	c=1 d=0.0665368 t=3869
+sheng cheng 	生成	c=1 d=0.0159229 t=3869
+sheng dan kuai le 	聖誕快樂	c=0 d=0.00510474 t=3869
+sheng dan kuai le fa 	聖誕快樂發	c=3 d=1.35146 t=3869
+sheng sheng shi shi 	生生世世	c=0 d=0.114876 t=3869
+sheng xiao 	生效	c=0 d=0.065377 t=3869
+shi 	實	c=1 d=0.557106 t=3869
+shi 	是	c=48 d=3.41933 t=3869
+shi 	時	c=12 d=1.70686 t=3869
+shi ba 	是吧	c=4 d=0.943947 t=3869
+shi ba 	是把	c=1 d=0.904837 t=3869
+shi bu shi 	是不是	c=2 d=1.04324 t=3869
+shi chang 	市場	c=0 d=0.022313 t=3869
+shi chang ru men 	市場入門	c=1 d=0.224249 t=3869
+shi da da 	溼答答	c=0 d=0.058605 t=3869
+shi da fu 	士大夫	c=32 d=7.95782 t=3869
+shi da fu di fang 	士大夫地方	c=1 d=0.0963276 t=3869
+shi da fu fang shi 	士大夫方式	c=1 d=0.164474 t=3869
+shi da fu kai dang ku 	士大夫開襠褲	c=1 d=0.0502874 t=3869
+shi da fu kao lv 	士大夫考慮	c=2 d=0.944214 t=3869
+shi da fu kao lv shi 	士大夫考慮是	c=1 d=0.831104 t=3869
+shi da fu ke lu ji 	士大夫刻錄機	c=1 d=0.941764 t=3869
+shi da fu kong jian 	士大夫空間	c=1 d=0.865022 t=3869
+shi da fu kong jian liu kou shui 	士大夫空間流口水	c=1 d=0.941765 t=3869
+shi da fu kuan 	士大夫款	c=7 d=1.92319 t=3869
+shi da fu kuan shi lai ke da fei ji 	士大夫款史萊克打飛機	c=1 d=0.0401553 t=3869
+shi da fu lu ka shen ke ling dao 	士大夫盧卡申科領導	c=1 d=0.852144 t=3869
+shi da fu she ding 	士大夫設定	c=1 d=0.794534 t=3869
+shi da fu shi da fu 	士大夫士大夫	c=2 d=0.230681 t=3869
+shi da fu shi da fu shi da fu 	士大夫士大夫士大夫	c=2 d=0.837428 t=3869
+shi da fu si kao 	士大夫思考	c=1 d=0.771052 t=3869
+shi dang 	適當	c=1 d=0.00522135 t=3869
+shi de fen shu 	實得分數	c=1 d=0.23589 t=3869
+shi de fen shu duo fu duo shou 	實得分數多福多壽	c=1 d=0.183599 t=3869
+shi di di da da a wa da wei de qin ai de qiang da da da a a a ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da wei de ren da da da a a a a a a a da da a a a a ai dao de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding diao wa dai ding ding ding ding ding ding ding ding ding ding ding ding sa dan 	是滴滴答答阿佤大威德親愛的強大大大啊啊啊頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大威德人大大大啊啊啊啊啊啊啊大大啊啊啊啊挨刀的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂吊襪帶頂頂頂頂頂頂頂頂頂頂頂頂撒旦	c=1 d=0.418952 t=3869
+shi di fang fan de sa 	是地方范德薩	c=1 d=0.171187 t=3869
+shi di song 	溼地松	c=0 d=0.083527 t=3869
+shi du wei diao 	適度微調	c=0 d=0.0400517 t=3869
+shi du wei diao shi qiu wen du ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa ren da qin ai diao wa dai 	適度微調溼球溫度頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪人大親愛吊襪帶	c=1 d=0.402524 t=3869
+shi fa de dian 	事發地點	c=1 d=0.0944202 t=3869
+shi fou 	是否	c=2 d=0.390134 t=3869
+shi ge 	是個	c=1 d=0.878096 t=3869
+shi ji 	實際	c=1 d=0.00169512 t=3869
+shi ji yu 	是基於	c=3 d=0.521347 t=3869
+shi jian 	實踐	c=1 d=0.603506 t=3869
+shi jian 	時間	c=6 d=0.0605333 t=3869
+shi jian duan 	時間段	c=1 d=0.865022 t=3869
+shi ka da jian fan kuai jin lai 	是喀噠簡繁快進來	c=1 d=0.71177 t=3869
+shi kuai di fei 	是快遞費	c=9 d=5.02028 t=3869
+shi kuai di fei di fang 	是快遞費地方	c=1 d=0.151072 t=3869
+shi kuai di fei ji 	是快遞費機	c=1 d=0.937067 t=3869
+shi kuai di fei kai shi di san fang 	是快遞費開始第三方	c=1 d=0.543351 t=3869
+shi lai ke 	史萊克	c=0 d=0.00399551 t=3869
+shi le 	溼了	c=1 d=0.167932 t=3869
+shi le dai fu kuan 	溼了代付款	c=2 d=0.961233 t=3869
+shi le ka da ji fen ka 	溼了喀噠計分卡	c=1 d=0.231078 t=3869
+shi le kuai di fei 	溼了快遞費	c=4 d=1.11189 t=3869
+shi le kuai di fei ji 	溼了快遞費機	c=1 d=0.918512 t=3869
+shi pin 	視頻	c=1 d=0.687289 t=3869
+shi qiu wen du 	溼球溫度	c=0 d=0.0400517 t=3869
+shi sha 	是啥	c=1 d=0.337902 t=3869
+shi shi 	事事	c=1 d=0.99005 t=3869
+shi shi 	實事	c=3 d=2.68161 t=3869
+shi shi 	實施	c=2 d=0.995012 t=3869
+shi shi 	是是	c=1 d=0.895834 t=3869
+shi shi 	試試	c=40 d=9.33001 t=3869
+shi shi hai 	試試還	c=1 d=0.891366 t=3869
+shi shi le 	試試了	c=1 d=0.597501 t=3869
+shi shi shang 	事實上	c=2 d=0.255238 t=3869
+shi shi zhe ge 	試試這個	c=1 d=0.0916297 t=3869
+shi si 	十四	c=1 d=0.055299 t=3869
+shi wo en 	是沃恩	c=1 d=0.810584 t=3869
+shi yao 	是要	c=0 d=0.0323033 t=3869
+shi yong 	使用	c=6 d=1.63434 t=3869
+shi yong wen ti 	使用問題	c=1 d=0.190139 t=3869
+shou ce 	手冊	c=13 d=3.79738 t=3869
+shou ji 	手機	c=2 d=0.132705 t=3869
+shou ji duan 	手機段	c=1 d=0.0939493 t=3869
+shou jian 	收件	c=1 d=0.130029 t=3869
+shou jian ren 	收件人	c=1 d=0.131994 t=3869
+shou quan 	授權	c=1 d=0.0373523 t=3869
+shou shi 	收拾	c=2 d=0.0330627 t=3869
+shou ye 	首頁	c=1 d=0.0614212 t=3869
+shou you 	手遊	c=1 d=0.67368 t=3869
+shu 	數	c=1 d=0.236928 t=3869
+shu biao 	鼠標	c=2 d=0.0467712 t=3869
+shu biao dian 	鼠標墊	c=1 d=0.140156 t=3869
+shu ju 	數據	c=8 d=3.49144 t=3869
+shu ju biao 	數據表	c=1 d=0.204948 t=3869
+shu ju ku 	數據庫	c=2 d=0.312476 t=3869
+shu lian 	熟練	c=2 d=1.43067 t=3869
+shu lian de kai fa le 	熟練的開發了	c=1 d=0.562705 t=3869
+shu liang 	數量	c=1 d=0.0497871 t=3869
+shu rang 	鼠壤	c=1 d=0.054204 t=3869
+shu ru 	輸入	c=5 d=2.40168 t=3869
+shu ru fa 	輸入法	c=25 d=6.18352 t=3869
+shu ru ruan 	輸入軟	c=1 d=0.748263 t=3869
+shu xing 	屬性	c=1 d=0.04573 t=3869
+shu yu 	屬於	c=1 d=0.0105672 t=3869
+shua xin 	刷新	c=1 d=0.985112 t=3869
+shuang du fu fu 	雙獨夫婦	c=1 d=0.117068 t=3869
+shui 	稅	c=1 d=0.0608101 t=3869
+shui mian 	睡眠	c=1 d=0.980199 t=3869
+shui rong rong 	水溶溶	c=0 d=0.0286505 t=3869
+shui wu 	稅務	c=1 d=0.0569831 t=3869
+shun kou liu 	順口溜	c=0 d=0.0612626 t=3869
+shun kou liu de ji fen ka 	順口溜的計分卡	c=1 d=0.615697 t=3869
+shuo 	說	c=7 d=0.287431 t=3869
+shuo dao di 	說到底	c=1 d=0.204349 t=3869
+shuo de 	說的	c=1 d=0.321422 t=3869
+shuo hua 	說話	c=1 d=0.0668703 t=3869
+shuo liang ju 	說兩句	c=1 d=0.000812821 t=3869
+shuo xia 	說下	c=5 d=0.859986 t=3869
+shuo yi ju 	說一句	c=1 d=0.00245409 t=3869
+si 	四	c=1 d=0.29523 t=3869
+si 	死	c=1 d=0.0843665 t=3869
+si da fa ming 	四大發明	c=1 d=0.798516 t=3869
+si da jie kong 	四大皆空	c=0 d=0.0843665 t=3869
+si da kang 	斯達康	c=0 d=0.071177 t=3869
+si da lin 	斯大林	c=0 d=0.00332068 t=3869
+si da lin kai fa 	斯大林開發	c=1 d=0.0333733 t=3869
+si dang dong 	斯當東	c=0 d=0.083527 t=3869
+si dong fei dong 	似懂非懂	c=1 d=0.0528657 t=3869
+si fa du li 	司法獨立	c=0 d=0.016696 t=3869
+si fa du li kan kan 	司法獨立看看	c=1 d=0.167797 t=3869
+si ji dou fu 	四季豆腐	c=1 d=0.67368 t=3869
+si kao 	思考	c=1 d=0.75812 t=3869
+si kao dai fu kuan 	思考代付款	c=2 d=0.0971352 t=3869
+si kao jing dong fang 	思考京東方	c=1 d=0.729789 t=3869
+si kao jiu shi 	思考就是	c=1 d=0.0934807 t=3869
+si kao lao dong fa 	思考勞動法	c=2 d=0.90228 t=3869
+si kao lao dong fa kao lv 	思考勞動法考慮	c=1 d=0.0536647 t=3869
+si kao lao dong fa si da kang 	思考勞動法斯達康	c=1 d=0.715338 t=3869
+si kao liang de fen ju 	思考兩地分居	c=1 d=0.049787 t=3869
+si ke da 	斯柯達	c=1 d=0.194091 t=3869
+si ke da lang fei 	斯柯達浪費	c=1 d=0.559898 t=3869
+si ke da lu fang ji 	斯柯達錄放機	c=1 d=0.847894 t=3869
+si lian 	死鏈	c=14 d=2.7327 t=3869
+si wa 	絲襪	c=0 d=0.0313486 t=3869
+si xiang 	思想	c=3 d=0.404288 t=3869
+sou gou 	搜狗	c=1 d=0.386741 t=3869
+sou suo 	搜索	c=1 d=0.375311 t=3869
+su dan da fo 	蘇丹達佛	c=1 d=0.100259 t=3869
+su du 	速度	c=1 d=0.0423036 t=3869
+su du fa 	速讀法	c=1 d=0.873716 t=3869
+su du kai fa 	速度開發	c=7 d=1.84511 t=3869
+su du kai fa ji 	速度開發機	c=1 d=0.755784 t=3869
+su du kai fa kong shou dao 	速度開發空手道	c=1 d=0.794533 t=3869
+su du kai fa kuan 	速度開發款	c=1 d=0.860708 t=3869
+su du kai fa le 	速度開發了	c=1 d=0.582748 t=3869
+su du kuai 	速度快	c=2 d=0.987945 t=3869
+suan dao 	算到	c=1 d=0.0439369 t=3869
+suan fa 	算法	c=0 d=0.0648707 t=3869
+suan fa an a ding ke li fu 	算法氨吖啶克里夫	c=1 d=0.634448 t=3869
+suan fa fu wu 	算法服務	c=1 d=0.0343896 t=3869
+suan la 	酸辣	c=0 d=0.0895834 t=3869
+suan la fen 	酸辣粉	c=1 d=0.900325 t=3869
+sui bian 	隨便	c=1 d=0.970446 t=3869
+sui ran 	雖然	c=2 d=0.0253343 t=3869
+sui shi sui di 	隨時隨地	c=0 d=0.0353455 t=3869
+suo duan 	縮短	c=1 d=0.0963276 t=3869
+suo jian ji suo de 	所見即所得	c=1 d=0.292293 t=3869
+suo yi 	所以	c=5 d=0.197655 t=3869
+suo you 	所有	c=1 d=0.364219 t=3869
+ta 	他	c=2 d=0.271612 t=3869
+ta 	她	c=1 d=0.0665368 t=3869
+ta 	它	c=1 d=0.109154 t=3869
+ta shuo 	他說	c=1 d=0.83527 t=3869
+tai 	太	c=4 d=0.639632 t=3869
+tai chou 	太醜	c=1 d=0.640824 t=3869
+tai hao 	忕號	c=1 d=0.995012 t=3869
+tai xiao 	太小	c=1 d=0.235746 t=3869
+tan tao 	探討	c=1 d=0.035082 t=3869
+tao lun 	討論	c=1 d=0.337902 t=3869
+te bie 	特別	c=1 d=0.179072 t=3869
+te ding 	特定	c=2 d=0.119438 t=3869
+ti huan 	替換	c=3 d=1.30375 t=3869
+ti jiao 	提交	c=1 d=0.514274 t=3869
+ti shi 	提示	c=4 d=0.943828 t=3869
+ti wen 	提問	c=2 d=0.292319 t=3869
+ti xing 	提醒	c=1 d=0.000703108 t=3869
+ti yan 	體驗	c=2 d=1.32518 t=3869
+ti zhu 	題主	c=4 d=0.0372874 t=3869
+tian 	填	c=1 d=0.23457 t=3869
+tian 	天	c=1 d=0.0149956 t=3869
+tian chong 	填充	c=2 d=0.826857 t=3869
+tian chuang 	天創	c=1 d=0.0699482 t=3869
+tian jia 	添加	c=5 d=0.918512 t=3869
+tian jia dao 	添加到	c=1 d=0.313486 t=3869
+tiao mu 	條目	c=1 d=0.182684 t=3869
+tiao zheng 	調整	c=2 d=0.5894 t=3869
+tie 	貼	c=1 d=0.0131675 t=3869
+ting 	婷	c=1 d=0.585669 t=3869
+ting 	聽	c=1 d=0.066205 t=3869
+ting bu cuo 	挺不錯	c=0 d=0.0752015 t=3869
+ting shuo 	聽說	c=1 d=0.647264 t=3869
+ting ting 	婷婷	c=1 d=0.034562 t=3869
+tong chang 	通常	c=2 d=0.0195442 t=3869
+tong guo 	通過	c=2 d=0.702456 t=3869
+tong ji 	統計	c=1 d=0.331211 t=3869
+tong nian 	童年	c=1 d=0.571209 t=3869
+tong shi 	同事	c=5 d=2.44575 t=3869
+tong shi 	同時	c=3 d=1.29744 t=3869
+tong xue 	同學	c=0 d=0.099005 t=3869
+tong yang 	同樣	c=1 d=0.00392653 t=3869
+tong zhi 	通知	c=2 d=0.0629545 t=3869
+tou zhe 	透着	c=1 d=0.501576 t=3869
+tu 	圖	c=2 d=0.776259 t=3869
+tu biao 	圖標	c=1 d=0.0424257 t=3869
+tu fa qi xiang 	突發奇想	c=1 d=0.00209124 t=3869
+tu pian 	圖片	c=4 d=0.83527 t=3869
+tu shu 	圖書	c=2 d=0.412608 t=3869
+tu wen 	圖文	c=2 d=0.680451 t=3869
+tuan dui 	團隊	c=1 d=0.737123 t=3869
+tui jian 	推薦	c=3 d=0.97531 t=3869
+tuo pan 	托盤	c=1 d=0.186374 t=3869
+tuo zhan 	拓展	c=1 d=0.25284 t=3869
+wa 	瓦	c=3 d=1.58701 t=3869
+wa ao 	凹凹	c=0 d=0.179168 t=3869
+wa da 	挖大	c=0 d=0.510628 t=3869
+wa da qi qian a da 	挖大七千阿達	c=1 d=0.316637 t=3869
+wa dang wen 	瓦當文	c=0 d=0.0840644 t=3869
+wa dang wen ren da gu dan dan de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a ban ben 	瓦當文人大孤單單的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊版本	c=1 d=0.467666 t=3869
+wa de dao 	挖地道	c=0 d=0.0935038 t=3869
+wa de se 	瓦德瑟	c=0 d=0.0353455 t=3869
+wa ha ha 	娃哈哈	c=2 d=1.72296 t=3869
+wa ha ha ha 	哇哈哈哈	c=1 d=0.0443785 t=3869
+wa qian 	挖潛	c=0 d=0.033454 t=3869
+wa qian da di dang qian a da 	挖潛大敵當前阿達	c=1 d=0.336216 t=3869
+wa ran 	窪然	c=1 d=0.466776 t=3869
+wa ren 	蛙人	c=0 d=0.0375311 t=3869
+wa wa 	娃娃	c=0 d=0.0996076 t=3869
+wa wa de 	哇哇地	c=0 d=0.218527 t=3869
+wai 	外	c=0 d=0.0748264 t=3869
+wai di 	外地	c=1 d=0.180866 t=3869
+wai lian 	外鏈	c=1 d=0.980199 t=3869
+wai mian 	外面	c=1 d=0.265803 t=3869
+wan 	玩	c=2 d=0.718582 t=3869
+wan 	萬	c=3 d=0.304264 t=3869
+wan cheng 	完成	c=3 d=0.909373 t=3869
+wan da 	萬達	c=0 d=0.0239309 t=3869
+wan da mao 	萬達茂	c=1 d=0.240508 t=3869
+wan fa 	玩法	c=1 d=0.00104891 t=3869
+wan gu 	萬股	c=1 d=0.0773047 t=3869
+wan ou 	玩偶	c=1 d=0.687289 t=3869
+wan qiao qiao da da da ren a a a a da sa ding ding ding ding shi da da 	玩敲敲打打大人啊啊啊啊搭撒頂頂頂頂溼答答	c=1 d=0.293758 t=3869
+wan quan 	完全	c=1 d=0.00110269 t=3869
+wan shan 	完善	c=2 d=1.0464 t=3869
+wan shang 	晚上	c=2 d=0.304259 t=3869
+wan shi da 	萬事達	c=1 d=0.582748 t=3869
+wan wei wang 	萬維網	c=0 d=0.0463013 t=3869
+wan wei wang wa ao 	萬維網凹凹	c=1 d=0.465334 t=3869
+wang 	往	c=2 d=1.87435 t=3869
+wang 	王	c=1 d=0.151072 t=3869
+wang 	網	c=3 d=1 t=3869
+wang le 	忘了	c=1 d=0.0804596 t=3869
+wang pan 	網盤	c=1 d=0.103312 t=3869
+wang wen wen qie 	望聞問切	c=0 d=0.0290835 t=3869
+wang zha 	網炸	c=2 d=0.807189 t=3869
+wang zhan 	網站	c=11 d=1.96109 t=3869
+wei 	爲	c=11 d=2.48012 t=3869
+wei 	魏	c=1 d=0.0471227 t=3869
+wei da 	偉大	c=0 d=0.0590468 t=3869
+wei hu 	維護	c=3 d=0.0265591 t=3869
+wei qu de 	未取得	c=0 d=0.0311923 t=3869
+wei qu qi 	未娶妻	c=1 d=0.463004 t=3869
+wei ruan 	微軟	c=0 d=0.0313486 t=3869
+wei sa 	維薩	c=0 d=0.0375311 t=3869
+wei shen me 	爲什麼	c=1 d=0.941765 t=3869
+wei shen men 	爲身門	c=1 d=0.937067 t=3869
+wei xin 	微信	c=5 d=1.26951 t=3869
+wei zhi 	位置	c=3 d=0.970445 t=3869
+wen an 	文案	c=1 d=0.000792752 t=3869
+wen ben 	文本	c=1 d=0.941764 t=3869
+wen da 	問答	c=1 d=0.19205 t=3869
+wen dang 	文檔	c=3 d=0.479817 t=3869
+wen jian 	文件	c=1 d=0.960789 t=3869
+wen jian jia 	文件夾	c=2 d=1.00298 t=3869
+wen suo wei wen 	聞所未聞	c=0 d=0.0377192 t=3869
+wen ti 	問題	c=24 d=3.16811 t=3869
+wen ti men 	問題們	c=1 d=0.000553084 t=3869
+wen wen 	問問	c=1 d=0.486752 t=3869
+wen zhang 	文章	c=4 d=1.84167 t=3869
+wen zi 	文字	c=2 d=0.895834 t=3869
+wo 	倭	c=1 d=0.869358 t=3869
+wo 	我	c=71 d=7.19893 t=3869
+wo 	沃	c=1 d=0.88692 t=3869
+wo 	矱	c=1 d=0.574072 t=3869
+wo 	窩	c=0 d=0.0946485 t=3869
+wo bing bu 	我並不	c=0 d=0.0329559 t=3869
+wo de 	我的	c=5 d=2.22385 t=3869
+wo dou shi 	我都是	c=1 d=0.00275318 t=3869
+wo en 	沃恩	c=4 d=0.301301 t=3869
+wo en gong si 	沃恩公司	c=1 d=0.0614212 t=3869
+wo fen 	我分	c=1 d=0.0403566 t=3869
+wo jin ti gong te bie gao xing 	我僅提供特別高興	c=1 d=0.121846 t=3869
+wo kan 	我看	c=1 d=0.0992613 t=3869
+wo lai 	我來	c=0 d=0.0878095 t=3869
+wo lai shi shi 	我來試試	c=1 d=0.882497 t=3869
+wo men 	我們	c=21 d=3.15579 t=3869
+wo men de 	我們的	c=3 d=0.290165 t=3869
+wo men de 	窩們的	c=2 d=1.8426 t=3869
+wo men de xi ni nia 	我們的細膩孃	c=1 d=0.118245 t=3869
+wo men de xin jia 	我們的新家	c=2 d=0.152285 t=3869
+wo men gong si 	我們公司	c=1 d=0.0617291 t=3869
+wo men ren 	我們人	c=1 d=0.0536647 t=3869
+wo men xin zhu ti 	我們新主題	c=1 d=0.0605068 t=3869
+wo qu 	我去	c=1 d=0.719254 t=3869
+wo qu chao shi mai le yi ping huang hua cai 	我去超市買了一瓶黃花菜	c=1 d=0.121238 t=3869
+wo shi 	我是	c=2 d=0.484657 t=3869
+wo shi shi 	我實施	c=1 d=0.0544757 t=3869
+wo wo ao ao 	窩窩凹凹	c=0 d=0.0364219 t=3869
+wo wo ao ao da da da wu wei wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wa da da wa ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu wa da 	窩窩凹凹大大大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大窪頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂低等動物挖大	c=1 d=0.366045 t=3869
+wo ye 	我也	c=1 d=0.843665 t=3869
+wo yong 	我用	c=1 d=0.112478 t=3869
+wo zai 	我再	c=1 d=0.0557715 t=3869
+wo zai shi shi 	我再試試	c=2 d=0.0629543 t=3869
+wu 	無	c=1 d=0.392586 t=3869
+wu di dong 	無底洞	c=0 d=0.0298197 t=3869
+wu fa 	無法	c=2 d=1.49639 t=3869
+wu lian 	物聯	c=1 d=0.283654 t=3869
+wu lun 	無論	c=1 d=0.00264522 t=3869
+wu pin 	物品	c=1 d=0.666977 t=3869
+wu ren dao 	無人島	c=1 d=0.370544 t=3869
+wu shu ci 	無數次	c=1 d=0.126186 t=3869
+wu wei de qu 	武威地區	c=0 d=0.0290835 t=3869
+wu wu ran 	無污染	c=0 d=0.0633306 t=3869
+wu wu wu 	嗚嗚嗚	c=0 d=0.507886 t=3869
+wu wu wu wu wu wu wei wu wu wu wa da a a a a a a a a a a a a a a a a a a a a wen jian jia wu wu wu wu wu wu wu wu wu wa ran ding ding ding ding ding ding ding ding da da de diao chu 	嗚嗚嗚嗚嗚嗚爲嗚嗚嗚挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊文件夾嗚嗚嗚嗚嗚嗚嗚嗚嗚窪然頂頂頂頂頂頂頂頂大大的調出	c=1 d=0.410656 t=3869
+wu wu wu wu wu wu wu wei de qu dan wei wang wen wen qie da da quan bu 	嗚嗚嗚嗚嗚嗚武威地區單位望聞問切大大全部	c=1 d=0.292293 t=3869
+wu wu wu wu wu wu wu wu wu san wan qi qian jin jin ji jiao da jia qi qian a a a 	嗚嗚嗚嗚嗚嗚嗚嗚嗚三萬七千斤斤計較大家七千啊啊啊	c=1 d=0.349938 t=3869
+wu ya 	烏鴉	c=1 d=0.543351 t=3869
+wu yi yi 	無意義	c=1 d=0.574072 t=3869
+xi fen 	細分	c=1 d=0.384812 t=3869
+xi huan 	喜歡	c=2 d=0.568817 t=3869
+xi lie 	系列	c=1 d=0.615697 t=3869
+xi ni 	細膩	c=0 d=0.0117655 t=3869
+xi tong 	系統	c=4 d=1.52514 t=3869
+xi wang 	希望	c=5 d=0.864959 t=3869
+xia 	下	c=8 d=1.71854 t=3869
+xia 	霞	c=1 d=0.318224 t=3869
+xia ban 	下班	c=1 d=0.291401 t=3869
+xia ban hou 	下班後	c=1 d=0.640824 t=3869
+xia ci 	下次	c=1 d=0.941765 t=3869
+xia la 	下拉	c=2 d=0.0985846 t=3869
+xia mian 	下面	c=3 d=0.0155993 t=3869
+xia wen 	下文	c=1 d=0.00344787 t=3869
+xia xian 	下線	c=1 d=0.0685632 t=3869
+xia zai 	下載	c=5 d=0.862083 t=3869
+xia zai lie biao 	下載列表	c=1 d=0.33454 t=3869
+xia zhou 	下週	c=1 d=0.00259284 t=3869
+xian 	先	c=7 d=0.992275 t=3869
+xian 	線	c=1 d=0.0349094 t=3869
+xian chi 	先吃	c=2 d=1.49744 t=3869
+xian de 	顯得	c=2 d=0.558885 t=3869
+xian guan 	縣官	c=1 d=0.0361528 t=3869
+xian shi 	顯示	c=9 d=1.26405 t=3869
+xian shi chu 	顯示出	c=1 d=0.637628 t=3869
+xian shi qi 	顯示器	c=1 d=0.0792617 t=3869
+xian yan 	顯眼	c=1 d=0.0381969 t=3869
+xian zai 	現在	c=5 d=0.165228 t=3869
+xian zai shi shi 	現在試試	c=1 d=0.516851 t=3869
+xian zai zai shi shi 	現在在試試	c=1 d=0.519442 t=3869
+xiang 	像	c=2 d=0.841211 t=3869
+xiang 	想	c=6 d=2.03536 t=3869
+xiang 	香	c=1 d=0.995012 t=3869
+xiang chi 	想吃	c=1 d=0.878095 t=3869
+xiang dang ran 	想當然	c=1 d=0.00414854 t=3869
+xiang fa 	想法	c=1 d=0.00229965 t=3869
+xiang guan 	相關	c=8 d=0.919032 t=3869
+xiang huan hang 	想換行	c=1 d=0.955997 t=3869
+xiang mu 	項目	c=19 d=1.15641 t=3869
+xiang mu jing li 	項目經理	c=1 d=0.00644146 t=3869
+xiang mu ruan li ruan jian 	項目軟裏軟件	c=1 d=0.157237 t=3869
+xiang qing 	詳情	c=2 d=0.571209 t=3869
+xiang qing ye mian 	詳情頁面	c=1 d=0.211189 t=3869
+xiang shuo 	想說	c=1 d=0.227638 t=3869
+xiang wo 	像我	c=1 d=0.00909528 t=3869
+xiang xi 	詳細	c=4 d=0.0120683 t=3869
+xiang xiang 	想像	c=2 d=0.0081187 t=3869
+xiang xiang 	想想	c=1 d=0.0133665 t=3869
+xiao 	小	c=8 d=1.53255 t=3869
+xiao cheng xu 	小程序	c=1 d=0.0466538 t=3869
+xiao guo 	效果	c=3 d=1.04837 t=3869
+xiao huo ban 	小夥伴	c=3 d=1.93819 t=3869
+xiao lang 	小狼	c=2 d=0.539667 t=3869
+xiao lang hao 	小狼毫	c=7 d=3.76302 t=3869
+xiao shou 	銷售	c=2 d=0.0706512 t=3869
+xie 	些	c=1 d=0.140156 t=3869
+xie 	寫	c=6 d=0.92382 t=3869
+xie chu lai 	寫出來	c=1 d=0.0023461 t=3869
+xie tong 	協同	c=1 d=0.759572 t=3869
+xie yao 	謝邀	c=1 d=0.000889368 t=3869
+xie zai 	寫在	c=2 d=0.0221646 t=3869
+xin 	新	c=0 d=0.110302 t=3869
+xin ban 	新版	c=1 d=0.0564173 t=3869
+xin ban ba 	新版吧	c=1 d=0.109701 t=3869
+xin chan pin 	新產品	c=1 d=0.0623495 t=3869
+xin dai 	信貸	c=0 d=0.00862936 t=3869
+xin dai zhan zhong 	信貸戰中	c=1 d=0.0867261 t=3869
+xin de 	新的	c=1 d=0.740819 t=3869
+xin jia 	新家	c=1 d=0.086451 t=3869
+xin jian 	新建	c=1 d=0.628135 t=3869
+xin shu ru fa 	新輸入法	c=1 d=0.0547488 t=3869
+xin tong xue 	新同學	c=1 d=0.995012 t=3869
+xin wen 	新聞	c=1 d=0.145876 t=3869
+xin wen gao 	新聞稿	c=6 d=1.66034 t=3869
+xin xi 	信息	c=9 d=3.26654 t=3869
+xing le 	行了	c=1 d=0.847894 t=3869
+xing neng 	性能	c=1 d=0.798516 t=3869
+xing shi 	形式	c=3 d=1.04109 t=3869
+xing xiang 	形象	c=1 d=0.694197 t=3869
+xing zheng cun 	行政村	c=1 d=0.0977834 t=3869
+xiong mao 	熊貓	c=2 d=1.36431 t=3869
+xiu fu 	修復	c=2 d=1.10347 t=3869
+xiu gai 	修改	c=5 d=0.984198 t=3869
+xiu mian 	休眠	c=1 d=0.955997 t=3869
+xu 	虛	c=1 d=0.548812 t=3869
+xu 	需	c=3 d=0.351843 t=3869
+xu 	須	c=1 d=0.00394621 t=3869
+xu qiu 	需求	c=24 d=1.21101 t=3869
+xu yao 	須要	c=2 d=0.350718 t=3869
+xuan chuan 	宣傳	c=1 d=0.256661 t=3869
+xuan xiang 	選項	c=0 d=0.0110251 t=3869
+xuan xuan 	喧喧	c=9 d=3.08734 t=3869
+xuan ze 	選擇	c=1 d=0.311923 t=3869
+xue 	學	c=1 d=0.0632918 t=3869
+xue 	薛	c=1 d=0.0274607 t=3869
+xue xi 	學習	c=5 d=1.40522 t=3869
+ya ya 	呀呀	c=1 d=0.68045 t=3869
+yan 	演	c=1 d=0.509156 t=3869
+yan fa 	研發	c=6 d=0.0601883 t=3869
+yan fa wei hu 	研發維護	c=1 d=0.00848038 t=3869
+yan jiu 	研究	c=4 d=1.2196 t=3869
+yan qi 	延期	c=2 d=0.0173287 t=3869
+yan se 	顏色	c=2 d=0.124426 t=3869
+yan shi 	演示	c=5 d=2.17782 t=3869
+yan tai 	煙臺	c=0 d=0.00566989 t=3869
+yan tai ge 	煙臺個	c=1 d=0.0569831 t=3869
+yang 	樣	c=1 d=0.170333 t=3869
+yang shi 	央視	c=1 d=0.211189 t=3869
+yang shi 	樣式	c=4 d=1.33104 t=3869
+yang wo 	仰臥	c=1 d=0.985112 t=3869
+yang zi 	樣子	c=1 d=0.272532 t=3869
+yao 	要	c=10 d=1.45782 t=3869
+yao qing 	邀請	c=11 d=2.14657 t=3869
+yao qiu 	要求	c=1 d=0.00396599 t=3869
+yao zuo 	要做	c=1 d=0.00538036 t=3869
+ye 	也	c=8 d=2.5645 t=3869
+ye 	頁	c=4 d=0.852368 t=3869
+ye bie 	也別	c=2 d=0.0247396 t=3869
+ye mian 	頁面	c=15 d=3.1597 t=3869
+ye shi 	也是	c=1 d=0.173774 t=3869
+ye wu 	業務	c=1 d=0.054204 t=3869
+ye xing 	也行	c=1 d=0.588605 t=3869
+ye yu 	業餘	c=2 d=0.0179253 t=3869
+yi 	一	c=1 d=0.00285124 t=3869
+yi 	亦	c=1 d=0.00191125 t=3869
+yi 	以	c=2 d=0.00726104 t=3869
+yi 	億	c=1 d=0.00190171 t=3869
+yi 	奕	c=4 d=0.123533 t=3869
+yi 	已	c=2 d=1.12301 t=3869
+yi 	易	c=1 d=0.0692522 t=3869
+yi bian 	一邊	c=1 d=0.282239 t=3869
+yi bian 	以便	c=1 d=0.677057 t=3869
+yi ci 	依次	c=1 d=0.00130703 t=3869
+yi dian 	一點	c=2 d=0.798516 t=3869
+yi dian dian 	一點點	c=1 d=0.0243554 t=3869
+yi ding 	一定	c=2 d=0.0044086 t=3869
+yi dong 	移動	c=0 d=0.0726149 t=3869
+yi dong duan 	移動端	c=2 d=0.729789 t=3869
+yi fu 	一副	c=1 d=0.138069 t=3869
+yi ge 	一個	c=10 d=1.24269 t=3869
+yi ge kuan 	一個款	c=1 d=0.0488012 t=3869
+yi ge ren 	一個人	c=1 d=0.0213864 t=3869
+yi ge yue 	一個月	c=1 d=0.00484407 t=3869
+yi hang 	一行	c=1 d=0.697676 t=3869
+yi hui 	一會	c=1 d=0.105928 t=3869
+yi ji 	以及	c=4 d=0.06327 t=3869
+yi jia 	一家	c=1 d=0.113042 t=3869
+yi jian 	一鍵	c=1 d=0.0515605 t=3869
+yi jing 	已經	c=3 d=0.960257 t=3869
+yi ju 	一句	c=1 d=0.00147367 t=3869
+yi ju hua 	一句話	c=1 d=0.591555 t=3869
+yi kuai 	一塊	c=2 d=0.106459 t=3869
+yi kuan 	一款	c=1 d=0.142987 t=3869
+yi lan 	一覽	c=1 d=0.199888 t=3869
+yi ping 	一瓶	c=0 d=0.0120633 t=3869
+yi qi 	一起	c=3 d=0.480958 t=3869
+yi quan 	一圈	c=1 d=0.102797 t=3869
+yi tian 	一天	c=1 d=0.0153752 t=3869
+yi wei 	以爲	c=1 d=0.733447 t=3869
+yi xia 	一下	c=3 d=1.22347 t=3869
+yi xia ao 	一下奧	c=1 d=0.000735471 t=3869
+yi xiang 	意向	c=2 d=0.971423 t=3869
+yi xie 	一些	c=1 d=0.0383884 t=3869
+yi yi 	一一	c=1 d=0.0131019 t=3869
+yi zhang 	一張	c=1 d=0.139457 t=3869
+yin qing 	引擎	c=2 d=0.946486 t=3869
+yin wei 	因爲	c=2 d=0.923116 t=3869
+yin xiang 	印象	c=1 d=0.514274 t=3869
+yin ying 	陰影	c=1 d=0.0862936 t=3869
+ying gai 	應該	c=3 d=0.130466 t=3869
+ying she 	映射	c=3 d=1.07966 t=3869
+ying wen 	英文	c=3 d=0.939712 t=3869
+ying xiang 	影響	c=1 d=0.0972957 t=3869
+ying yong 	應用	c=1 d=0.995012 t=3869
+yo 	喲	c=1 d=0.532592 t=3869
+yong 	用	c=16 d=1.08135 t=3869
+yong guo 	用過	c=0 d=0.00136366 t=3869
+yong hu 	用戶	c=14 d=1.99137 t=3869
+yong hu ming 	用戶名	c=1 d=0.0415857 t=3869
+yong na 	用哪	c=1 d=0.0629761 t=3869
+yong yuan 	永遠	c=1 d=0.0211736 t=3869
+you 	又	c=2 d=0.865022 t=3869
+you 	有	c=27 d=3.12479 t=3869
+you ge 	有個	c=2 d=0.255381 t=3869
+you hua 	優化	c=23 d=4.12163 t=3869
+you hua wan shan 	優化完善	c=1 d=0.0184997 t=3869
+you ji 	右擊	c=2 d=0.610013 t=3869
+you ji 	郵寄	c=2 d=0.274076 t=3869
+you le 	有了	c=1 d=0.67032 t=3869
+you mu 	遊牧	c=0 d=0.00800583 t=3869
+you mu you 	遊牧有	c=2 d=0.161322 t=3869
+you qi 	尤其	c=2 d=0.0848237 t=3869
+you suo 	有所	c=1 d=0.00100779 t=3869
+you xiang 	郵箱	c=1 d=0.0389686 t=3869
+you xiao 	有效	c=1 d=0.123687 t=3869
+yu 	與	c=4 d=0.718924 t=3869
+yu dao 	遇到	c=1 d=0.847893 t=3869
+yu gu 	預估	c=1 d=0.0071546 t=3869
+yu lan 	預覽	c=1 d=0.285076 t=3869
+yu liu 	預留	c=2 d=0.0675828 t=3869
+yuan 	元	c=1 d=0.256661 t=3869
+yuan ma 	源碼	c=0 d=0.0367879 t=3869
+yuan ma bao 	源碼包	c=1 d=0.369723 t=3869
+yuan xian 	原先	c=1 d=0.107528 t=3869
+yuan yin 	原因	c=1 d=0.0923116 t=3869
+yue 	悅	c=1 d=0.102284 t=3869
+yue 	月	c=2 d=0.551563 t=3869
+yue lai yue 	越來越	c=1 d=0.0248475 t=3869
+yun 	運	c=3 d=0.299071 t=3869
+yun 	雲	c=3 d=0.767206 t=3869
+yun xing 	運行	c=6 d=5.62356 t=3869
+za 	砸	c=1 d=0.127454 t=3869
+za 	雜	c=1 d=0.373439 t=3869
+za luan 	雜亂	c=2 d=0.748147 t=3869
+zai 	再	c=6 d=1.33465 t=3869
+zai 	在	c=20 d=2.28224 t=3869
+zai kan xia 	在看下	c=1 d=0.45612 t=3869
+zai na 	在哪	c=1 d=0.19593 t=3869
+zai na li 	在哪裏	c=1 d=0.618783 t=3869
+zai shi shi 	在試試	c=2 d=0.12979 t=3869
+zai xian 	在線	c=1 d=0.0428521 t=3869
+zai zhe 	再者	c=1 d=0.000569928 t=3869
+zan 	讚	c=0 d=0.0197899 t=3869
+zan yi ge 	讚一個	c=1 d=0.198891 t=3869
+ze 	則	c=2 d=1.11804 t=3869
+zen me 	怎麼	c=4 d=0.493193 t=3869
+zen me hui 	怎麼會	c=1 d=0.755783 t=3869
+zen me hui shi 	怎麼回事	c=1 d=0.771052 t=3869
+zen me yang 	怎麼樣	c=2 d=0.117153 t=3869
+zhan 	站	c=4 d=1.04707 t=3869
+zhan dian 	站點	c=3 d=1.61307 t=3869
+zhan dou 	戰鬥	c=1 d=0.0216013 t=3869
+zhan lve 	戰略	c=1 d=0.380983 t=3869
+zhan nei 	站內	c=0 d=0.0748264 t=3869
+zhan nei wai 	站內外	c=1 d=0.752014 t=3869
+zhan shi 	展示	c=4 d=0.781161 t=3869
+zhan shi 	戰士	c=1 d=0.0695994 t=3869
+zhan xian 	展現	c=2 d=0.107062 t=3869
+zhan yong 	佔用	c=1 d=0.0352602 t=3869
+zhan zhong 	戰中	c=0 d=0.00862936 t=3869
+zhang 	長	c=1 d=0.628135 t=3869
+zhang hao 	帳號	c=2 d=0.600496 t=3869
+zhang hu 	賬戶	c=1 d=0.0380064 t=3869
+zhang wo 	掌握	c=1 d=0.980199 t=3869
+zhao 	兆	c=1 d=0.532592 t=3869
+zhao 	找	c=1 d=0.315058 t=3869
+zhao 	着	c=1 d=0.529935 t=3869
+zhao ji hui 	找機會	c=1 d=0.683861 t=3869
+zhao pin 	招聘	c=3 d=1.51322 t=3869
+zhao ren 	招人	c=2 d=0.079119 t=3869
+zhao ta 	找他	c=1 d=0.818731 t=3869
+zhe 	這	c=6 d=0.788847 t=3869
+zhe bian 	這邊	c=1 d=0.744532 t=3869
+zhe die 	摺疊	c=3 d=0.991571 t=3869
+zhe ge 	這個	c=26 d=2.51183 t=3869
+zhe ge fan er 	這個反而	c=1 d=0.822835 t=3869
+zhe ge mo ren zhu 	這個默認住	c=1 d=0.0833256 t=3869
+zhe ge tai 	這個太	c=1 d=0.084163 t=3869
+zhe ge zhu ti 	這個主題	c=1 d=0.0590129 t=3869
+zhe jiu 	這就	c=1 d=0.00390694 t=3869
+zhe li 	這裏	c=4 d=0.687289 t=3869
+zhe li shi 	這裏是	c=2 d=0.639065 t=3869
+zhe liang hang 	這兩行	c=2 d=0.127853 t=3869
+zhe liang tian 	這兩天	c=1 d=0.135335 t=3869
+zhe me 	這麼	c=1 d=0.486752 t=3869
+zhe pian 	這篇	c=2 d=1.39312 t=3869
+zhe qi 	這期	c=6 d=0.0649717 t=3869
+zhe ren 	這人	c=1 d=0.594521 t=3869
+zhe shi 	這事	c=2 d=1.22564 t=3869
+zhe shi 	這是	c=2 d=0.895834 t=3869
+zhe shi yi ge 	這是一個	c=1 d=0.0515604 t=3869
+zhe teng 	折騰	c=1 d=0.489192 t=3869
+zhe xie 	這些	c=2 d=0.344728 t=3869
+zhe xie nian 	這些年	c=1 d=0.125556 t=3869
+zhe yang 	這樣	c=1 d=0.00914087 t=3869
+zhe yi bu 	這一步	c=2 d=0.0119522 t=3869
+zhe zhong 	這種	c=3 d=0.546074 t=3869
+zhen 	真	c=1 d=0.679793 t=3869
+zhen 	臻	c=1 d=0.0287246 t=3869
+zhen de 	真的	c=1 d=0.0752015 t=3869
+zhen de ting bu cuo 	真的挺不錯	c=1 d=0.755784 t=3869
+zhen hao a 	真好啊	c=1 d=0.97531 t=3869
+zhen zheng 	真正	c=1 d=0.00406639 t=3869
+zheng 	整	c=1 d=0.240508 t=3869
+zheng chang 	正常	c=3 d=0.873716 t=3869
+zheng de 	整得	c=1 d=0.131994 t=3869
+zheng ge 	整個	c=2 d=1.25401 t=3869
+zheng li 	整理	c=10 d=1.27655 t=3869
+zheng li xu qiu 	整理需求	c=2 d=0.00252277 t=3869
+zheng ti 	整體	c=3 d=0.00335566 t=3869
+zhi 	之	c=2 d=1.11703 t=3869
+zhi 	只	c=1 d=0.000515692 t=3869
+zhi chi 	支持	c=12 d=2.93502 t=3869
+zhi ding 	制定	c=3 d=0.00815488 t=3869
+zhi ding 	指定	c=4 d=0.618741 t=3869
+zhi ding 	置頂	c=1 d=0.486752 t=3869
+zhi fu 	支付	c=1 d=0.0356146 t=3869
+zhi gen zhi di 	知根知底	c=1 d=0.00410726 t=3869
+zhi hu 	知乎	c=1 d=0.0277367 t=3869
+zhi hui 	智慧	c=1 d=0.0569831 t=3869
+zhi jie 	直接	c=5 d=0.873716 t=3869
+zhi neng 	只能	c=2 d=0.108609 t=3869
+zhi pai 	指派	c=1 d=0.00782838 t=3869
+zhi qian 	之前	c=2 d=1.67477 t=3869
+zhi shi 	只是	c=2 d=0.059674 t=3869
+zhi xing 	執行	c=1 d=0.955998 t=3869
+zhi xu 	只需	c=1 d=0.960789 t=3869
+zhong 	中	c=8 d=0.82032 t=3869
+zhong dian 	重點	c=1 d=0.0168928 t=3869
+zhong me 	腫麼	c=1 d=0.000754089 t=3869
+zhong wen 	中文	c=5 d=0.784662 t=3869
+zhong wen ban 	中文版	c=3 d=1.16365 t=3869
+zhong xin 	中心	c=2 d=0.146607 t=3869
+zhong yao 	重要	c=1 d=0.250324 t=3869
+zhou 	周	c=3 d=0.0219228 t=3869
+zhou qi 	週期	c=1 d=0.00283702 t=3869
+zhu 	住	c=0 d=0.008291 t=3869
+zhu ce 	註冊	c=2 d=0.180429 t=3869
+zhu ce biao 	註冊表	c=1 d=0.0867261 t=3869
+zhu ce ji 	註冊機	c=1 d=0.856415 t=3869
+zhu gan 	主幹	c=1 d=0.0219278 t=3869
+zhu li 	助理	c=1 d=0.122456 t=3869
+zhu ti 	主題	c=7 d=1.83756 t=3869
+zhu ti 	豬蹄	c=1 d=0.0561348 t=3869
+zhu yao 	主要	c=2 d=0.26424 t=3869
+zhu yi 	注意	c=2 d=0.152453 t=3869
+zhuan 	轉	c=2 d=0.19062 t=3869
+zhuan qu 	專區	c=1 d=0.895834 t=3869
+zhuan ye ban 	專業版	c=8 d=1.60649 t=3869
+zhuang shi 	裝飾	c=1 d=0.67032 t=3869
+zhuang tai 	狀態	c=1 d=0.818731 t=3869
+zhun bei 	準備	c=1 d=0.0159229 t=3869
+zhun shi 	準時	c=1 d=0.609571 t=3869
+zhuo mian 	桌面	c=1 d=0.109701 t=3869
+zhuo zhuang 	茁壯	c=1 d=0.0250972 t=3869
+zi 	子	c=1 d=0.265418 t=3869
+zi dong 	自動	c=1 d=0.980199 t=3869
+zi dong hua 	自動化	c=1 d=0.900325 t=3869
+zi hao 	字號	c=3 d=0.789971 t=3869
+zi ji 	自己	c=17 d=0.568357 t=3869
+zi liao 	資料	c=1 d=1 t=3869
+zi mu 	字母	c=1 d=0.88692 t=3869
+zi ren wu 	子任務	c=2 d=0.893236 t=3869
+zi ti 	字體	c=2 d=0.121811 t=3869
+zi xing 	自行	c=1 d=0.362402 t=3869
+zi xu qiu 	子需求	c=2 d=0.480559 t=3869
+zi xun 	諮詢	c=13 d=1.58851 t=3869
+zi yang 	字樣	c=4 d=1.33733 t=3869
+zi you 	自由	c=1 d=0.0100518 t=3869
+zong 	總	c=2 d=1.01877 t=3869
+zong jie 	總結	c=4 d=0.0534128 t=3869
+zong wen 	縱紋	c=0 d=0.00520787 t=3869
+zou 	鄒	c=1 d=0.527292 t=3869
+zou ba 	走吧	c=1 d=0.0682212 t=3869
+zou le 	走了	c=2 d=1.66223 t=3869
+zu guo 	祖國	c=2 d=1.74537 t=3869
+zu jian 	組件	c=1 d=0.882497 t=3869
+zu wo 	組我	c=1 d=0.955997 t=3869
+zu zhi 	阻止	c=1 d=0.932393 t=3869
+zui hao 	最好	c=1 d=0.0407622 t=3869
+zui hou 	最後	c=2 d=0.0348659 t=3869
+zui jin 	最近	c=2 d=0.00740829 t=3869
+zuo 	做	c=4 d=0.872288 t=3869
+zuo bu zhu 	坐不住	c=1 d=0.818731 t=3869
+zuo cheng 	做成	c=2 d=0.0518433 t=3869
+zuo de 	做的	c=1 d=0.869358 t=3869
+zuo qi lai 	做起來	c=2 d=1.15445 t=3869
+zuo tan hui 	座談會	c=1 d=0.83527 t=3869
+zuo wan 	昨晚	c=1 d=0.254107 t=3869
+zuo wei 	作爲	c=4 d=1.67745 t=3869
+一個 	yi ge 	c=0 d=0 t=3869
+一個款 	yi ge kuan 	c=0 d=0 t=3869
+一句話 	yi ju hua 	c=0 d=0 t=3869
+一圈 	yi quan 	c=0 d=0 t=3869
+一塊 	yi kuai 	c=0 d=0 t=3869
+一會 	yi hui 	c=0 d=0 t=3869
+一款 	yi kuan 	c=0 d=0 t=3869
+一瓶 	yi ping 	c=0 d=0 t=3869
+一覽 	yi lan 	c=0 d=0 t=3869
+一邊 	yi bian 	c=0 d=0 t=3869
+一鍵 	yi jian 	c=0 d=0 t=3869
+一點 	yi dian 	c=0 d=0 t=3869
+七千 	qi qian 	c=0 d=0 t=3869
+三大 	san da 	c=0 d=0 t=3869
+三萬七千 	san wan qi qian 	c=0 d=0 t=3869
+三號 	san hao 	c=0 d=0 t=3869
+三號標題 	san hao biao ti 	c=0 d=0 t=3869
+上 	shang 	c=0 d=0 t=3869
+上下 	shang xia 	c=0 d=0 t=3869
+上夸克 	shang kua ke 	c=0 d=0 t=3869
+上屏 	shang ping 	c=0 d=0 t=3869
+上帝教 	shang di jiao 	c=0 d=0 t=3869
+上次 	shang ci 	c=0 d=0 t=3869
+上籃得分 	shang lan de fen 	c=0 d=0 t=3869
+上籃得分卡 	shang lan de fen ka 	c=0 d=0 t=3869
+上網 	shang wang 	c=0 d=0 t=3869
+上線 	shang xian 	c=0 d=0 t=3869
+上線後 	shang xian hou 	c=0 d=0 t=3869
+上面 	shang mian 	c=0 d=0 t=3869
+下 	xia 	c=0 d=0 t=3869
+下次 	xia ci 	c=0 d=0 t=3869
+下班 	xia ban 	c=0 d=0 t=3869
+下班後 	xia ban hou 	c=0 d=0 t=3869
+下線 	xia xian 	c=0 d=0 t=3869
+下載 	xia zai 	c=0 d=0 t=3869
+不 	bu 	c=0 d=0 t=3869
+不下 	bu xia 	c=0 d=0 t=3869
+不下你是 	bu xia ni shi 	c=0 d=0 t=3869
+不再 	bu zai 	c=0 d=0 t=3869
+不再麼 	bu zai me 	c=0 d=0 t=3869
+不包括 	bu bao kuo 	c=0 d=0 t=3869
+不太 	bu tai 	c=0 d=0 t=3869
+不好 	bu hao 	c=0 d=0 t=3869
+不妨 	bu fang 	c=0 d=0 t=3869
+不應該 	bu ying gai 	c=0 d=0 t=3869
+不是 	bu shi 	c=0 d=0 t=3869
+不用 	bu yong 	c=0 d=0 t=3869
+不知道 	bu zhi dao 	c=0 d=0 t=3869
+不能 	bu neng 	c=0 d=0 t=3869
+不裝 	bu zhuang 	c=0 d=0 t=3869
+不過 	bu guo 	c=0 d=0 t=3869
+不錯 	bu cuo 	c=0 d=0 t=3869
+不顯示 	bu xian shi 	c=0 d=0 t=3869
+並 	bing 	c=0 d=0 t=3869
+中 	zhong 	c=0 d=0 t=3869
+中心 	zhong xin 	c=0 d=0 t=3869
+中文 	zhong wen 	c=0 d=0 t=3869
+中文版 	zhong wen ban 	c=0 d=0 t=3869
+丹尼爾 	dan ni er 	c=0 d=0 t=3869
+主題 	zhu ti 	c=0 d=0 t=3869
+之 	zhi 	c=0 d=0 t=3869
+也 	ye 	c=0 d=0 t=3869
+也是 	ye shi 	c=0 d=0 t=3869
+乾的 	gan de 	c=0 d=0 t=3869
+了 	le 	c=0 d=0 t=3869
+了快遞費 	le kuai di fei 	c=0 d=0 t=3869
+了是快遞費 	le shi kuai di fei 	c=0 d=0 t=3869
+事事 	shi shi 	c=0 d=0 t=3869
+事實上 	shi shi shang 	c=0 d=0 t=3869
+事發地點 	shi fa de dian 	c=0 d=0 t=3869
+二 	er 	c=0 d=0 t=3869
+些 	xie 	c=0 d=0 t=3869
+交流 	jiao liu 	c=0 d=0 t=3869
+京東方 	jing dong fang 	c=0 d=0 t=3869
+亮 	liang 	c=0 d=0 t=3869
+人 	ren 	c=0 d=0 t=3869
+人大 	ren da 	c=0 d=0 t=3869
+什麼 	shen me 	c=0 d=0 t=3869
+今天 	jin tian 	c=0 d=0 t=3869
+今天我們 	jin tian wo men 	c=0 d=0 t=3869
+今年 	jin nian 	c=0 d=0 t=3869
+今晚 	jin wan 	c=0 d=0 t=3869
+介紹 	jie shao 	c=0 d=0 t=3869
+他 	ta 	c=0 d=0 t=3869
+他說 	ta shuo 	c=0 d=0 t=3869
+代付款 	dai fu kuan 	c=0 d=0 t=3869
+代付款了 	dai fu kuan le 	c=0 d=0 t=3869
+代付款了是快遞費 	dai fu kuan le shi kuai di fei 	c=0 d=0 t=3869
+代付款士大夫 	dai fu kuan shi da fu 	c=0 d=0 t=3869
+代付款端口 	dai fu kuan duan kou 	c=0 d=0 t=3869
+代付款零零落落零零落落零零落落 	dai fu kuan ling ling luo luo ling ling luo luo ling ling luo luo 	c=0 d=0 t=3869
+代價 	dai jia 	c=0 d=0 t=3869
+代理商 	dai li shang 	c=0 d=0 t=3869
+代理商快遞費家 	dai li shang kuai di fei jia 	c=0 d=0 t=3869
+代表 	dai biao 	c=0 d=0 t=3869
+以及 	yi ji 	c=0 d=0 t=3869
+以爲 	yi wei 	c=0 d=0 t=3869
+仰臥 	yang wo 	c=0 d=0 t=3869
+任務 	ren wu 	c=0 d=0 t=3869
+任務列表 	ren wu lie biao 	c=0 d=0 t=3869
+任務欄 	ren wu lan 	c=0 d=0 t=3869
+企業 	qi ye 	c=0 d=0 t=3869
+企業門戶 	qi ye men hu 	c=0 d=0 t=3869
+休眠 	xiu mian 	c=0 d=0 t=3869
+估計 	gu ji 	c=0 d=0 t=3869
+似懂非懂 	si dong fei dong 	c=0 d=0 t=3869
+但 	dan 	c=0 d=0 t=3869
+位置 	wei zhi 	c=0 d=0 t=3869
+低 	di 	c=0 d=0 t=3869
+低等動物 	di deng dong wu 	c=0 d=0 t=3869
+低級 	di ji 	c=0 d=0 t=3869
+住 	zhu 	c=0 d=0 t=3869
+佔用 	zhan yong 	c=0 d=0 t=3869
+你 	ni 	c=0 d=0 t=3869
+你們 	ni men 	c=0 d=0 t=3869
+你是 	ni shi 	c=0 d=0 t=3869
+使用 	shi yong 	c=0 d=0 t=3869
+來 	lai 	c=0 d=0 t=3869
+來公司 	lai gong si 	c=0 d=0 t=3869
+來看 	lai kan 	c=0 d=0 t=3869
+信息 	xin xi 	c=0 d=0 t=3869
+信貸 	xin dai 	c=0 d=0 t=3869
+信貸戰中 	xin dai zhan zhong 	c=0 d=0 t=3869
+修復 	xiu fu 	c=0 d=0 t=3869
+修改 	xiu gai 	c=0 d=0 t=3869
+個 	ge 	c=0 d=0 t=3869
+個人 	ge ren 	c=0 d=0 t=3869
+個數 	ge shu 	c=0 d=0 t=3869
+們 	men 	c=0 d=0 t=3869
+們的 	men de 	c=0 d=0 t=3869
+候選 	hou xuan 	c=0 d=0 t=3869
+候選詞 	hou xuan ci 	c=0 d=0 t=3869
+借個 	jie ge 	c=0 d=0 t=3869
+借個圖 	jie ge tu 	c=0 d=0 t=3869
+倭 	wo 	c=0 d=0 t=3869
+偉大 	wei da 	c=0 d=0 t=3869
+做 	zuo 	c=0 d=0 t=3869
+做成 	zuo cheng 	c=0 d=0 t=3869
+做起來 	zuo qi lai 	c=0 d=0 t=3869
+備份 	bei fen 	c=0 d=0 t=3869
+傳 	chuan 	c=0 d=0 t=3869
+傳了 	chuan le 	c=0 d=0 t=3869
+僅提供 	jin ti gong 	c=0 d=0 t=3869
+僅爲 	jin wei 	c=0 d=0 t=3869
+優化 	you hua 	c=0 d=0 t=3869
+元 	yuan 	c=0 d=0 t=3869
+充大了 	chong da le 	c=0 d=0 t=3869
+兆 	zhao 	c=0 d=0 t=3869
+先 	xian 	c=0 d=0 t=3869
+先吃 	xian chi 	c=0 d=0 t=3869
+光標 	guang biao 	c=0 d=0 t=3869
+光污染 	guang wu ran 	c=0 d=0 t=3869
+克里夫 	ke li fu 	c=0 d=0 t=3869
+克里斯 	ke li si 	c=0 d=0 t=3869
+克里斯喀噠簡繁 	ke li si ka da jian fan 	c=0 d=0 t=3869
+兒子 	er zi 	c=0 d=0 t=3869
+入門 	ru men 	c=0 d=0 t=3869
+內容 	nei rong 	c=0 d=0 t=3869
+全部 	quan bu 	c=0 d=0 t=3869
+兩位 	liang wei 	c=0 d=0 t=3869
+兩地分居 	liang de fen ju 	c=0 d=0 t=3869
+兩行 	liang hang 	c=0 d=0 t=3869
+公司 	gong si 	c=0 d=0 t=3869
+公衆 	gong zhong 	c=0 d=0 t=3869
+公衆號 	gong zhong hao 	c=0 d=0 t=3869
+其 	qi 	c=0 d=0 t=3869
+具體 	ju ti 	c=0 d=0 t=3869
+再 	zai 	c=0 d=0 t=3869
+冰雹 	bing bao 	c=0 d=0 t=3869
+凱撒醬 	kai sa jiang 	c=0 d=0 t=3869
+凹凹 	wa ao 	c=0 d=0 t=3869
+分 	fen 	c=0 d=0 t=3869
+分店 	fen dian 	c=0 d=0 t=3869
+分期 	fen qi 	c=0 d=0 t=3869
+切換 	qie huan 	c=0 d=0 t=3869
+列表 	lie biao 	c=0 d=0 t=3869
+初始化 	chu shi hua 	c=0 d=0 t=3869
+別 	bie 	c=0 d=0 t=3869
+到 	dao 	c=0 d=0 t=3869
+刻錄機 	ke lu ji 	c=0 d=0 t=3869
+刻錄機沃恩 	ke lu ji wo en 	c=0 d=0 t=3869
+刻錄機范德薩 	ke lu ji fan de sa 	c=0 d=0 t=3869
+則 	ze 	c=0 d=0 t=3869
+剎住 	sha zhu 	c=0 d=0 t=3869
+剎住車 	sha zhu che 	c=0 d=0 t=3869
+功能 	gong neng 	c=0 d=0 t=3869
+加 	jia 	c=0 d=0 t=3869
+動畫 	dong hua 	c=0 d=0 t=3869
+動身前往 	dong shen qian wang 	c=0 d=0 t=3869
+勞動法 	lao dong fa 	c=0 d=0 t=3869
+包 	bao 	c=0 d=0 t=3869
+包括 	bao kuo 	c=0 d=0 t=3869
+十四 	shi si 	c=0 d=0 t=3869
+半天 	ban tian 	c=0 d=0 t=3869
+卡 	ka 	c=0 d=0 t=3869
+卡具 	ka ju 	c=0 d=0 t=3869
+卡卡 	ka ka 	c=0 d=0 t=3869
+印象 	yin xiang 	c=0 d=0 t=3869
+即可 	ji ke 	c=0 d=0 t=3869
+即時即地 	ji shi ji di 	c=0 d=0 t=3869
+原因 	yuan yin 	c=0 d=0 t=3869
+去 	qu 	c=0 d=0 t=3869
+參照 	can zhao 	c=0 d=0 t=3869
+參考價 	shen kao jia 	c=0 d=0 t=3869
+又 	you 	c=0 d=0 t=3869
+及 	ji 	c=0 d=0 t=3869
+反反覆覆 	fan fan fu fu 	c=0 d=0 t=3869
+反反覆覆反反覆覆反反覆覆方法發地方 	fan fan fu fu fan fan fu fu fan fan fu fu fang fa fa di fang 	c=0 d=0 t=3869
+反射 	fan she 	c=0 d=0 t=3869
+反而 	fan er 	c=0 d=0 t=3869
+口袋 	kou dai 	c=0 d=0 t=3869
+口袋裏 	kou dai li 	c=0 d=0 t=3869
+只能 	zhi neng 	c=0 d=0 t=3869
+可 	ke 	c=0 d=0 t=3869
+可以 	ke yi 	c=0 d=0 t=3869
+可考慮 	ke kao lv 	c=0 d=0 t=3869
+可能 	ke neng 	c=0 d=0 t=3869
+史萊克 	shi lai ke 	c=0 d=0 t=3869
+司法獨立 	si fa du li 	c=0 d=0 t=3869
+司法獨立看看 	si fa du li kan kan 	c=0 d=0 t=3869
+吃 	chi 	c=0 d=0 t=3869
+各位 	ge wei 	c=0 d=0 t=3869
+各地 	ge di 	c=0 d=0 t=3869
+吉祥物 	ji xiang wu 	c=0 d=0 t=3869
+吊襪帶 	diao wa dai 	c=0 d=0 t=3869
+名 	ming 	c=0 d=0 t=3869
+名稱 	ming cheng 	c=0 d=0 t=3869
+吧 	ba 	c=0 d=0 t=3869
+呀呀 	ya ya 	c=0 d=0 t=3869
+呢 	ne 	c=0 d=0 t=3869
+和 	he 	c=0 d=0 t=3869
+咖啡店 	ka fei dian 	c=0 d=0 t=3869
+咯 	lo 	c=0 d=0 t=3869
+哇哇地 	wa wa de 	c=0 d=0 t=3869
+哇哈哈哈 	wa ha ha ha 	c=0 d=0 t=3869
+哈哈哈哈 	ha ha ha ha 	c=0 d=0 t=3869
+哎呀 	ai ya 	c=0 d=0 t=3869
+哦 	o 	c=0 d=0 t=3869
+哦哦 	o o 	c=0 d=0 t=3869
+哪個 	na ge 	c=0 d=0 t=3869
+哪有 	na you 	c=0 d=0 t=3869
+哪裏 	na li 	c=0 d=0 t=3869
+啊 	a 	c=0 d=0 t=3869
+啊啊 	a a 	c=0 d=0 t=3869
+啊啊啊 	a a a 	c=0 d=0 t=3869
+啊啊啊啊 	a a a a 	c=0 d=0 t=3869
+啊啊啊啊大窪嗚嗚嗚娃娃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大窪大大的蛙人啊啊啊啊啊啊啊阿佤嗚嗚嗚頂頂頂頂大大阿佤期期艾艾啊啊啊啊對我說生生世世撒旦未娶妻啊大窪嗚嗚嗚哇哇地搭撒挖大嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚維薩瓦當文 	a a a a da wa wu wu wu wa wa a a a a a a a a a a a a a a a a da wa da da de wa ren a a a a a a a a wa wu wu wu ding ding ding ding da da a wa qi qi ai ai a a a a dui wo shuo sheng sheng shi shi sa dan wei qu qi a da wa wu wu wu wa wa de da sa wa da wu wu wu wu wu wu wu wu wu wu wu wu wei sa wa dang wen 	c=0 d=0 t=3869
+啊啊啊啊爲 	a a a a wei 	c=0 d=0 t=3869
+啊啊啊啊阿佤啊啊灑灑單位得到 	a a a a a wa a a sa sa dan wei de dao 	c=0 d=0 t=3869
+啊啊大窪大窪 	a a da wa da wa 	c=0 d=0 t=3869
+啊大大的大蘇打啊啊愛人瓦 	a da da de da su da a a ai ren wa 	c=0 d=0 t=3869
+啊滴滴答答大大偉大安德森大人艾奧瓦當世無敵的 	a di di da da da da wei da an de sen da ren ai ao wa dang shi wu di de 	c=0 d=0 t=3869
+啊灑灑窪然阿達大威德 	a sa sa wa ran a da da wei de 	c=0 d=0 t=3869
+問問 	wen wen 	c=0 d=0 t=3869
+問題 	wen ti 	c=0 d=0 t=3869
+啓動 	qi dong 	c=0 d=0 t=3869
+啥 	sha 	c=0 d=0 t=3869
+啥意思 	sha yi si 	c=0 d=0 t=3869
+喀噠 	ka da 	c=0 d=0 t=3869
+喀噠浪費 	ka da lang fei 	c=0 d=0 t=3869
+喀噠簡繁 	ka da jian fan 	c=0 d=0 t=3869
+喜歡 	xi huan 	c=0 d=0 t=3869
+喧喧 	xuan xuan 	c=0 d=0 t=3869
+單位 	dan wei 	c=0 d=0 t=3869
+單位如果水溶溶 	dan wei ru guo shui rong rong 	c=0 d=0 t=3869
+單獨 	dan du 	c=0 d=0 t=3869
+單獨發地方 	dan du fa di fang 	c=0 d=0 t=3869
+嗚嗚嗚 	wu wu wu 	c=0 d=0 t=3869
+嗚嗚嗚嗚嗚嗚嗚嗚嗚三萬七千斤斤計較大家七千啊啊啊 	wu wu wu wu wu wu wu wu wu san wan qi qian jin jin ji jiao da jia qi qian a a a 	c=0 d=0 t=3869
+嗚嗚嗚嗚嗚嗚武威地區單位望聞問切大大全部 	wu wu wu wu wu wu wu wei de qu dan wei wang wen wen qie da da quan bu 	c=0 d=0 t=3869
+嗚嗚嗚嗚嗚嗚爲嗚嗚嗚挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊文件夾嗚嗚嗚嗚嗚嗚嗚嗚嗚窪然頂頂頂頂頂頂頂頂大大的調出 	wu wu wu wu wu wu wei wu wu wu wa da a a a a a a a a a a a a a a a a a a a a wen jian jia wu wu wu wu wu wu wu wu wu wa ran ding ding ding ding ding ding ding ding da da de diao chu 	c=0 d=0 t=3869
+嗯嗯 	en en 	c=0 d=0 t=3869
+嗲 	dia 	c=0 d=0 t=3869
+嘎然 	ga ran 	c=0 d=0 t=3869
+嘎然溶溶蕩蕩頂頂頂頂頂頂頂頂無污染搭撒艾奧瓦撒凹凹版本 	ga ran rong rong dang dang ding ding ding ding ding ding ding ding wu wu ran da sa ai ao wa sa wa ao ban ben 	c=0 d=0 t=3869
+四 	si 	c=0 d=0 t=3869
+四大發明 	si da fa ming 	c=0 d=0 t=3869
+四大皆空 	si da jie kong 	c=0 d=0 t=3869
+四季豆腐 	si ji dou fu 	c=0 d=0 t=3869
+回去 	hui qu 	c=0 d=0 t=3869
+回覆 	hui fu 	c=0 d=0 t=3869
+因爲 	yin wei 	c=0 d=0 t=3869
+國際 	guo ji 	c=0 d=0 t=3869
+圖 	tu 	c=0 d=0 t=3869
+圖文 	tu wen 	c=0 d=0 t=3869
+圖標 	tu biao 	c=0 d=0 t=3869
+在 	zai 	c=0 d=0 t=3869
+在哪 	zai na 	c=0 d=0 t=3869
+在看下 	zai kan xia 	c=0 d=0 t=3869
+在試試 	zai shi shi 	c=0 d=0 t=3869
+地址 	di zhi 	c=0 d=0 t=3869
+地方 	di fang 	c=0 d=0 t=3869
+地方士大夫 	di fang shi da fu 	c=0 d=0 t=3869
+地方士大夫士大夫 	di fang shi da fu shi da fu 	c=0 d=0 t=3869
+地方大幅度 	di fang da fu du 	c=0 d=0 t=3869
+地方范德薩 	di fang fan de sa 	c=0 d=0 t=3869
+地方設定 	di fang she ding 	c=0 d=0 t=3869
+地盤 	di pan 	c=0 d=0 t=3869
+坐不住 	zuo bu zhu 	c=0 d=0 t=3869
+城陽 	cheng yang 	c=0 d=0 t=3869
+執行 	zhi xing 	c=0 d=0 t=3869
+培訓 	pei xun 	c=0 d=0 t=3869
+基於 	ji yu 	c=0 d=0 t=3869
+基本 	ji ben 	c=0 d=0 t=3869
+基金 	ji jin 	c=0 d=0 t=3869
+塊錢 	kuai qian 	c=0 d=0 t=3869
+士大夫 	shi da fu 	c=0 d=0 t=3869
+士大夫刻錄機 	shi da fu ke lu ji 	c=0 d=0 t=3869
+士大夫地方 	shi da fu di fang 	c=0 d=0 t=3869
+士大夫士大夫 	shi da fu shi da fu 	c=0 d=0 t=3869
+士大夫士大夫士大夫 	shi da fu shi da fu shi da fu 	c=0 d=0 t=3869
+士大夫思考 	shi da fu si kao 	c=0 d=0 t=3869
+士大夫方式 	shi da fu fang shi 	c=0 d=0 t=3869
+士大夫款 	shi da fu kuan 	c=0 d=0 t=3869
+士大夫款史萊克打飛機 	shi da fu kuan shi lai ke da fei ji 	c=0 d=0 t=3869
+士大夫盧卡申科領導 	shi da fu lu ka shen ke ling dao 	c=0 d=0 t=3869
+士大夫空間 	shi da fu kong jian 	c=0 d=0 t=3869
+士大夫空間流口水 	shi da fu kong jian liu kou shui 	c=0 d=0 t=3869
+士大夫考慮 	shi da fu kao lv 	c=0 d=0 t=3869
+士大夫考慮是 	shi da fu kao lv shi 	c=0 d=0 t=3869
+士大夫設定 	shi da fu she ding 	c=0 d=0 t=3869
+士大夫開襠褲 	shi da fu kai dang ku 	c=0 d=0 t=3869
+外 	wai 	c=0 d=0 t=3869
+外地 	wai di 	c=0 d=0 t=3869
+多 	duo 	c=0 d=0 t=3869
+多個 	duo ge 	c=0 d=0 t=3869
+多個程序 	duo ge cheng xu 	c=0 d=0 t=3869
+多大點事 	duo da dian shi 	c=0 d=0 t=3869
+多少 	duo shao 	c=0 d=0 t=3869
+多福多壽 	duo fu duo shou 	c=0 d=0 t=3869
+大 	da 	c=0 d=0 t=3869
+大人 	da ren 	c=0 d=0 t=3869
+大人阿佤 	da ren a wa 	c=0 d=0 t=3869
+大多數 	da duo shu 	c=0 d=0 t=3869
+大多數人 	da duo shu ren 	c=0 d=0 t=3869
+大大 	da da 	c=0 d=0 t=3869
+大大的 	da da de 	c=0 d=0 t=3869
+大大的大大打網球七千阿堵物大大的大大的請問親愛 	da da de da da da wang qiu qi qian a du wu da da de da da de qing wen qin ai 	c=0 d=0 t=3869
+大夫 	dai fu 	c=0 d=0 t=3869
+大夫的 	dai fu de 	c=0 d=0 t=3869
+大威德 	da wei de 	c=0 d=0 t=3869
+大家 	da jia 	c=0 d=0 t=3869
+大寫 	da xie 	c=0 d=0 t=3869
+大幅度 	da fu du 	c=0 d=0 t=3869
+大敵當前 	da di dang qian 	c=0 d=0 t=3869
+大是大非 	da shi da fei 	c=0 d=0 t=3869
+大時代 	da shi dai 	c=0 d=0 t=3869
+大無畏 	da wu wei 	c=0 d=0 t=3869
+大無畏瓦撒旦凹凹啊啊啊啊大大的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪大時代瓦阿達挖大 	da wu wei wa sa dan wa ao a a a a da da de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa da shi dai wa a da wa da 	c=0 d=0 t=3869
+大祭司 	da ji si 	c=0 d=0 t=3869
+大窪 	da wa 	c=0 d=0 t=3869
+大腿 	da tui 	c=0 d=0 t=3869
+大蘇打 	da su da 	c=0 d=0 t=3869
+大蛇丸 	da she wan 	c=0 d=0 t=3869
+大酒店 	da jiu dian 	c=0 d=0 t=3869
+太 	tai 	c=0 d=0 t=3869
+太醜 	tai chou 	c=0 d=0 t=3869
+央視 	yang shi 	c=0 d=0 t=3869
+奕 	yi 	c=0 d=0 t=3869
+奶奶 	nai nai 	c=0 d=0 t=3869
+好 	hao 	c=0 d=0 t=3869
+好了 	hao le 	c=0 d=0 t=3869
+好事 	hao shi 	c=0 d=0 t=3869
+好事不好是 	hao shi bu hao shi 	c=0 d=0 t=3869
+好像 	hao xiang 	c=0 d=0 t=3869
+好友 	hao you 	c=0 d=0 t=3869
+好啊 	hao a 	c=0 d=0 t=3869
+好好 	hao hao 	c=0 d=0 t=3869
+好用 	hao yong 	c=0 d=0 t=3869
+好的 	hao de 	c=0 d=0 t=3869
+如何 	ru he 	c=0 d=0 t=3869
+如果 	ru guo 	c=0 d=0 t=3869
+如若 	ru ruo 	c=0 d=0 t=3869
+娃哈哈 	wa ha ha 	c=0 d=0 t=3869
+娃娃 	wa wa 	c=0 d=0 t=3869
+婷 	ting 	c=0 d=0 t=3869
+婷婷 	ting ting 	c=0 d=0 t=3869
+孃 	nia 	c=0 d=0 t=3869
+子 	zi 	c=0 d=0 t=3869
+子任務 	zi ren wu 	c=0 d=0 t=3869
+子需求 	zi xu qiu 	c=0 d=0 t=3869
+字母 	zi mu 	c=0 d=0 t=3869
+字號 	zi hao 	c=0 d=0 t=3869
+字體 	zi ti 	c=0 d=0 t=3869
+孤單單的 	gu dan dan de 	c=0 d=0 t=3869
+學習 	xue xi 	c=0 d=0 t=3869
+安全 	an quan 	c=0 d=0 t=3869
+安地斯山 	an de si shan 	c=0 d=0 t=3869
+安定器 	an ding qi 	c=0 d=0 t=3869
+安德森 	an de sen 	c=0 d=0 t=3869
+安排 	an pai 	c=0 d=0 t=3869
+安裝 	an zhuang 	c=0 d=0 t=3869
+安裝好 	an zhuang hao 	c=0 d=0 t=3869
+完成 	wan cheng 	c=0 d=0 t=3869
+官方 	guan fang 	c=0 d=0 t=3869
+官網 	guan wang 	c=0 d=0 t=3869
+定義 	ding yi 	c=0 d=0 t=3869
+客戶端 	ke hu duan 	c=0 d=0 t=3869
+客服 	ke fu 	c=0 d=0 t=3869
+家 	jia 	c=0 d=0 t=3869
+家快遞費家 	jia kuai di fei jia 	c=0 d=0 t=3869
+家裏 	jia li 	c=0 d=0 t=3869
+實 	shi 	c=0 d=0 t=3869
+實事 	shi shi 	c=0 d=0 t=3869
+實得分數 	shi de fen shu 	c=0 d=0 t=3869
+實得分數多福多壽 	shi de fen shu duo fu duo shou 	c=0 d=0 t=3869
+實施 	shi shi 	c=0 d=0 t=3869
+寫 	xie 	c=0 d=0 t=3869
+將 	jiang 	c=0 d=0 t=3869
+專區 	zhuan qu 	c=0 d=0 t=3869
+專業版 	zhuan ye ban 	c=0 d=0 t=3869
+對 	dui 	c=0 d=0 t=3869
+對了 	dui le 	c=0 d=0 t=3869
+對我說 	dui wo shuo 	c=0 d=0 t=3869
+小 	xiao 	c=0 d=0 t=3869
+小狼 	xiao lang 	c=0 d=0 t=3869
+小狼毫 	xiao lang hao 	c=0 d=0 t=3869
+小程序 	xiao cheng xu 	c=0 d=0 t=3869
+少 	shao 	c=0 d=0 t=3869
+少不了 	shao bu liao 	c=0 d=0 t=3869
+就 	jiu 	c=0 d=0 t=3869
+就兩位 	jiu liang wei 	c=0 d=0 t=3869
+就是 	jiu shi 	c=0 d=0 t=3869
+就是菲德烈克 	jiu shi fei de lie ke 	c=0 d=0 t=3869
+就用 	jiu yong 	c=0 d=0 t=3869
+展示 	zhan shi 	c=0 d=0 t=3869
+山大王 	shan da wang 	c=0 d=0 t=3869
+山大王輕騎兵 	shan da wang qing qi bing 	c=0 d=0 t=3869
+山東省 	shan dong sheng 	c=0 d=0 t=3869
+山東省的 	shan dong sheng de 	c=0 d=0 t=3869
+山東省的山東省的設定 	shan dong sheng de shan dong sheng de she ding 	c=0 d=0 t=3869
+崇明島 	chong ming dao 	c=0 d=0 t=3869
+嶺 	ling 	c=0 d=0 t=3869
+已經 	yi jing 	c=0 d=0 t=3869
+市場 	shi chang 	c=0 d=0 t=3869
+市場入門 	shi chang ru men 	c=0 d=0 t=3869
+希望 	xi wang 	c=0 d=0 t=3869
+常規 	chang gui 	c=0 d=0 t=3869
+幫助 	bang zhu 	c=0 d=0 t=3869
+幫忙 	bang mang 	c=0 d=0 t=3869
+平凡 	ping fan 	c=0 d=0 t=3869
+平時 	ping shi 	c=0 d=0 t=3869
+幾個 	ji ge 	c=0 d=0 t=3869
+幾次 	ji ci 	c=0 d=0 t=3869
+庫 	ku 	c=0 d=0 t=3869
+建站 	jian zhan 	c=0 d=0 t=3869
+建站系統 	jian zhan xi tong 	c=0 d=0 t=3869
+建議 	jian yi 	c=0 d=0 t=3869
+引擎 	yin qing 	c=0 d=0 t=3869
+強大 	qiang da 	c=0 d=0 t=3869
+強大大窪頂頂頂頂頂頂頂頂大大的事實上隨時隨地瓦德瑟 	qiang da da wa ding ding ding ding ding ding ding ding da da de shi shi shang sui shi sui di wa de se 	c=0 d=0 t=3869
+形式 	xing shi 	c=0 d=0 t=3869
+形象 	xing xiang 	c=0 d=0 t=3869
+彩泥 	cai ni 	c=0 d=0 t=3869
+往 	wang 	c=0 d=0 t=3869
+待機時間 	dai ji shi jian 	c=0 d=0 t=3869
+很 	hen 	c=0 d=0 t=3869
+很好用 	hen hao yong 	c=0 d=0 t=3869
+很縱紋輸入法 	hen zong wen shu ru fa 	c=0 d=0 t=3869
+律設大法 	lv she da fa 	c=0 d=0 t=3869
+律設大法檢控方 	lv she da fa jian kong fang 	c=0 d=0 t=3869
+後 	hou 	c=0 d=0 t=3869
+後臺 	hou tai 	c=0 d=0 t=3869
+後面 	hou mian 	c=0 d=0 t=3869
+得 	de 	c=0 d=0 t=3869
+得到 	de dao 	c=0 d=0 t=3869
+從 	cong 	c=0 d=0 t=3869
+微信 	wei xin 	c=0 d=0 t=3869
+微軟 	wei ruan 	c=0 d=0 t=3869
+必須 	bi xu 	c=0 d=0 t=3869
+忕號 	tai hao 	c=0 d=0 t=3869
+快快樂樂 	kuai kuai le le 	c=0 d=0 t=3869
+快捷鍵 	kuai jie jian 	c=0 d=0 t=3869
+快進來 	kuai jin lai 	c=0 d=0 t=3869
+快遞 	kuai di 	c=0 d=0 t=3869
+快遞費 	kuai di fei 	c=0 d=0 t=3869
+快遞費家 	kuai di fei jia 	c=0 d=0 t=3869
+快遞費老師 	kuai di fei lao shi 	c=0 d=0 t=3869
+怎麼 	zen me 	c=0 d=0 t=3869
+怎麼回事 	zen me hui shi 	c=0 d=0 t=3869
+怎麼會 	zen me hui 	c=0 d=0 t=3869
+怎麼樣 	zen me yang 	c=0 d=0 t=3869
+思想 	si xiang 	c=0 d=0 t=3869
+思考 	si kao 	c=0 d=0 t=3869
+思考京東方 	si kao jing dong fang 	c=0 d=0 t=3869
+思考代付款 	si kao dai fu kuan 	c=0 d=0 t=3869
+思考兩地分居 	si kao liang de fen ju 	c=0 d=0 t=3869
+思考勞動法 	si kao lao dong fa 	c=0 d=0 t=3869
+思考勞動法斯達康 	si kao lao dong fa si da kang 	c=0 d=0 t=3869
+思考勞動法考慮 	si kao lao dong fa kao lv 	c=0 d=0 t=3869
+思考就是 	si kao jiu shi 	c=0 d=0 t=3869
+恢復 	hui fu 	c=0 d=0 t=3869
+恩 	en 	c=0 d=0 t=3869
+悅 	yue 	c=0 d=0 t=3869
+您 	nin 	c=0 d=0 t=3869
+您好 	nin hao 	c=0 d=0 t=3869
+悽悽切切 	qi qi qie qie 	c=0 d=0 t=3869
+想 	xiang 	c=0 d=0 t=3869
+想吃 	xiang chi 	c=0 d=0 t=3869
+愛人 	ai ren 	c=0 d=0 t=3869
+愛死 	ai si 	c=0 d=0 t=3869
+愛迪生 	ai di sheng 	c=0 d=0 t=3869
+感覺 	gan jue 	c=0 d=0 t=3869
+成 	cheng 	c=0 d=0 t=3869
+成功 	cheng gong 	c=0 d=0 t=3869
+我 	wo 	c=0 d=0 t=3869
+我並不 	wo bing bu 	c=0 d=0 t=3869
+我也 	wo ye 	c=0 d=0 t=3869
+我來 	wo lai 	c=0 d=0 t=3869
+我來試試 	wo lai shi shi 	c=0 d=0 t=3869
+我們 	wo men 	c=0 d=0 t=3869
+我們人 	wo men ren 	c=0 d=0 t=3869
+我們公司 	wo men gong si 	c=0 d=0 t=3869
+我們新主題 	wo men xin zhu ti 	c=0 d=0 t=3869
+我們的 	wo men de 	c=0 d=0 t=3869
+我們的新家 	wo men de xin jia 	c=0 d=0 t=3869
+我們的細膩孃 	wo men de xi ni nia 	c=0 d=0 t=3869
+我僅提供特別高興 	wo jin ti gong te bie gao xing 	c=0 d=0 t=3869
+我再 	wo zai 	c=0 d=0 t=3869
+我再試試 	wo zai shi shi 	c=0 d=0 t=3869
+我分 	wo fen 	c=0 d=0 t=3869
+我去 	wo qu 	c=0 d=0 t=3869
+我去超市買了一瓶黃花菜 	wo qu chao shi mai le yi ping huang hua cai 	c=0 d=0 t=3869
+我實施 	wo shi shi 	c=0 d=0 t=3869
+我是 	wo shi 	c=0 d=0 t=3869
+我用 	wo yong 	c=0 d=0 t=3869
+我的 	wo de 	c=0 d=0 t=3869
+我看 	wo kan 	c=0 d=0 t=3869
+或 	huo 	c=0 d=0 t=3869
+或者 	huo zhe 	c=0 d=0 t=3869
+截圖 	jie tu 	c=0 d=0 t=3869
+戰中 	zhan zhong 	c=0 d=0 t=3869
+戰士 	zhan shi 	c=0 d=0 t=3869
+所見即所得 	suo jian ji suo de 	c=0 d=0 t=3869
+手冊 	shou ce 	c=0 d=0 t=3869
+手機 	shou ji 	c=0 d=0 t=3869
+手機段 	shou ji duan 	c=0 d=0 t=3869
+手遊 	shou you 	c=0 d=0 t=3869
+打瓦 	da wa 	c=0 d=0 t=3869
+打瓦安定器 	da wa an ding qi 	c=0 d=0 t=3869
+打網球 	da wang qiu 	c=0 d=0 t=3869
+打飛機 	da fei ji 	c=0 d=0 t=3869
+托盤 	tuo pan 	c=0 d=0 t=3869
+扣點分數 	kou dian fen shu 	c=0 d=0 t=3869
+扣點分數代付款 	kou dian fen shu dai fu kuan 	c=0 d=0 t=3869
+找機會 	zhao ji hui 	c=0 d=0 t=3869
+技術 	ji shu 	c=0 d=0 t=3869
+把 	ba 	c=0 d=0 t=3869
+抗衰老 	kang shuai lao 	c=0 d=0 t=3869
+抗衰老的開發 	kang shuai lao de kai fa 	c=0 d=0 t=3869
+折騰 	zhe teng 	c=0 d=0 t=3869
+拉撒路 	la sa lu 	c=0 d=0 t=3869
+拿 	na 	c=0 d=0 t=3869
+指定 	zhi ding 	c=0 d=0 t=3869
+挖地道 	wa de dao 	c=0 d=0 t=3869
+挖大 	wa da 	c=0 d=0 t=3869
+挖大七千阿達 	wa da qi qian a da 	c=0 d=0 t=3869
+挖潛 	wa qian 	c=0 d=0 t=3869
+挖潛大敵當前阿達 	wa qian da di dang qian a da 	c=0 d=0 t=3869
+挨刀的 	ai dao de 	c=0 d=0 t=3869
+挺不錯 	ting bu cuo 	c=0 d=0 t=3869
+掌握 	zhang wo 	c=0 d=0 t=3869
+排 	pai 	c=0 d=0 t=3869
+掛 	gua 	c=0 d=0 t=3869
+掛曆 	gua li 	c=0 d=0 t=3869
+採擷 	cai jie 	c=0 d=0 t=3869
+接口 	jie kou 	c=0 d=0 t=3869
+推薦 	tui jian 	c=0 d=0 t=3869
+提問 	ti wen 	c=0 d=0 t=3869
+提示 	ti shi 	c=0 d=0 t=3869
+插件 	cha jian 	c=0 d=0 t=3869
+換了 	huan le 	c=0 d=0 t=3869
+換個 	huan ge 	c=0 d=0 t=3869
+搭建 	da jian 	c=0 d=0 t=3869
+搭建網站 	da jian wang zhan 	c=0 d=0 t=3869
+搭撒 	da sa 	c=0 d=0 t=3869
+搭撒事實上說到底頂頂頂頂頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚動身前往挖大挨刀的頂頂頂頂多大點事哇哇地 	da sa shi shi shang shuo dao di ding ding ding ding ding ding ding ding wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu dong shen qian wang wa da ai dao de ding ding ding ding duo da dian shi wa wa de 	c=0 d=0 t=3869
+搶奪到 	qiang duo dao 	c=0 d=0 t=3869
+摺疊 	zhe die 	c=0 d=0 t=3869
+撒 	sa 	c=0 d=0 t=3869
+撒嬌 	sa jiao 	c=0 d=0 t=3869
+撒旦 	sa dan 	c=0 d=0 t=3869
+擋風沙 	dang feng sha 	c=0 d=0 t=3869
+擋風沙的 	dang feng sha de 	c=0 d=0 t=3869
+操作 	cao zuo 	c=0 d=0 t=3869
+攝像頭 	she xiang tou 	c=0 d=0 t=3869
+支付 	zhi fu 	c=0 d=0 t=3869
+支持 	zhi chi 	c=0 d=0 t=3869
+收拾 	shou shi 	c=0 d=0 t=3869
+改 	gai 	c=0 d=0 t=3869
+改下 	gai xia 	c=0 d=0 t=3869
+改吧 	gai ba 	c=0 d=0 t=3869
+改版 	gai ban 	c=0 d=0 t=3869
+改用 	gai yong 	c=0 d=0 t=3869
+放 	fang 	c=0 d=0 t=3869
+放了 	fang le 	c=0 d=0 t=3869
+放那 	fang na 	c=0 d=0 t=3869
+放錯 	fang cuo 	c=0 d=0 t=3869
+放開來 	fang kai lai 	c=0 d=0 t=3869
+放開來空間 	fang kai lai kong jian 	c=0 d=0 t=3869
+效果 	xiao guo 	c=0 d=0 t=3869
+敏捷 	min jie 	c=0 d=0 t=3869
+敏捷開發 	min jie kai fa 	c=0 d=0 t=3869
+教程 	jiao cheng 	c=0 d=0 t=3869
+敲敲打打 	qiao qiao da da 	c=0 d=0 t=3869
+整個 	zheng ge 	c=0 d=0 t=3869
+整得 	zheng de 	c=0 d=0 t=3869
+整理 	zheng li 	c=0 d=0 t=3869
+數據 	shu ju 	c=0 d=0 t=3869
+數據庫 	shu ju ku 	c=0 d=0 t=3869
+數據表 	shu ju biao 	c=0 d=0 t=3869
+數量 	shu liang 	c=0 d=0 t=3869
+文件 	wen jian 	c=0 d=0 t=3869
+文件夾 	wen jian jia 	c=0 d=0 t=3869
+文字 	wen zi 	c=0 d=0 t=3869
+文本 	wen ben 	c=0 d=0 t=3869
+文檔 	wen dang 	c=0 d=0 t=3869
+斤斤計較 	jin jin ji jiao 	c=0 d=0 t=3869
+斯大林 	si da lin 	c=0 d=0 t=3869
+斯大林開發 	si da lin kai fa 	c=0 d=0 t=3869
+斯柯達 	si ke da 	c=0 d=0 t=3869
+斯柯達浪費 	si ke da lang fei 	c=0 d=0 t=3869
+斯柯達錄放機 	si ke da lu fang ji 	c=0 d=0 t=3869
+斯當東 	si dang dong 	c=0 d=0 t=3869
+斯達康 	si da kang 	c=0 d=0 t=3869
+新 	xin 	c=0 d=0 t=3869
+新家 	xin jia 	c=0 d=0 t=3869
+新版 	xin ban 	c=0 d=0 t=3869
+新版吧 	xin ban ba 	c=0 d=0 t=3869
+新產品 	xin chan pin 	c=0 d=0 t=3869
+新的 	xin de 	c=0 d=0 t=3869
+新聞 	xin wen 	c=0 d=0 t=3869
+新聞稿 	xin wen gao 	c=0 d=0 t=3869
+新輸入法 	xin shu ru fa 	c=0 d=0 t=3869
+方式 	fang shi 	c=0 d=0 t=3869
+方案 	fang an 	c=0 d=0 t=3869
+方案選項 	fang an xuan xiang 	c=0 d=0 t=3869
+方法 	fang fa 	c=0 d=0 t=3869
+日 	ri 	c=0 d=0 t=3869
+昨晚 	zuo wan 	c=0 d=0 t=3869
+是 	shi 	c=0 d=0 t=3869
+是不是 	shi bu shi 	c=0 d=0 t=3869
+是個 	shi ge 	c=0 d=0 t=3869
+是吧 	shi ba 	c=0 d=0 t=3869
+是喀噠簡繁快進來 	shi ka da jian fan kuai jin lai 	c=0 d=0 t=3869
+是地方范德薩 	shi di fang fan de sa 	c=0 d=0 t=3869
+是基於 	shi ji yu 	c=0 d=0 t=3869
+是快遞費 	shi kuai di fei 	c=0 d=0 t=3869
+是快遞費地方 	shi kuai di fei di fang 	c=0 d=0 t=3869
+是快遞費機 	shi kuai di fei ji 	c=0 d=0 t=3869
+是快遞費開始第三方 	shi kuai di fei kai shi di san fang 	c=0 d=0 t=3869
+是是 	shi shi 	c=0 d=0 t=3869
+是沃恩 	shi wo en 	c=0 d=0 t=3869
+是滴滴答答阿佤大威德親愛的強大大大啊啊啊頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大威德人大大大啊啊啊啊啊啊啊大大啊啊啊啊挨刀的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂吊襪帶頂頂頂頂頂頂頂頂頂頂頂頂撒旦 	shi di di da da a wa da wei de qin ai de qiang da da da a a a ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da wei de ren da da da a a a a a a a da da a a a a ai dao de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding diao wa dai ding ding ding ding ding ding ding ding ding ding ding ding sa dan 	c=0 d=0 t=3869
+時 	shi 	c=0 d=0 t=3869
+晚上 	wan shang 	c=0 d=0 t=3869
+智慧 	zhi hui 	c=0 d=0 t=3869
+暗暗 	an an 	c=0 d=0 t=3869
+暗暗挨刀的大窪啊啊啊啊啊啊啊啊啊啊啊大窪頂頂頂頂頂頂頂頂頂頂頂頂挖大阿佤頂頂頂頂大大大窪啊啊啊啊啊啊啊啊氨吖啶無底洞挖地道頂頂頂頂頂頂頂頂頂頂頂頂膽大如斗不 	an an ai dao de da wa a a a a a a a a a a a da wa ding ding ding ding ding ding ding ding ding ding ding ding wa da a wa ding ding ding ding da da da wa a a a a a a a a an a ding wu di dong wa de dao ding ding ding ding ding ding ding ding ding ding ding ding dan da ru dou bu 	c=0 d=0 t=3869
+更新 	geng xin 	c=0 d=0 t=3869
+最好 	zui hao 	c=0 d=0 t=3869
+有 	you 	c=0 d=0 t=3869
+有個 	you ge 	c=0 d=0 t=3869
+有效 	you xiao 	c=0 d=0 t=3869
+服務 	fu wu 	c=0 d=0 t=3869
+望聞問切 	wang wen wen qie 	c=0 d=0 t=3869
+期期艾艾 	qi qi ai ai 	c=0 d=0 t=3869
+木 	mu 	c=0 d=0 t=3869
+木有 	mu you 	c=0 d=0 t=3869
+未取得 	wei qu de 	c=0 d=0 t=3869
+未娶妻 	wei qu qi 	c=0 d=0 t=3869
+本 	ben 	c=0 d=0 t=3869
+李 	li 	c=0 d=0 t=3869
+東方 	dong fang 	c=0 d=0 t=3869
+東方離開 	dong fang li kai 	c=0 d=0 t=3869
+某種 	mou zhong 	c=0 d=0 t=3869
+某種原因 	mou zhong yuan yin 	c=0 d=0 t=3869
+柳 	liu 	c=0 d=0 t=3869
+格式 	ge shi 	c=0 d=0 t=3869
+框 	kuang 	c=0 d=0 t=3869
+框架 	kuang jia 	c=0 d=0 t=3869
+樓 	lou 	c=0 d=0 t=3869
+標題 	biao ti 	c=0 d=0 t=3869
+模塊 	mo kuai 	c=0 d=0 t=3869
+樣 	yang 	c=0 d=0 t=3869
+機 	ji 	c=0 d=0 t=3869
+機士大夫 	ji shi da fu 	c=0 d=0 t=3869
+橫向 	heng xiang 	c=0 d=0 t=3869
+橫豎 	heng shu 	c=0 d=0 t=3869
+檢控方 	jian kong fang 	c=0 d=0 t=3869
+檢查 	jian cha 	c=0 d=0 t=3869
+款 	kuan 	c=0 d=0 t=3869
+款代付款 	kuan dai fu kuan 	c=0 d=0 t=3869
+款士大夫 	kuan shi da fu 	c=0 d=0 t=3869
+正常 	zheng chang 	c=0 d=0 t=3869
+武威地區 	wu wei de qu 	c=0 d=0 t=3869
+死 	si 	c=0 d=0 t=3869
+死鏈 	si lian 	c=0 d=0 t=3869
+段 	duan 	c=0 d=0 t=3869
+每一步 	mei yi bu 	c=0 d=0 t=3869
+每頁 	mei ye 	c=0 d=0 t=3869
+比較 	bi jiao 	c=0 d=0 t=3869
+民 	min 	c=0 d=0 t=3869
+氨吖啶 	an a ding 	c=0 d=0 t=3869
+水溶溶 	shui rong rong 	c=0 d=0 t=3869
+汕頭 	shan tou 	c=0 d=0 t=3869
+沃 	wo 	c=0 d=0 t=3869
+沃恩 	wo en 	c=0 d=0 t=3869
+沃恩公司 	wo en gong si 	c=0 d=0 t=3869
+沒 	mei 	c=0 d=0 t=3869
+泡麪 	pao mian 	c=0 d=0 t=3869
+流口水 	liu kou shui 	c=0 d=0 t=3869
+流程 	liu cheng 	c=0 d=0 t=3869
+浪費 	lang fei 	c=0 d=0 t=3869
+海樓 	hai lou 	c=0 d=0 t=3869
+深度 	shen du 	c=0 d=0 t=3869
+測試 	ce shi 	c=0 d=0 t=3869
+源碼 	yuan ma 	c=0 d=0 t=3869
+源碼包 	yuan ma bao 	c=0 d=0 t=3869
+溶溶蕩蕩 	rong rong dang dang 	c=0 d=0 t=3869
+溼了 	shi le 	c=0 d=0 t=3869
+溼了代付款 	shi le dai fu kuan 	c=0 d=0 t=3869
+溼了喀噠計分卡 	shi le ka da ji fen ka 	c=0 d=0 t=3869
+溼了快遞費 	shi le kuai di fei 	c=0 d=0 t=3869
+溼了快遞費機 	shi le kuai di fei ji 	c=0 d=0 t=3869
+溼地松 	shi di song 	c=0 d=0 t=3869
+溼球溫度 	shi qiu wen du 	c=0 d=0 t=3869
+溼答答 	shi da da 	c=0 d=0 t=3869
+滌去 	di qu 	c=0 d=0 t=3869
+滌去大大啊啊啊啊啊啊大大的挖大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊大大窪然大大的頂頂頂頂大大的滴滴答答啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿堵物嗚嗚嗚嗚嗚嗚嗚嗚嗚大大的大大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大啊啊啊啊阿達答案啊啊啊啊大大的挖大三大挖大 	di qu da da a a a a a a da da de wa da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a da da wa ran da da de ding ding ding ding da da de di di da da a a a a a a a a a a a a a a a a a a a a a a a a a a a a a du wu wu wu wu wu wu wu wu wu wu da da de da da a a a a a a a a a a a a a a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu da da a a a a a da da an a a a a da da de wa da san da wa da 	c=0 d=0 t=3869
+滌去未取得 	di qu wei qu de 	c=0 d=0 t=3869
+滌去氨吖啶大窪大多數窪然氨吖啶低等動物當當網熱愛 	di qu an a ding da wa da duo shu wa ran an a ding di deng dong wu dang dang wang re ai 	c=0 d=0 t=3869
+滴滴答答 	di di da da 	c=0 d=0 t=3869
+演 	yan 	c=0 d=0 t=3869
+演示 	yan shi 	c=0 d=0 t=3869
+潮汕 	chao shan 	c=0 d=0 t=3869
+瀏覽器 	liu lan qi 	c=0 d=0 t=3869
+灑灑 	sa sa 	c=0 d=0 t=3869
+烏鴉 	wu ya 	c=0 d=0 t=3869
+無 	wu 	c=0 d=0 t=3869
+無人島 	wu ren dao 	c=0 d=0 t=3869
+無底洞 	wu di dong 	c=0 d=0 t=3869
+無數次 	wu shu ci 	c=0 d=0 t=3869
+無污染 	wu wu ran 	c=0 d=0 t=3869
+無法 	wu fa 	c=0 d=0 t=3869
+然之 	ran zhi 	c=0 d=0 t=3869
+煙臺 	yan tai 	c=0 d=0 t=3869
+煙臺個 	yan tai ge 	c=0 d=0 t=3869
+熊貓 	xiong mao 	c=0 d=0 t=3869
+熟練 	shu lian 	c=0 d=0 t=3869
+熟練的開發了 	shu lian de kai fa le 	c=0 d=0 t=3869
+熱愛 	re ai 	c=0 d=0 t=3869
+爲 	wei 	c=0 d=0 t=3869
+爲什麼 	wei shen me 	c=0 d=0 t=3869
+爲身門 	wei shen men 	c=0 d=0 t=3869
+版本 	ban ben 	c=0 d=0 t=3869
+物品 	wu pin 	c=0 d=0 t=3869
+特別 	te bie 	c=0 d=0 t=3869
+特定 	te ding 	c=0 d=0 t=3869
+狀態 	zhuang tai 	c=0 d=0 t=3869
+狠勁 	hen jin 	c=0 d=0 t=3869
+狼嚎 	lang hao 	c=0 d=0 t=3869
+王 	wang 	c=0 d=0 t=3869
+玩 	wan 	c=0 d=0 t=3869
+玩偶 	wan ou 	c=0 d=0 t=3869
+玩敲敲打打大人啊啊啊啊搭撒頂頂頂頂溼答答 	wan qiao qiao da da da ren a a a a da sa ding ding ding ding shi da da 	c=0 d=0 t=3869
+現在 	xian zai 	c=0 d=0 t=3869
+瓦 	wa 	c=0 d=0 t=3869
+瓦德瑟 	wa de se 	c=0 d=0 t=3869
+瓦當文 	wa dang wen 	c=0 d=0 t=3869
+瓦當文人大孤單單的頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答啊啊啊啊啊啊啊啊版本 	wa dang wen ren da gu dan dan de ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da a a a a a a a a ban ben 	c=0 d=0 t=3869
+生成 	sheng cheng 	c=0 d=0 t=3869
+生生世世 	sheng sheng shi shi 	c=0 d=0 t=3869
+產品 	chan pin 	c=0 d=0 t=3869
+產道 	chan dao 	c=0 d=0 t=3869
+用 	yong 	c=0 d=0 t=3869
+用戶 	yong hu 	c=0 d=0 t=3869
+用戶名 	yong hu ming 	c=0 d=0 t=3869
+甲基 	jia ji 	c=0 d=0 t=3869
+申請 	shen qing 	c=0 d=0 t=3869
+界面 	jie mian 	c=0 d=0 t=3869
+留言 	liu yan 	c=0 d=0 t=3869
+當世無敵 	dang shi wu di 	c=0 d=0 t=3869
+當當網 	dang dang wang 	c=0 d=0 t=3869
+當當網嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚聞所未聞大大的凹凹阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大答案啊啊啊啊啊啊啊啊阿佤嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大大未娶妻 	dang dang wang wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wen suo wei wen da da de wa ao a wa wu wu wu wu wu wu wu wu wu wa da da an a a a a a a a a a wa wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da da wei qu qi 	c=0 d=0 t=3869
+瘋狂 	feng kuang 	c=0 d=0 t=3869
+瘋狂溼了代付款機 	feng kuang shi le dai fu kuan ji 	c=0 d=0 t=3869
+發 	fa 	c=0 d=0 t=3869
+發佈 	fa bu 	c=0 d=0 t=3869
+發地方 	fa di fang 	c=0 d=0 t=3869
+發帖 	fa tie 	c=0 d=0 t=3869
+發現 	fa xian 	c=0 d=0 t=3869
+發表 	fa biao 	c=0 d=0 t=3869
+的 	de 	c=0 d=0 t=3869
+的了是快遞費 	de le shi kuai di fei 	c=0 d=0 t=3869
+的凹凹啊啊啊啊啊啊啊啊大時代挖大搭撒氨吖啶偉大答案嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地嗚嗚嗚嗚嗚嗚嗚嗚嗚凹凹溼答答山大王大大大多數人大窪啊啊啊啊啊啊啊啊上網大大凹凹搭撒大多數人偉大啊啊啊單位頂頂頂頂單位嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚 	de wa ao a a a a a a a a da shi dai wa da da sa an a ding wei da da an wu wu wu wu wu wu wu wu wu wa wa de wu wu wu wu wu wu wu wu wu wa ao shi da da shan da wang da da da duo shu ren da wa a a a a a a a a shang wang da da wa ao da sa da duo shu ren wei da a a a dan wei ding ding ding ding dan wei wu wu wu wu wu wu wu wu wu wu wu wu 	c=0 d=0 t=3869
+的大大啊啊啊啊啊啊啊啊啊啊啊爲代表 	de da da a a a a a a a a a a a wei dai biao 	c=0 d=0 t=3869
+的窪然嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大大啊啊啊啊啊啊啊大大的大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地頂頂頂頂啊 	de wa ran wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu da wu wei wu wu wu wu wu wu wu wu wu wa da da da a a a a a a a da da de da wu wei wu wu wu wu wu wu wu wu wu wa wa de ding ding ding ding a 	c=0 d=0 t=3869
+的開發 	de kai fa 	c=0 d=0 t=3869
+的開發將 	de kai fa jiang 	c=0 d=0 t=3869
+的開發款 	de kai fa kuan 	c=0 d=0 t=3869
+的開發款是 	de kai fa kuan shi 	c=0 d=0 t=3869
+的開發溼了快遞費 	de kai fa shi le kuai di fei 	c=0 d=0 t=3869
+的開發連鎖店 	de kai fa lian suo dian 	c=0 d=0 t=3869
+的開發離開 	de kai fa li kai 	c=0 d=0 t=3869
+盧卡申科 	lu ka shen ke 	c=0 d=0 t=3869
+目標 	mu biao 	c=0 d=0 t=3869
+目錄 	mu lu 	c=0 d=0 t=3869
+直接 	zhi jie 	c=0 d=0 t=3869
+相關 	xiang guan 	c=0 d=0 t=3869
+省 	sheng 	c=0 d=0 t=3869
+看 	kan 	c=0 d=0 t=3869
+看下 	kan xia 	c=0 d=0 t=3869
+看到 	kan dao 	c=0 d=0 t=3869
+看懂 	kan dong 	c=0 d=0 t=3869
+看書 	kan shu 	c=0 d=0 t=3869
+看看 	kan kan 	c=0 d=0 t=3869
+看看律設大法 	kan kan lv she da fa 	c=0 d=0 t=3869
+看看款看看 	kan kan kuan kan kan 	c=0 d=0 t=3869
+真 	zhen 	c=0 d=0 t=3869
+真好啊 	zhen hao a 	c=0 d=0 t=3869
+真的 	zhen de 	c=0 d=0 t=3869
+真的挺不錯 	zhen de ting bu cuo 	c=0 d=0 t=3869
+着 	zhao 	c=0 d=0 t=3869
+睡眠 	shui mian 	c=0 d=0 t=3869
+瞭解 	liao jie 	c=0 d=0 t=3869
+矮牆淺屋 	ai qiang qian wu 	c=0 d=0 t=3869
+矮牆淺屋悽悽切切挨刀的嗚嗚嗚七千阿斯頓挖地道頂頂頂頂頂頂頂頂吊襪帶挖地道七千我並不 	ai qiang qian wu qi qi qie qie ai dao de wu wu wu qi qian a si dun wa de dao ding ding ding ding ding ding ding ding diao wa dai wa de dao qi qian wo bing bu 	c=0 d=0 t=3869
+矱 	wo 	c=0 d=0 t=3869
+研究 	yan jiu 	c=0 d=0 t=3869
+破解 	po jie 	c=0 d=0 t=3869
+砸 	za 	c=0 d=0 t=3869
+碰 	peng 	c=0 d=0 t=3869
+確認 	que ren 	c=0 d=0 t=3869
+祖國 	zu guo 	c=0 d=0 t=3869
+神 	shen 	c=0 d=0 t=3869
+福娃 	fu wa 	c=0 d=0 t=3869
+禪 	chan 	c=0 d=0 t=3869
+禪道 	chan dao 	c=0 d=0 t=3869
+禪道鬧 	chan dao nao 	c=0 d=0 t=3869
+禪難道 	chan nan dao 	c=0 d=0 t=3869
+程序 	cheng xu 	c=0 d=0 t=3869
+程序員 	cheng xu yuan 	c=0 d=0 t=3869
+空手道 	kong shou dao 	c=0 d=0 t=3869
+空手道錄放機 	kong shou dao lu fang ji 	c=0 d=0 t=3869
+空手道開襠褲 	kong shou dao kai dang ku 	c=0 d=0 t=3869
+空手道風紀扣 	kong shou dao feng ji kou 	c=0 d=0 t=3869
+空軍司令 	kong jun si ling 	c=0 d=0 t=3869
+空軍司令代付款了 	kong jun si ling dai fu kuan le 	c=0 d=0 t=3869
+空間 	kong jian 	c=0 d=0 t=3869
+空間快捷鍵 	kong jian kuai jie jian 	c=0 d=0 t=3869
+窩 	wo 	c=0 d=0 t=3869
+窩們的 	wo men de 	c=0 d=0 t=3869
+窩窩凹凹 	wo wo ao ao 	c=0 d=0 t=3869
+窩窩凹凹大大大無畏嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚挖大大窪頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂低等動物挖大 	wo wo ao ao da da da wu wei wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wa da da wa ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu wa da 	c=0 d=0 t=3869
+窪然 	wa ran 	c=0 d=0 t=3869
+站內 	zhan nei 	c=0 d=0 t=3869
+站內外 	zhan nei wai 	c=0 d=0 t=3869
+站點 	zhan dian 	c=0 d=0 t=3869
+童年 	tong nian 	c=0 d=0 t=3869
+端 	duan 	c=0 d=0 t=3869
+端口 	duan kou 	c=0 d=0 t=3869
+端口代付款 	duan kou dai fu kuan 	c=0 d=0 t=3869
+端口參考價 	duan kou shen kao jia 	c=0 d=0 t=3869
+符號 	fu hao 	c=0 d=0 t=3869
+第一件事 	di yi jian shi 	c=0 d=0 t=3869
+第三季度 	di san ji du 	c=0 d=0 t=3869
+第三方 	di san fang 	c=0 d=0 t=3869
+第三方款士大夫 	di san fang kuan shi da fu 	c=0 d=0 t=3869
+第三方考慮 	di san fang kao lv 	c=0 d=0 t=3869
+第四 	di si 	c=0 d=0 t=3869
+等 	deng 	c=0 d=0 t=3869
+等待 	deng dai 	c=0 d=0 t=3869
+答案 	da an 	c=0 d=0 t=3869
+算法 	suan fa 	c=0 d=0 t=3869
+算法服務 	suan fa fu wu 	c=0 d=0 t=3869
+算法氨吖啶克里夫 	suan fa an a ding ke li fu 	c=0 d=0 t=3869
+管理 	guan li 	c=0 d=0 t=3869
+管理軟件 	guan li ruan jian 	c=0 d=0 t=3869
+簡化 	jian hua 	c=0 d=0 t=3869
+簡繁 	jian fan 	c=0 d=0 t=3869
+簡體字 	jian ti zi 	c=0 d=0 t=3869
+粉 	fen 	c=0 d=0 t=3869
+精神抖擻 	jing shen dou sou 	c=0 d=0 t=3869
+系列 	xi lie 	c=0 d=0 t=3869
+系統 	xi tong 	c=0 d=0 t=3869
+細膩 	xi ni 	c=0 d=0 t=3869
+組我 	zu wo 	c=0 d=0 t=3869
+給 	gei 	c=0 d=0 t=3869
+絲襪 	si wa 	c=0 d=0 t=3869
+經歷 	jing li 	c=0 d=0 t=3869
+維薩 	wei sa 	c=0 d=0 t=3869
+網盤 	wang pan 	c=0 d=0 t=3869
+網站 	wang zhan 	c=0 d=0 t=3869
+線 	xian 	c=0 d=0 t=3869
+編碼 	bian ma 	c=0 d=0 t=3869
+編輯器 	bian ji qi 	c=0 d=0 t=3869
+縮短 	suo duan 	c=0 d=0 t=3869
+縱紋 	zong wen 	c=0 d=0 t=3869
+總 	zong 	c=0 d=0 t=3869
+美食 	mei shi 	c=0 d=0 t=3869
+羣 	qun 	c=0 d=0 t=3869
+羣裏 	qun li 	c=0 d=0 t=3869
+羥基丁酸 	jing ji ding suan 	c=0 d=0 t=3869
+翻頁 	fan ye 	c=0 d=0 t=3869
+老師 	lao shi 	c=0 d=0 t=3869
+老師的開發離開 	lao shi de kai fa li kai 	c=0 d=0 t=3869
+考慮 	kao lv 	c=0 d=0 t=3869
+考慮士大夫款 	kao lv shi da fu kuan 	c=0 d=0 t=3869
+而開 	er kai 	c=0 d=0 t=3869
+聖誕快樂 	sheng dan kuai le 	c=0 d=0 t=3869
+聖誕快樂發 	sheng dan kuai le fa 	c=0 d=0 t=3869
+聞所未聞 	wen suo wei wen 	c=0 d=0 t=3869
+聽說 	ting shuo 	c=0 d=0 t=3869
+股 	gu 	c=0 d=0 t=3869
+肩靠肩 	jian kao jian 	c=0 d=0 t=3869
+肯德基 	ken de ji 	c=0 d=0 t=3869
+膽大如斗 	dan da ru dou 	c=0 d=0 t=3869
+自己 	zi ji 	c=0 d=0 t=3869
+艾奧瓦 	ai ao wa 	c=0 d=0 t=3869
+艾窩窩 	ai wo wo 	c=0 d=0 t=3869
+艾迪 	ai di 	c=0 d=0 t=3869
+苦 	ku 	c=0 d=0 t=3869
+苫塊 	shan kuai 	c=0 d=0 t=3869
+苫塊地方開始 	shan kuai di fang kai shi 	c=0 d=0 t=3869
+英文 	ying wen 	c=0 d=0 t=3869
+范德薩 	fan de sa 	c=0 d=0 t=3869
+菲德烈克 	fei de lie ke 	c=0 d=0 t=3869
+萬 	wan 	c=0 d=0 t=3869
+萬事達 	wan shi da 	c=0 d=0 t=3869
+萬維網 	wan wei wang 	c=0 d=0 t=3869
+萬維網凹凹 	wan wei wang wa ao 	c=0 d=0 t=3869
+萬股 	wan gu 	c=0 d=0 t=3869
+薩克 	sa ke 	c=0 d=0 t=3869
+薩克斯 	sa ke si 	c=0 d=0 t=3869
+蘇丹達佛 	su dan da fo 	c=0 d=0 t=3869
+虛 	xu 	c=0 d=0 t=3869
+號 	hao 	c=0 d=0 t=3869
+號樓 	hao lou 	c=0 d=0 t=3869
+蛙人 	wa ren 	c=0 d=0 t=3869
+蟬知 	chan zhi 	c=0 d=0 t=3869
+行了 	xing le 	c=0 d=0 t=3869
+行政村 	xing zheng cun 	c=0 d=0 t=3869
+衝動 	chong dong 	c=0 d=0 t=3869
+表 	biao 	c=0 d=0 t=3869
+被 	bei 	c=0 d=0 t=3869
+裏 	li 	c=0 d=0 t=3869
+裏面 	li mian 	c=0 d=0 t=3869
+裝飾 	zhuang shi 	c=0 d=0 t=3869
+複製 	fu zhi 	c=0 d=0 t=3869
+規範的 	gui fan de 	c=0 d=0 t=3869
+視頻 	shi pin 	c=0 d=0 t=3869
+親愛 	qin ai 	c=0 d=0 t=3869
+親愛挖大大無畏頂頂頂頂嗚嗚嗚嗚嗚嗚嗚嗚嗚哇哇地 	qin ai wa da da wu wei ding ding ding ding wu wu wu wu wu wu wu wu wu wa wa de 	c=0 d=0 t=3869
+親愛的 	qin ai de 	c=0 d=0 t=3869
+覺得 	jue de 	c=0 d=0 t=3869
+覺得薩克開始卡具肯德基凱撒醬看看四大皆空薩克斯開襠褲上夸克搭撒搭撒看看上帝教撒旦撒嬌搭撒大酒店撒旦覺得撒旦及撒嬌低級死啊降低近似解艾迪羥基丁酸代價第四愛死大祭司技術甲基 	jue de sa ke kai shi ka ju ken de ji kai sa jiang kan kan si da jie kong sa ke si kai dang ku shang kua ke da sa da sa kan kan shang di jiao sa dan sa jiao da sa da jiu dian sa dan jue de sa dan ji sa jiao di ji si a jiang di jin si jie ai di jing ji ding suan dai jia di si ai si da ji si ji shu jia ji 	c=0 d=0 t=3869
+觀望 	guan wang 	c=0 d=0 t=3869
+解析 	jie xi 	c=0 d=0 t=3869
+解決 	jie jue 	c=0 d=0 t=3869
+解答 	jie da 	c=0 d=0 t=3869
+計分卡 	ji fen ka 	c=0 d=0 t=3869
+計算機 	ji suan ji 	c=0 d=0 t=3869
+訪問 	fang wen 	c=0 d=0 t=3869
+設定 	she ding 	c=0 d=0 t=3869
+設置 	she zhi 	c=0 d=0 t=3869
+設計 	she ji 	c=0 d=0 t=3869
+設計師 	she ji shi 	c=0 d=0 t=3869
+設計師是 	she ji shi shi 	c=0 d=0 t=3869
+設防地 	she fang di 	c=0 d=0 t=3869
+註冊機 	zhu ce ji 	c=0 d=0 t=3869
+詞 	ci 	c=0 d=0 t=3869
+試試 	shi shi 	c=0 d=0 t=3869
+試試了 	shi shi le 	c=0 d=0 t=3869
+試試這個 	shi shi zhe ge 	c=0 d=0 t=3869
+試試還 	shi shi hai 	c=0 d=0 t=3869
+認爲 	ren wei 	c=0 d=0 t=3869
+誕生地 	dan sheng di 	c=0 d=0 t=3869
+說 	shuo 	c=0 d=0 t=3869
+說到底 	shuo dao di 	c=0 d=0 t=3869
+說的 	shuo de 	c=0 d=0 t=3869
+調出 	diao chu 	c=0 d=0 t=3869
+調節閥 	diao jie fa 	c=0 d=0 t=3869
+請 	qing 	c=0 d=0 t=3869
+請問 	qing wen 	c=0 d=0 t=3869
+請求 	qing qiu 	c=0 d=0 t=3869
+論壇 	lun tan 	c=0 d=0 t=3869
+諮詢 	zi xun 	c=0 d=0 t=3869
+讓 	rang 	c=0 d=0 t=3869
+讓他 	rang ta 	c=0 d=0 t=3869
+讚 	zan 	c=0 d=0 t=3869
+讚一個 	zan yi ge 	c=0 d=0 t=3869
+谷歌 	gu ge 	c=0 d=0 t=3869
+谷歌輸入法 	gu ge shu ru fa 	c=0 d=0 t=3869
+豬蹄 	zhu ti 	c=0 d=0 t=3869
+買 	mai 	c=0 d=0 t=3869
+買了 	mai le 	c=0 d=0 t=3869
+買點 	mai dian 	c=0 d=0 t=3869
+資料 	zi liao 	c=0 d=0 t=3869
+賣 	mai 	c=0 d=0 t=3869
+賬戶 	zhang hu 	c=0 d=0 t=3869
+走了 	zou le 	c=0 d=0 t=3869
+超市 	chao shi 	c=0 d=0 t=3869
+跟 	gen 	c=0 d=0 t=3869
+身門 	shen men 	c=0 d=0 t=3869
+車 	che 	c=0 d=0 t=3869
+軟 	ruan 	c=0 d=0 t=3869
+軟件 	ruan jian 	c=0 d=0 t=3869
+輔導課 	fu dao ke 	c=0 d=0 t=3869
+輕騎兵 	qing qi bing 	c=0 d=0 t=3869
+輪胎 	lun tai 	c=0 d=0 t=3869
+輸入 	shu ru 	c=0 d=0 t=3869
+輸入法 	shu ru fa 	c=0 d=0 t=3869
+輸入軟 	shu ru ruan 	c=0 d=0 t=3869
+近似等級 	jin si deng ji 	c=0 d=0 t=3869
+近似解 	jin si jie 	c=0 d=0 t=3869
+透着 	tou zhe 	c=0 d=0 t=3869
+這 	zhe 	c=0 d=0 t=3869
+這事 	zhe shi 	c=0 d=0 t=3869
+這些 	zhe xie 	c=0 d=0 t=3869
+這些年 	zhe xie nian 	c=0 d=0 t=3869
+這個 	zhe ge 	c=0 d=0 t=3869
+這個主題 	zhe ge zhu ti 	c=0 d=0 t=3869
+這個反而 	zhe ge fan er 	c=0 d=0 t=3869
+這個太 	zhe ge tai 	c=0 d=0 t=3869
+這個默認住 	zhe ge mo ren zhu 	c=0 d=0 t=3869
+這兩行 	zhe liang hang 	c=0 d=0 t=3869
+這是 	zhe shi 	c=0 d=0 t=3869
+這是一個 	zhe shi yi ge 	c=0 d=0 t=3869
+這種 	zhe zhong 	c=0 d=0 t=3869
+這裏是 	zhe li shi 	c=0 d=0 t=3869
+這麼 	zhe me 	c=0 d=0 t=3869
+通知 	tong zhi 	c=0 d=0 t=3869
+通過 	tong guo 	c=0 d=0 t=3869
+速度 	su du 	c=0 d=0 t=3869
+速度快 	su du kuai 	c=0 d=0 t=3869
+速度開發 	su du kai fa 	c=0 d=0 t=3869
+速度開發了 	su du kai fa le 	c=0 d=0 t=3869
+速度開發機 	su du kai fa ji 	c=0 d=0 t=3869
+速度開發款 	su du kai fa kuan 	c=0 d=0 t=3869
+速度開發空手道 	su du kai fa kong shou dao 	c=0 d=0 t=3869
+速讀法 	su du fa 	c=0 d=0 t=3869
+連鎖店 	lian suo dian 	c=0 d=0 t=3869
+進 	jin 	c=0 d=0 t=3869
+進行 	jin xing 	c=0 d=0 t=3869
+進錯羣 	jin cuo qun 	c=0 d=0 t=3869
+遇到 	yu dao 	c=0 d=0 t=3869
+遊牧 	you mu 	c=0 d=0 t=3869
+遊牧有 	you mu you 	c=0 d=0 t=3869
+運 	yun 	c=0 d=0 t=3869
+運行 	yun xing 	c=0 d=0 t=3869
+道 	dao 	c=0 d=0 t=3869
+道家 	dao jia 	c=0 d=0 t=3869
+道歉啓事 	dao qian qi shi 	c=0 d=0 t=3869
+道歉啓事阿堵物 	dao qian qi shi a du wu 	c=0 d=0 t=3869
+適度微調 	shi du wei diao 	c=0 d=0 t=3869
+適度微調溼球溫度頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂滴滴答答大窪人大親愛吊襪帶 	shi du wei diao shi qiu wen du ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding di di da da da wa ren da qin ai diao wa dai 	c=0 d=0 t=3869
+選項 	xuan xiang 	c=0 d=0 t=3869
+邀請 	yao qing 	c=0 d=0 t=3869
+還 	hai 	c=0 d=0 t=3869
+還是 	hai shi 	c=0 d=0 t=3869
+還有 	hai you 	c=0 d=0 t=3869
+邊 	bian 	c=0 d=0 t=3869
+邊寫 	bian xie 	c=0 d=0 t=3869
+那 	na 	c=0 d=0 t=3869
+那個 	na ge 	c=0 d=0 t=3869
+那就 	na jiu 	c=0 d=0 t=3869
+那種 	na zhong 	c=0 d=0 t=3869
+那邊 	na bian 	c=0 d=0 t=3869
+郝的 	hao de 	c=0 d=0 t=3869
+部分 	bu fen 	c=0 d=0 t=3869
+部署 	bu shu 	c=0 d=0 t=3869
+郵箱 	you xiang 	c=0 d=0 t=3869
+都 	dou 	c=0 d=0 t=3869
+鄒 	zou 	c=0 d=0 t=3869
+配置 	pei zhi 	c=0 d=0 t=3869
+配色 	pei se 	c=0 d=0 t=3869
+酸辣 	suan la 	c=0 d=0 t=3869
+酸辣粉 	suan la fen 	c=0 d=0 t=3869
+重啓 	chong qi 	c=0 d=0 t=3869
+重啓下 	chong qi xia 	c=0 d=0 t=3869
+金卡 	jin ka 	c=0 d=0 t=3869
+銷售 	xiao shou 	c=0 d=0 t=3869
+錄放機 	lu fang ji 	c=0 d=0 t=3869
+鏈接 	lian jie 	c=0 d=0 t=3869
+長 	zhang 	c=0 d=0 t=3869
+門戶 	men hu 	c=0 d=0 t=3869
+開 	kai 	c=0 d=0 t=3869
+開卷考 	kai juan kao 	c=0 d=0 t=3869
+開卷考空間 	kai juan kao kong jian 	c=0 d=0 t=3869
+開始 	kai shi 	c=0 d=0 t=3869
+開始勞動法 	kai shi lao dong fa 	c=0 d=0 t=3869
+開始喀噠金卡速度快瞭解阿克蘇大多數卡卡三大阿森松島靜安寺生生世世生生世世誕生地愛迪生了嗲就是低級計算機大祭司待機時間第三季度近似等級斯當東頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂頂山東省的大多數誕生地精神抖擻單獨近似等級上帝教阿歷山大基金阿斯頓技術第三季度即時即地溼地松第四大祭司阿里來看拉撒路款 	kai shi ka da jin ka su du kuai liao jie a ke su da duo shu ka ka san da a sen song dao jing an si sheng sheng shi shi sheng sheng shi shi dan sheng di ai di sheng le dia jiu shi di ji ji suan ji da ji si dai ji shi jian di san ji du jin si deng ji si dang dong ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding ding shan dong sheng de da duo shu dan sheng di jing shen dou sou dan du jin si deng ji shang di jiao a li shan da ji jin a si dun ji shu di san ji du ji shi ji di shi di song di si da ji si a li lai kan la sa lu kuan 	c=0 d=0 t=3869
+開始的開發將 	kai shi de kai fa jiang 	c=0 d=0 t=3869
+開源 	kai yuan 	c=0 d=0 t=3869
+開發 	kai fa 	c=0 d=0 t=3869
+開篇 	kai pian 	c=0 d=0 t=3869
+開襠褲 	kai dang ku 	c=0 d=0 t=3869
+關係 	guan xi 	c=0 d=0 t=3869
+關注 	guan zhu 	c=0 d=0 t=3869
+防空洞 	fang kong dong 	c=0 d=0 t=3869
+阻止 	zu zhi 	c=0 d=0 t=3869
+阿佤 	a wa 	c=0 d=0 t=3869
+阿佤七千大多數頂頂頂頂頂頂頂頂頂頂頂頂低等動物 	a wa qi qian da duo shu ding ding ding ding ding ding ding ding ding ding ding ding di deng dong wu 	c=0 d=0 t=3869
+阿佤嗚嗚嗚 	a wa wu wu wu 	c=0 d=0 t=3869
+阿佤嗚嗚嗚嗚嗚嗚挖大 	a wa wu wu wu wu wu wu wa da 	c=0 d=0 t=3869
+阿佤嗚嗚嗚未娶妻頂頂頂頂大大的滴滴答答 	a wa wu wu wu wei qu qi ding ding ding ding da da de di di da da 	c=0 d=0 t=3869
+阿佤嗚嗚嗚瓦安全大大的瓦啊啊啊啊其阿佤挖大 	a wa wu wu wu wa an quan da da de wa a a a a qi a wa wa da 	c=0 d=0 t=3869
+阿佤輕騎兵 	a wa qing qi bing 	c=0 d=0 t=3869
+阿克蘇 	a ke su 	c=0 d=0 t=3869
+阿堵物 	a du wu 	c=0 d=0 t=3869
+阿堵物頂頂頂頂頂頂頂頂認爲光污染 	a du wu ding ding ding ding ding ding ding ding ren wei guang wu ran 	c=0 d=0 t=3869
+阿斯頓 	a si dun 	c=0 d=0 t=3869
+阿森松島 	a sen song dao 	c=0 d=0 t=3869
+阿歷山大 	a li shan da 	c=0 d=0 t=3869
+阿迪達斯 	a di da si 	c=0 d=0 t=3869
+阿達 	a da 	c=0 d=0 t=3869
+阿達民咯給 	a da min lo gei 	c=0 d=0 t=3869
+阿達無人島答案大蛇丸 	a da wu ren dao da an da she wan 	c=0 d=0 t=3869
+阿里 	a li 	c=0 d=0 t=3869
+降低 	jiang di 	c=0 d=0 t=3869
+陰影 	yin ying 	c=0 d=0 t=3869
+隨時隨地 	sui shi sui di 	c=0 d=0 t=3869
+雙獨夫婦 	shuang du fu fu 	c=0 d=0 t=3869
+離開 	li kai 	c=0 d=0 t=3869
+離開士大夫 	li kai shi da fu 	c=0 d=0 t=3869
+離開士大夫士大夫款 	li kai shi da fu shi da fu kuan 	c=0 d=0 t=3869
+離開設定 	li kai she ding 	c=0 d=0 t=3869
+離開設定簡繁 	li kai she ding jian fan 	c=0 d=0 t=3869
+難道 	nan dao 	c=0 d=0 t=3869
+零零落落 	ling ling luo luo 	c=0 d=0 t=3869
+電腦 	dian nao 	c=0 d=0 t=3869
+電視卡 	dian shi ka 	c=0 d=0 t=3869
+電視卡錄放機 	dian shi ka lu fang ji 	c=0 d=0 t=3869
+電視裏 	dian shi li 	c=0 d=0 t=3869
+電視裏開發 	dian shi li kai fa 	c=0 d=0 t=3869
+電話 	dian hua 	c=0 d=0 t=3869
+電話則 	dian hua ze 	c=0 d=0 t=3869
+電風扇 	dian feng shan 	c=0 d=0 t=3869
+電風扇了 	dian feng shan le 	c=0 d=0 t=3869
+電風扇口袋裏 	dian feng shan kou dai li 	c=0 d=0 t=3869
+電風扇端口 	dian feng shan duan kou 	c=0 d=0 t=3869
+電飯鍋 	dian fan guo 	c=0 d=0 t=3869
+電飯鍋地方 	dian fan guo di fang 	c=0 d=0 t=3869
+需 	xu 	c=0 d=0 t=3869
+需求 	xu qiu 	c=0 d=0 t=3869
+靜安寺 	jing an si 	c=0 d=0 t=3869
+非常 	fei chang 	c=0 d=0 t=3869
+頁面 	ye mian 	c=0 d=0 t=3869
+頂夸克 	ding kua ke 	c=0 d=0 t=3869
+頂頂頂頂 	ding ding ding ding 	c=0 d=0 t=3869
+頂頂頂頂低等動物娃娃阿達哇哇地挖地道大窪挨刀的頂頂頂頂大窪 	ding ding ding ding di deng dong wu wa wa a da wa wa de wa de dao da wa ai dao de ding ding ding ding da wa 	c=0 d=0 t=3869
+頂頂頂頂頂頂頂頂大大的嗚嗚嗚嗚嗚嗚絲襪阿迪達斯娃娃大窪挖大頂頂頂頂瓦微軟艾奧瓦大無畏無污染版本 	ding ding ding ding ding ding ding ding da da de wu wu wu wu wu wu si wa a di da si wa wa da wa wa da ding ding ding ding wa wei ruan ai ao wa da wu wei wu wu ran ban ben 	c=0 d=0 t=3869
+項目 	xiang mu 	c=0 d=0 t=3869
+項目軟裏軟件 	xiang mu ruan li ruan jian 	c=0 d=0 t=3869
+順口溜 	shun kou liu 	c=0 d=0 t=3869
+順口溜的計分卡 	shun kou liu de ji fen ka 	c=0 d=0 t=3869
+預留 	yu liu 	c=0 d=0 t=3869
+預覽 	yu lan 	c=0 d=0 t=3869
+領 	ling 	c=0 d=0 t=3869
+領導 	ling dao 	c=0 d=0 t=3869
+顏色 	yan se 	c=0 d=0 t=3869
+顛倒是非 	dian dao shi fei 	c=0 d=0 t=3869
+顛倒是非士大夫 	dian dao shi fei shi da fu 	c=0 d=0 t=3869
+顯示 	xian shi 	c=0 d=0 t=3869
+顯示出 	xian shi chu 	c=0 d=0 t=3869
+顯示器 	xian shi qi 	c=0 d=0 t=3869
+風格 	feng ge 	c=0 d=0 t=3869
+風紀扣 	feng ji kou 	c=0 d=0 t=3869
+骨子裏 	gu zi li 	c=0 d=0 t=3869
+高興 	gao xing 	c=0 d=0 t=3869
+鬧 	nao 	c=0 d=0 t=3869
+魏 	wei 	c=0 d=0 t=3869
+麼 	me 	c=0 d=0 t=3869
+黃花菜 	huang hua cai 	c=0 d=0 t=3869
+默認 	mo ren 	c=0 d=0 t=3869
+點 	dian 	c=0 d=0 t=3869
+鼠壤 	shu rang 	c=0 d=0 t=3869
+龍 	long 	c=0 d=0 t=3869
+龍口奪食 	long kou duo shi 	c=0 d=0 t=3869
+>>>>>>> faca110a06e8f9611d347b64133259f9cf8cdeae
