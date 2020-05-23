@@ -15,30 +15,12 @@ patch:
     - { when: paging, accept: minus, send: Page_Up }                           #设置候选词上下翻页
     - { when: has_menu, accept: equal, send: Page_Down }
     - { accept: "Control+Shift+space", toggle: simplification, when: always }  #设置切换简繁快捷键
-    - accept: "Control+p"
-      send: "Up"
-      when: "composing"
-    - accept: "Control+n"
-      send: "Down"
-      when: "composing"
-    - accept: "Control+h"
-      send: "Left"
-      when: "composing"
-    - accept: "Control+l"
-      send: "Right"
-      when: "composing"
-    - accept: "Control+a"
-      send: "Home"
-      when: "composing"
-    - accept: "Control+semicolon"
-      send: "End"
-      when: "composing"
-    - accept: "Control+g"
-      send: "Escape"
-      when: "composing"
-    - accept: "Control+k"
-      send: "Page_Up"
-      when: "composing"
-    - accept: "Control+j"
-      send: "Page_Down"
-      when: "composing"
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+h", send: Left, when: composing}
+    - {accept: "Control+l", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+semicolon", send: End, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+k", send: Page_Up, when: composing}
+    - {accept: "Control+j", send: Page_Down, when: composing}
