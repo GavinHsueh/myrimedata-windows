@@ -1,20 +1,18 @@
 # default.custom.yaml
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Jan 16 15:03:52 2021"
+  rime_version: 1.5.3
 patch:
-  schema_list:
-    - {schema: luna_pinyin}
-    - {schema: luna_pinyin_simp}
-  "menu/page_size": 5                     #每页候选词个数
-  "switcher/hotkeys":                     #只能通过ctrl+`来调出方案选项，F4不再有效
-    - "Control+grave"
-  ascii_composer/switch_key:              #shift键上屏
+  "ascii_composer/switch_key":
     Shift_L: commit_code
-    Shift_R: commit_code    
-
-# 键名一览：https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+    Shift_R: commit_code
   "key_binder/bindings":
-    - { when: paging, accept: minus, send: Page_Up }                           #设置候选词上下翻页
-    - { when: has_menu, accept: equal, send: Page_Down }
-    - { accept: "Control+Shift+space", toggle: simplification, when: always }  #设置切换简繁快捷键
+    - {accept: minus, send: Page_Up, when: paging}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+space", toggle: simplification, when: always}
     - {accept: "Control+p", send: Up, when: composing}
     - {accept: "Control+n", send: Down, when: composing}
     - {accept: "Control+h", send: Left, when: composing}
@@ -24,3 +22,8 @@ patch:
     - {accept: "Control+g", send: Escape, when: composing}
     - {accept: "Control+k", send: Page_Up, when: composing}
     - {accept: "Control+j", send: Page_Down, when: composing}
+  "menu/page_size": 5
+  schema_list:
+    - {schema: luna_pinyin}
+  "switcher/hotkeys":
+    - "Control+grave"

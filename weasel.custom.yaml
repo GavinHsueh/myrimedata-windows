@@ -10,6 +10,8 @@ patch:
     ascii_mode: true
   "app_options/gvim.exe":
     ascii_mode: true
+  "app_options/vim.exe":
+    ascii_mode: true
   "style/color_scheme": aqua
   "style/display_tray_icon": false
   "style/font_face": "Microsoft YaHei"
