@@ -25,12 +25,12 @@ patch:
   "preset_color_schemes/ghcolor": 
     name: ghcolor
     author: GavinHsueh
-    back_color: 0xEDEDED
-    border_color: 0x303030
-    text_color: 0x000000
-    hilited_text_color: 0x000000
-    hilited_back_color: 0xE0E0E0
-    hilited_candidate_text_color: 0x170FFF
-    hilited_candidate_back_color: 0xC7C7C7
-    candidate_text_color: 0x000000
-    comment_text_color: 0xFFFFFF
+    back_color: 0x292929
+    border_color: 0x365EFF
+    text_color: 0x05FF9B
+    hilited_text_color: 0x05FF9B
+    hilited_back_color: 0x3F3D40
+    hilited_candidate_text_color: 0x3D5DFF
+    hilited_candidate_back_color: 0x383838
+    candidate_text_color: 0xE0E0E0
+    comment_text_color: 0xCFCFCF
